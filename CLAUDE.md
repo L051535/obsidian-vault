@@ -18,6 +18,7 @@ Work/
     Optimus/          — Optimus tool data working sessions
   AI Tools/           — Notes on internal AI tools (OFG/OFG, Steven's tool)
   Insights/           — Personal development and leadership notes
+  Technology Setup/   — Step-by-step configuration notes (SAP filters, tool setups)
 ```
 
 ## Key domain context
