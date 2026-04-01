@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Technology Setup/Git Push Pull.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Push Pull"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Technology Setup/Git Push Pull.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git Push Pull"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -212,9 +212,12 @@
   },
   "active": "6c7ff0812cc4d24b",
   "lastOpenFiles": [
+    "Work/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
+    "Work/Insights/Insights 2026.md",
+    "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
+    "Work/Technology Setup/Git Push Pull.md",
     "Work/Technology Setup/Everstream ZS163n Filters.md",
     "Pasted image 20260401095819.png",
-    "Work/Technology Setup/Git Push Pull.md",
     "CLAUDE.md",
     "Work/Supply Chain Resiliency/Theft/Asks for Rafael (Global Materials).md",
     "Work/Supply Chain Resiliency/Theft/Meeting Summary - Orfo Security Risk Huddle.md",
@@ -223,14 +226,11 @@
     "Work/Supply Chain Resiliency/Theft",
     "Work/Technology Setup",
     "obsidian.gitignore",
-    "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
     "Work/Supply Chain Resiliency/Riverlogic/Data Alignment Arturo Garcia.md",
     "Work/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",
-    "Work/Insights/Insights 2026.md",
     "Ideas",
     "Archive",
     "Welcome.md",
-    "Work/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
     "Work/Supply Chain Resiliency/Supplier of Focus",
     "Work/Supply Chain Resiliency/SCRM/SCRM Council – March.md",
     "Work/Supply Chain Resiliency/SCRM",

@@ -1,7 +1,7 @@
 {
   "styles": {
     "Work": {
-      "backgroundColor": "#0c1011",
+      "backgroundColor": "#0e1517",
       "textColor": "#88cb97",
       "applyToSubfolders": true,
       "applyToFiles": false
@@ -25,7 +25,7 @@
       "applyToFiles": false
     },
     "Archive": {
-      "backgroundColor": "#0c1011",
+      "backgroundColor": "#0e1517",
       "textColor": "#3a87fe",
       "applyToSubfolders": true,
       "applyToFiles": false
@@ -36,7 +36,7 @@
       "applyToSubfolders": true
     },
     "Ideas": {
-      "backgroundColor": "#0c1011",
+      "backgroundColor": "#0e1517",
       "textColor": "#ffae00",
       "applyToSubfolders": true,
       "applyToFiles": false
@@ -44,7 +44,7 @@
   },
   "presets": {
     "Default": {
-      "backgroundColor": "#0c1011",
+      "backgroundColor": "#0e1517",
       "textColor": "#3a87fe",
       "applyToSubfolders": true,
       "applyToFiles": false
