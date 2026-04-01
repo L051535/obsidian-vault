@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "2026-04-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "2026-04-01"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "2026-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLAUDE"
+              "title": "Backlinks for 2026-04-01"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Insights/Insights 2026.md",
+                "file": "2026-04-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Insights 2026"
+              "title": "Outline of 2026-04-01"
             }
           },
           {
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,17 +210,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6c7ff0812cc4d24b",
+  "active": "b038045bd1ad5a74",
   "lastOpenFiles": [
+    "Work/Technology Setup/Git Push Pull.md",
+    "2026-04-01.md",
+    "Work/Supply Chain Resiliency/Theft/Meeting Summary - Orfo Security Risk Huddle.md",
+    "Work/Supply Chain Resiliency/Theft/Asks for Rafael (Global Materials).md",
+    "CLAUDE.md",
     "Work/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
     "Work/Insights/Insights 2026.md",
     "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
-    "Work/Technology Setup/Git Push Pull.md",
     "Work/Technology Setup/Everstream ZS163n Filters.md",
     "Pasted image 20260401095819.png",
-    "CLAUDE.md",
-    "Work/Supply Chain Resiliency/Theft/Asks for Rafael (Global Materials).md",
-    "Work/Supply Chain Resiliency/Theft/Meeting Summary - Orfo Security Risk Huddle.md",
     "Pasted image 20260401095812.png",
     "Work/Supply Chain Resiliency/Theft/Untitled",
     "Work/Supply Chain Resiliency/Theft",
