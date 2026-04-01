@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Technology Setup/Everstream ZS163n Filters.md",
+                "file": "Work/Technology Setup/Git Push Pull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Everstream ZS163n Filters"
+              "title": "Git Push Pull"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Technology Setup/Everstream ZS163n Filters.md",
+                "file": "Work/Technology Setup/Git Push Pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Everstream ZS163n Filters"
+              "title": "Backlinks for Git Push Pull"
             }
           },
           {
@@ -210,10 +210,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6c7ff0812cc4d24b",
   "lastOpenFiles": [
-    "Pasted image 20260401095819.png",
     "Work/Technology Setup/Everstream ZS163n Filters.md",
+    "Pasted image 20260401095819.png",
     "Work/Technology Setup/Git Push Pull.md",
     "CLAUDE.md",
     "Work/Supply Chain Resiliency/Theft/Asks for Rafael (Global Materials).md",
