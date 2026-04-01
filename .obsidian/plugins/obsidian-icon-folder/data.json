@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar1",
       "LiLightbulb",
       "LiCookingPot",
       "LiBriefcase",
-      "LiGamepad2",
-      "LiArchiveRestore"
+      "LiGamepad2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,10 +43,7 @@
     "iconName": "LiShieldUser",
     "iconColor": "#e63b7a"
   },
-  "Daily Notes": {
-    "iconName": "LiCalendarRange",
-    "iconColor": "#52d6fc"
-  },
+  "Daily Notes": "LiCalendar1",
   "Archive": {
     "iconName": "LiArchiveRestore",
     "iconColor": "#158eff"
