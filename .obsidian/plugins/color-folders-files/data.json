@@ -1,0 +1,63 @@
+{
+  "styles": {
+    "Work": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#88cb97",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Tech Setups": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#d9ec37",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Private": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#e63b7a",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Daily Notes": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#52d6fc",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Archive": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#3a87fe",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Hobbies": {
+      "textColor": "#ffab01",
+      "backgroundColor": "#0c1011",
+      "applyToSubfolders": true
+    },
+    "Ideas": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#ffae00",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    }
+  },
+  "presets": {
+    "Default": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#3a87fe",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Border_Test": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#88cb97",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    }
+  },
+  "presetOrder": [
+    "Default",
+    "Border_Test"
+  ]
+}

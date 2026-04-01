@@ -1,0 +1,3 @@
+- Everstream under my control
+	- Brooke to oversee (post training)
+- Altana under Vivi's control

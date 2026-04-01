@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e24ed7f9d217cda0",
+    "type": "split",
+    "children": [
+      {
+        "id": "397747686ddab347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c7ff0812cc4d24b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7da380ffae02f2f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb7c94e9980ea098",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1356bafcfdfce6d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ff89bcd35cafcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e20a2119cad007b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLAUDE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CLAUDE"
+            }
+          },
+          {
+            "id": "12e1977d0ec1a4cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work/Insights/Insights 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Insights 2026"
+            }
+          },
+          {
+            "id": "b72a5eef22937cfe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3a0670538f94cd3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8938b4af804930c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/Insights/Insights 2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Insights 2026"
+            }
+          },
+          {
+            "id": "b038045bd1ad5a74",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
+    "CLAUDE.md",
+    "Work/Supply Chain Resiliency/Riverlogic/Data Alignment Arturo Garcia.md",
+    "Work/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",
+    "Work/Insights/Insights 2026.md",
+    "Ideas",
+    "Archive",
+    "Welcome.md",
+    "Work/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
+    "Work/Supply Chain Resiliency/Supplier of Focus",
+    "Work/Supply Chain Resiliency/SCRM/SCRM Council – March.md",
+    "Work/Supply Chain Resiliency/SCRM",
+    "Work/Supply Chain Resiliency/Riverlogic",
+    "Work/Supply Chain Resiliency/Optimus",
+    "Work/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md",
+    "Work/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
+    "Work/Supply Chain Resiliency/Everstream",
+    "Work/Supply Chain Resiliency",
+    "Work/Insights",
+    "Work/AI Tools"
+  ]
+}

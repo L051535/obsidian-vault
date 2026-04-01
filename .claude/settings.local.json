@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(obsidian vault=Eli Lilly Vault:*)",
+      "Bash(cmd:*)"
+    ]
+  }
+}

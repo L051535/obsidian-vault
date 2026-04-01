@@ -1,0 +1,14 @@
+{
+  "minimal-style@@base@@light": "#171414",
+  "minimal-style@@canvas-dot-pattern@@light": "#000000",
+  "minimal-style@@bg1@@light": "#000000",
+  "minimal-style@@bg2@@light": "#000000",
+  "minimal-style@@bg3@@light": "#000000",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Mobile@@card-layout-pad-open": false,
+  "Mobile@@drawer-phone-full-width": false,
+  "Editor@@bold-color@@dark": "#38A79C",
+  "Editor@@text-highlight-bg@@dark": "#04494C",
+  "Editor@@italic-color@@dark": "#38A79C",
+  "Editor@@inline-code-normal@@dark": "#51706E"
+}
