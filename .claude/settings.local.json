@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(obsidian vault=Eli Lilly Vault:*)",
-      "Bash(cmd:*)"
+      "Bash(cmd:*)",
+      "Bash(obsidian search:*)"
     ]
   }
 }
