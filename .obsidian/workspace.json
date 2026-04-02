@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -225,15 +225,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8d1a057a052ca4b",
+  "active": "05cd38f755846254",
   "lastOpenFiles": [
-    "Areas/Obsidian Dashboards/Home.md",
+    "Areas/Daily Notes/2026-04-02.md",
+    "Areas/Daily Notes/2026-04-01.md",
     "Resources/Templates/Default Template.md",
+    "Untitled.md",
+    "CLAUDE.md",
+    "Areas/Obsidian Dashboards/Home.md",
     "Areas/Personal Development/Insights 2026.md",
-    "2026-04-02.md",
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md.tmp.31276.1775103076759",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md.tmp.31276.1775103075703",
-    "Areas/Daily Notes/2026-04-01.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md.tmp.31276.1775103074637",
     "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md.tmp.31276.1775103073574",
@@ -245,7 +247,6 @@
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md.tmp.31276.1775103008125",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md.tmp.31276.1775103007039",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md.tmp.31276.1775103005952",
-    "Untitled.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md",
@@ -254,7 +255,6 @@
     "Untitled 1.md",
     "Areas/Daily Notes/2026-04-01 1.md",
     "Areas/Templates/2026-04-01 2.md",
-    "CLAUDE.md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
     "Projects/Supply Chain Resiliency/SCRM/SCRM Council – March.md",
     "Projects/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",

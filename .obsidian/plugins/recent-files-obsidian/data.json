@@ -5,12 +5,20 @@
       "path": "Areas/Daily Notes/2026-04-01.md"
     },
     {
-      "basename": "Home",
-      "path": "Areas/Obsidian Dashboards/Home.md"
+      "basename": "2026-04-02",
+      "path": "Areas/Daily Notes/2026-04-02.md"
     },
     {
       "basename": "Default Template",
       "path": "Resources/Templates/Default Template.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Areas/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Insights 2026",
@@ -51,10 +59,6 @@
     {
       "basename": "Everstream Changes for Arturo",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "Data Source Info",
