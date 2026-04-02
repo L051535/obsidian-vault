@@ -46,8 +46,11 @@ Ask one question: **does this meeting belong to a project with a deadline, or an
 
 **The practical test:** could this project *close*? If yes, it's a Project and the meeting note goes there. If the responsibility just continues indefinitely, it's an Area.
 
-Sources:
+
+## Sources:
 [[Building a Second Brain]]
 [[Tiago Forte]]
+## Related
+[[Note Taking Framework]]
 
 

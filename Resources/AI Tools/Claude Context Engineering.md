@@ -22,4 +22,7 @@ This note is related to [[Context Engineering]]
 		- Frameworks = Tools that break down complexity (Analysis)
 		- Creativity = Reassembly pieces into a new whole (Synthesis)
 		- Mastery = Knowing when to use what frameworks
-	
+
+
+## Related
+[[Note Taking Framework]]

@@ -76,3 +76,8 @@ The key discipline in Obsidian: resist the urge to organize by folder. Let links
 [[How to Take Smart Notes]]
 [[Sönke Ahrens]]
 [[Niklas Luhmann]]
+
+
+## Related
+
+[[Note Taking Framework]]

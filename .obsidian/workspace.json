@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "63542771211381c1",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d1a057a052ca4b",
+            "id": "a0cb6658a708ab2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
+                "file": "Resources/Notes Framework/Zettelkasten Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Everstream Views Development"
+              "title": "Zettelkasten Framework"
             }
           }
         ]
@@ -186,11 +186,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 759.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,44 +210,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8d1a057a052ca4b",
+  "active": "a0cb6658a708ab2e",
   "lastOpenFiles": [
+    "Resources/Notes Framework/PARA Framework.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
+    "Areas/Daily Notes/2026-04-02.md",
+    "Areas/Daily Notes/2026-04-03.md",
+    "Areas/Obsidian Dashboards/Home.md",
+    "Attachments/Inisghts_2026_Steven_Chen.pdf",
+    "Resources/AI Tools/Claude Context Engineering.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md",
+    "Resources/Technology Setup/Git Push Pull.md",
+    "Resources/Technology Setup/Everstream ZS163n Filters.md",
+    "Resources/Technology Setup/File Structure Read Issue Resolution.md",
+    "Resources/Notes Framework/Zettelkasten Framework.md",
+    "Resources/Notes Framework/My Note-Taking System.md",
+    "Building a Second Brain.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
     "Areas/Event Monitoring/Untitled.md",
     "Projects/Supply Chain Resiliency/SCRM/SCRM Council – March.md",
     "Areas/Event Monitoring/Untitled",
     "Areas/Event Monitoring",
     "Projects/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md",
-    "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
-    "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
-    "Resources/Notes Framework/My Note-Taking System.md",
-    "Resources/Notes Framework/PARA Framework.md",
     "Areas/Obsidian Vault Setup/Building Templates.md",
     "Areas/Obsidian Vault Setup/Claude Skills Utilization.md",
     "Areas/Daily Notes/2026-04-01.md",
     "Uploaded Files/Pasted image 20260402105023.png",
     "Uploaded Files",
-    "Attachments/Inisghts_2026_Steven_Chen.pdf",
     "Resources/Templates/Default Template.md",
-    "Resources/Notes Framework/Zettelkasten Framework.md",
-    "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
-    "Resources/AI Tools/Claude Context Engineering.md",
-    "Areas/R&S Weekly Huddles/Weekly Huddle April 2.md",
-    "Areas/R&S Weekly Huddles/Untitled.md",
     "Areas/R&S Weekly Huddles",
-    "How to Take Smart Notes.md",
-    "CLAUDE.md",
     "Resources/Notes Framework/My Note-Taking System.md.tmp.46832.1775110358220",
     "Resources/Notes Framework/My Note-Taking System.md.tmp.46832.1775110353732",
-    "Projects/App Dev/App Dev.md",
     "Projects/App Dev",
     "claude-workflow-backup-2026-04-02.json",
-    "Areas/Personal Development/Insights 2026.md",
     "CLAUDE.md.tmp.46832.1775107956801",
     "Untitled.canvas",
     "Untitled 1.canvas",

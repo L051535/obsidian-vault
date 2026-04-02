@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettelkasten Framework",
+      "path": "Resources/Notes Framework/Zettelkasten Framework.md"
+    },
+    {
+      "basename": "PARA Framework",
+      "path": "Resources/Notes Framework/PARA Framework.md"
+    },
+    {
+      "basename": "Meeting Summary - Orfo Security Risk Huddle",
+      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md"
+    },
+    {
+      "basename": "Foundayo Notes",
+      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md"
+    },
+    {
+      "basename": "Asks for Rafael (Global Materials)",
+      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md"
+    },
+    {
+      "basename": "2026-04-02",
+      "path": "Areas/Daily Notes/2026-04-02.md"
+    },
+    {
+      "basename": "2026-04-03",
+      "path": "Areas/Daily Notes/2026-04-03.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Areas/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "Inisghts_2026_Steven_Chen",
+      "path": "Attachments/Inisghts_2026_Steven_Chen.pdf"
+    },
+    {
+      "basename": "Claude Context Engineering",
+      "path": "Resources/AI Tools/Claude Context Engineering.md"
+    },
+    {
+      "basename": "Orfo Theft Security Assessment (Views Brainstorm)",
+      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md"
+    },
+    {
+      "basename": "Git Push Pull",
+      "path": "Resources/Technology Setup/Git Push Pull.md"
+    },
+    {
+      "basename": "Everstream ZS163n Filters",
+      "path": "Resources/Technology Setup/Everstream ZS163n Filters.md"
+    },
+    {
+      "basename": "File Structure Read Issue Resolution",
+      "path": "Resources/Technology Setup/File Structure Read Issue Resolution.md"
+    },
+    {
+      "basename": "My Note-Taking System",
+      "path": "Resources/Notes Framework/My Note-Taking System.md"
+    },
+    {
       "basename": "Everstream Views Development",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
+    },
+    {
+      "basename": "Everstream Changes for Arturo",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
     },
     {
       "basename": "Untitled",
@@ -21,36 +85,8 @@
       "path": "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md"
     },
     {
-      "basename": "Orfo Theft Security Assessment (Views Brainstorm)",
-      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md"
-    },
-    {
-      "basename": "Meeting Summary - Orfo Security Risk Huddle",
-      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md"
-    },
-    {
-      "basename": "Foundayo Notes",
-      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md"
-    },
-    {
-      "basename": "Everstream Changes for Arturo",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
-    },
-    {
       "basename": "Data Source Info",
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
-    },
-    {
-      "basename": "Asks for Rafael (Global Materials)",
-      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md"
-    },
-    {
-      "basename": "My Note-Taking System",
-      "path": "Resources/Notes Framework/My Note-Taking System.md"
-    },
-    {
-      "basename": "PARA Framework",
-      "path": "Resources/Notes Framework/PARA Framework.md"
     },
     {
       "basename": "Building Templates",
@@ -65,24 +101,12 @@
       "path": "Areas/Daily Notes/2026-04-01.md"
     },
     {
-      "basename": "Inisghts_2026_Steven_Chen",
-      "path": "Attachments/Inisghts_2026_Steven_Chen.pdf"
-    },
-    {
       "basename": "Default Template",
       "path": "Resources/Templates/Default Template.md"
     },
     {
-      "basename": "Zettelkasten Framework",
-      "path": "Resources/Notes Framework/Zettelkasten Framework.md"
-    },
-    {
       "basename": "AI-Connect OFG & Optimus Tool",
       "path": "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
-    },
-    {
-      "basename": "Claude Context Engineering",
-      "path": "Resources/AI Tools/Claude Context Engineering.md"
     },
     {
       "basename": "Weekly Huddle April 2",
@@ -95,26 +119,6 @@
     {
       "basename": "Insights 2026",
       "path": "Areas/Personal Development/Insights 2026.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Areas/Obsidian Dashboards/Home.md"
-    },
-    {
-      "basename": "File Structure Read Issue Resolution",
-      "path": "Resources/Technology Setup/File Structure Read Issue Resolution.md"
-    },
-    {
-      "basename": "2026-04-02",
-      "path": "Areas/Daily Notes/2026-04-02.md"
-    },
-    {
-      "basename": "Git Push Pull",
-      "path": "Resources/Technology Setup/Git Push Pull.md"
-    },
-    {
-      "basename": "Everstream ZS163n Filters",
-      "path": "Resources/Technology Setup/Everstream ZS163n Filters.md"
     },
     {
       "basename": "2026-03-27",

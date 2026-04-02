@@ -21,9 +21,12 @@ tags:
 
 **git push -u origin main**
 
-|Part|Meaning|
-|---|---|
-|`git push`|Upload your local commits to the remote|
-|`-u`|Short for `--set-upstream` — links your local `main` to `origin/main` so future pushes/pulls just need `git push` or `git pull` with no extra arguments|
-|`origin`|The remote to push to (GitHub)|
-|`main`|The branch you're pushing|
+| Part       | Meaning                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git push` | Upload your local commits to the remote                                                                                                                 |
+| `-u`       | Short for `--set-upstream` — links your local `main` to `origin/main` so future pushes/pulls just need `git push` or `git pull` with no extra arguments |
+| `origin`   | The remote to push to (GitHub)                                                                                                                          |
+| `main`     | The branch you're pushing                                                                                                                               |
+|            |                                                                                                                                                         |
+
+#topic/git

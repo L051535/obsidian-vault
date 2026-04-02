@@ -17,3 +17,7 @@ Both were set to `C:\Program Files\Git\bin\bash.exe` — the default install loc
 **Fix:** Updated both values in `~/.claude/settings.json` to the correct path, then restarted VS Code so the new env vars loaded.
 
 **Why it matters:** Without a working shell, the `obsidian-cli` commands can't run, meaning I can only read vault files with the `Read` tool and can't list folders — which is why empty folders were invisible to me.
+
+
+## Related:
+#claude #obsidian-setup

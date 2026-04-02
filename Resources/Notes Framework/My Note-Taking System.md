@@ -86,3 +86,4 @@ Your tracker answers *"what do I need to do?"* — your vault answers *"why are 
 [[PARA Framework]]
 [[Building a Second Brain]]
 [[Task Tracker]]
+[[Note Taking Framework]]
