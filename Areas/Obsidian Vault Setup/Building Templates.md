@@ -10,3 +10,4 @@ tags:
 - **Meeting Note** — date, attendees, key decisions, action items, links to project
 - **Literature Note** — source, main idea, your takeaway, link to Permanent Note created from it
 - **Permanent Note** — declarative title, single idea, links to related notes
+- **Project Context Note** - explains what the project is, key contacts, and links to related meeting notes.

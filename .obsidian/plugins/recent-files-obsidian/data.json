@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "My Note-Taking System",
+      "path": "Resources/Notes Framework/My Note-Taking System.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "PARA Framework",
+      "path": "Resources/Notes Framework/PARA Framework.md"
+    },
+    {
       "basename": "Building Templates",
       "path": "Areas/Obsidian Vault Setup/Building Templates.md"
     },
@@ -17,20 +29,8 @@
       "path": "Areas/Obsidian Dashboards/Home.md"
     },
     {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
       "basename": "Claude Context Engineering",
       "path": "Resources/AI Tools/Claude Context Engineering.md"
-    },
-    {
-      "basename": "My Note-Taking System",
-      "path": "Resources/Notes Framework/My Note-Taking System.md"
-    },
-    {
-      "basename": "PARA Framework",
-      "path": "Resources/Notes Framework/PARA Framework.md"
     },
     {
       "basename": "Zettelkasten Framework",
