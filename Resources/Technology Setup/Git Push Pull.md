@@ -1,6 +1,7 @@
 ---
-title: Git Push Pull
+date:
 type: reference
+status:
 tags:
   - type/reference
   - topic/git

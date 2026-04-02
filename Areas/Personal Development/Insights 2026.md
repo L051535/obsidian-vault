@@ -1,7 +1,7 @@
 ---
-title: Insights 2026
 type: personal
 date: 2026-03-26
+status:
 tags:
   - type/personal
   - "#insights-training"

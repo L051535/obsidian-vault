@@ -1,6 +1,7 @@
 ---
-title: Everstream ZS163n Filters
+date:
 type: reference
+status:
 tags:
   - type/reference
   - initiative/everstream

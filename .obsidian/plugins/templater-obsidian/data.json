@@ -1,13 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Areas/Templates",
+  "templates_folder": "Resources/Templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Resources/Templates",
+      "template": "Resources/Templates/Default Template.md"
     }
   ],
   "enable_file_templates": false,
@@ -29,10 +29,10 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Areas/Templates/Default Template.md"
+    "Resources/Templates/Default Template.md"
   ],
   "startup_templates": [
-    "Areas/Templates/Default Template.md"
+    "Resources/Templates/Default Template.md"
   ],
   "intellisense_render": 1
 }

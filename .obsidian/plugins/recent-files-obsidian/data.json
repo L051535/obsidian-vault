@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-01",
+      "path": "Areas/Daily Notes/2026-04-01.md"
+    },
+    {
       "basename": "Home",
       "path": "Areas/Obsidian Dashboards/Home.md"
     },
     {
+      "basename": "Default Template",
+      "path": "Resources/Templates/Default Template.md"
+    },
+    {
       "basename": "Insights 2026",
       "path": "Areas/Personal Development/Insights 2026.md"
+    },
+    {
+      "basename": "AI-Connect OFG & Optimus Tool",
+      "path": "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
+    },
+    {
+      "basename": "Git Push Pull",
+      "path": "Resources/Technology Setup/Git Push Pull.md"
+    },
+    {
+      "basename": "Everstream ZS163n Filters",
+      "path": "Resources/Technology Setup/Everstream ZS163n Filters.md"
     },
     {
       "basename": "Inisghts_2026_Steven_Chen",
@@ -33,18 +53,6 @@
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
     },
     {
-      "basename": "Default Template",
-      "path": "Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "AI-Connect OFG & Optimus Tool",
-      "path": "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
-    },
-    {
-      "basename": "2026-04-01",
-      "path": "Areas/Daily Notes/2026-04-01.md"
-    },
-    {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
     },
@@ -67,14 +75,6 @@
     {
       "basename": "PARA Framework",
       "path": "Resources/Notes Framework/PARA Framework.md"
-    },
-    {
-      "basename": "Everstream ZS163n Filters",
-      "path": "Resources/Technology Setup/Everstream ZS163n Filters.md"
-    },
-    {
-      "basename": "Git Push Pull",
-      "path": "Resources/Technology Setup/Git Push Pull.md"
     },
     {
       "basename": "2026-03-27",

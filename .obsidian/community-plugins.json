@@ -1,6 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
-  "templater-obsidian",
   "dataview",
   "obsidian-tasks-plugin",
   "table-editor-obsidian",
@@ -21,5 +20,6 @@
   "obsidian-git",
   "cmdr",
   "omnisearch",
-  "file-explorer-note-count"
+  "file-explorer-note-count",
+  "templater-obsidian"
 ]

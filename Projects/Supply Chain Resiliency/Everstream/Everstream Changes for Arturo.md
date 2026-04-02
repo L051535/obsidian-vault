@@ -1,7 +1,7 @@
 ---
-title: Everstream Changes for Arturo
 type: technical
 date: 2026-04-01
+status:
 tags:
   - type/technical
   - initiative/everstream

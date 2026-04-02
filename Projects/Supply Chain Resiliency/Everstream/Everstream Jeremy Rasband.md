@@ -1,6 +1,7 @@
 ---
-title: Everstream Jeremy Rasband
+date:
 type: reference
+status:
 tags:
   - type/reference
   - initiative/everstream

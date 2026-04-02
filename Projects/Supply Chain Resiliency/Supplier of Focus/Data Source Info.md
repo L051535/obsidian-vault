@@ -1,6 +1,7 @@
 ---
-title: Data Source Info
+date:
 type: reference
+status:
 tags:
   - type/reference
   - initiative/supplier-of-focus

@@ -1,6 +1,7 @@
 ---
-title: AI-Connect OFG & Optimus Tool
+date:
 type: meeting
+status:
 tags:
   - type/meeting
   - initiative/ai-tools

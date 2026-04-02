@@ -1,7 +1,7 @@
 ---
-title: Pablo Demand & Production Data Working Session
 type: meeting
 date: 2026-03-25
+status:
 tags:
   - type/meeting
   - initiative/optimus

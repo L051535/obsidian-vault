@@ -1,6 +1,7 @@
 ---
-title: Data Alignment Arturo Garcia
+date:
 type: action-items
+status:
 tags:
   - type/action-items
   - initiative/riverlogic
