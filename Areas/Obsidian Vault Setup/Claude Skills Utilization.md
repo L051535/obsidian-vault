@@ -16,4 +16,4 @@ Here's the summary of how each skill maps to your vault:
 |**json-canvas**|Visual maps — tool relationships, project landscapes, system diagrams|
 |**defuddle**|Pulling external articles/docs into Literature Notes cleanly|
 
-The most underutilized for your current vault are **obsidian-bases** (your `Home.md` dashboard is empty — a `.base` file could make it powerful) and **defuddle** (useful when capturing external research into Zettelkasten). Want to start with either of those?
+The most underutilized for your current vault are **obsidian-bases** (your `Home.md` dashboard is empty — a `.base` file could make it powerful) and **defuddle** (useful when capturing external research into Zettelkasten). 

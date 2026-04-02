@@ -8,7 +8,8 @@
       "Bash(obsidian read:*)",
       "Skill(update-config)",
       "Skill(update-config:*)",
-      "Bash(obsidian folders:*)"
+      "Bash(obsidian folders:*)",
+      "Bash(obsidian create:*)"
     ]
   },
   "enabledPlugins": {

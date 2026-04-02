@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md",
+                "file": "Resources/Notes Framework/PARA Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Skills Utilization"
+              "title": "PARA Framework"
             }
           }
         ],
@@ -227,9 +227,15 @@
   },
   "active": "c8d1a057a052ca4b",
   "lastOpenFiles": [
+    "Resources/Notes Framework/Zettelkasten Framework.md",
+    "Resources/Notes Framework/PARA Framework.md",
     "Areas/Obsidian Dashboards/Home.md",
-    "Untitled.canvas",
+    "2026-04-02.md",
+    "Untitled 1.canvas",
+    "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
+    "Resources/Notes Framework/My Note-Taking System.md",
     "Areas/Obsidian Vault Setup/Claude Skills Utilization.md",
+    "Untitled.canvas",
     "Areas/Obsidian Vault Setup",
     "Areas/Untitled.md",
     "Resources/Technology Setup/File Structure Read Issue Resolution.md",
@@ -242,7 +248,6 @@
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md.tmp.31276.1775103076759",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md.tmp.31276.1775103075703",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md.tmp.31276.1775103074637",
-    "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md.tmp.31276.1775103073574",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md.tmp.31276.1775103072515",
     "Resources/Technology Setup/Everstream ZS163n Filters.md.tmp.31276.1775103070371",
@@ -259,11 +264,6 @@
     "Untitled 1.md",
     "Areas/Daily Notes/2026-04-01 1.md",
     "Areas/Templates/2026-04-01 2.md",
-    "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
-    "Projects/Supply Chain Resiliency/SCRM/SCRM Council – March.md",
-    "Projects/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",
-    "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
-    "Untitled 1.canvas",
     "Pasted image 20260401095819.png",
     "Pasted image 20260401095812.png"
   ]
