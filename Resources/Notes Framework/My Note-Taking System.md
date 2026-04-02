@@ -23,6 +23,11 @@ Literature Notes/ ──► distill ──► Zettelkasten/Permanant Notes/  (ti
 Projects/ ──► on close ──► Archive/ + key insights ──► Permanant Notes/
 ```
 
+#### The habit loop to internalize:
+
+1. **Capture** → Inbox (fast, no friction)
+2. **File** → triage into Projects/ or Literature Notes within 24-48hrs
+3. **Distill** → when something is worth keeping long-term, pull the insight into a Permanent Note
 ## Where Things Live
 
 | Content                                     | Folder                           |

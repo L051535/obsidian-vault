@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Claude Context Engineering",
+      "path": "Resources/AI Tools/Claude Context Engineering.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "My Note-Taking System",
+      "path": "Resources/Notes Framework/My Note-Taking System.md"
+    },
+    {
       "basename": "Building Templates",
       "path": "Areas/Obsidian Vault Setup/Building Templates.md"
     },
     {
       "basename": "Claude Skills Utilization",
       "path": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md"
-    },
-    {
-      "basename": "My Note-Taking System",
-      "path": "Resources/Notes Framework/My Note-Taking System.md"
     },
     {
       "basename": "PARA Framework",
@@ -43,10 +51,6 @@
     {
       "basename": "Default Template",
       "path": "Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "Insights 2026",
