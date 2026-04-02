@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
+                "file": "Inbox/PARA Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Connect OFG & Optimus Tool"
+              "title": "PARA Framework"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
+                "file": "Inbox/PARA Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI-Connect OFG & Optimus Tool"
+              "title": "Backlinks for PARA Framework"
             }
           },
           {
@@ -152,6 +152,16 @@
             }
           },
           {
+            "id": "05cd38f755846254",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "b3a0670538f94cd3",
             "type": "leaf",
             "state": {
@@ -171,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
+                "file": "Inbox/PARA Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI-Connect OFG & Optimus Tool"
+              "title": "Outline of PARA Framework"
             }
           },
           {
@@ -189,23 +199,13 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "05cd38f755846254",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,41 +222,43 @@
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "c8d1a057a052ca4b",
   "lastOpenFiles": [
-    "Daily Notes/2026-04-01.md",
-    "Work/Insights/Insights 2026.md",
-    "Work/AI Tools/AI-Connect OFG & Optimus Tool.md",
-    "Work/Supply Chain Resiliency/Theft/Meeting Summary - Orfo Security Risk Huddle.md",
-    "Work/Supply Chain Resiliency/Theft/Asks for Rafael (Global Materials).md",
-    "Work/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
-    "Work/Supply Chain Resiliency/SCRM/SCRM Council – March.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
+    "Areas/Obsidian Dashboards/Home.md",
+    "Areas/Insights Training/Insights 2026.md",
+    "Areas/Daily Notes/2026-04-01.md",
+    "Areas/Daily Notes/2026-04-01 1.md",
+    "Areas/AI Tools/AI-Connect OFG & Optimus Tool.md",
+    "Inbox/PARA Framework.md",
+    "Areas/Technology Setup/Everstream ZS163n Filters.md",
+    "CLAUDE.md",
+    "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
+    "Uploaded Files",
+    "Areas/Obsidian Dashboards",
+    "Zettelkasten",
+    "Areas",
+    "Projects/Supply Chain Resiliency/Theft/Meeting Summary - Orfo Security Risk Huddle.md",
+    "Projects/Supply Chain Resiliency/Theft/Asks for Rafael (Global Materials).md",
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
+    "Projects/Supply Chain Resiliency/SCRM/SCRM Council – March.md",
     "Work/Supply Chain Resiliency/SCRM/SCRM Council – March.md.tmp.46836.1775078342498",
     "Work/Technology Setup/Everstream ZS163n Filters.md.tmp.46836.1775078340357",
-    "Work/Supply Chain Resiliency/Riverlogic/Data Alignment Arturo Garcia.md",
+    "Projects/Supply Chain Resiliency/Riverlogic/Data Alignment Arturo Garcia.md",
     "Work/Supply Chain Resiliency/Theft/Asks for Rafael (Global Materials).md.tmp.46836.1775078339314",
     "Work/Supply Chain Resiliency/Theft/Meeting Summary - Orfo Security Risk Huddle.md.tmp.46836.1775078338242",
     "Work/Technology Setup/Git Push Pull.md.tmp.46836.1775078337189",
-    "Work/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md",
-    "Work/Supply Chain Resiliency/Riverlogic/Data Alignment Arturo Garcia.md.tmp.46836.1775078336128",
-    "Work/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
-    "Work/Insights/Insights 2026.md.tmp.46836.1775078333993",
-    "Work/AI Tools/AI-Connect OFG & Optimus Tool.md.tmp.46836.1775078332909",
-    "Work/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md.tmp.46836.1775078331831",
-    "Work/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md.tmp.46836.1775078330747",
-    "Home.md",
-    "CLAUDE.md",
-    "2026-04-01.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Work/Technology Setup/Everstream ZS163n Filters.md",
-    "Work/Technology Setup/Git Push Pull.md",
+    "Areas/Technology Setup/Git Push Pull.md",
     "Pasted image 20260401095819.png",
     "Pasted image 20260401095812.png",
-    "Work/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",
+    "Projects/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",
     "Welcome.md"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCalendar1",
-      "LiLightbulb",
-      "LiCookingPot",
-      "LiBriefcase",
-      "LiGamepad2"
+      "LiHouse",
+      "LiSettings",
+      "LiUpload",
+      "LiSquareTerminal",
+      "LiChartBarBig"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Work": "LiBriefcase",
   "Tech Setups": {
     "iconName": "LiSettings",
     "iconColor": "#d9ec37"
@@ -43,12 +42,21 @@
     "iconName": "LiShieldUser",
     "iconColor": "#e63b7a"
   },
-  "Daily Notes": "LiCalendar1",
   "Archive": {
     "iconName": "LiArchiveRestore",
     "iconColor": "#158eff"
   },
   "Hobbies": "LiGamepad2",
   "Hobbies/Cooking": "LiCookingPot",
-  "Ideas": "LiLightbulb"
+  "Inbox": "LiInbox",
+  "Projects": "LiBriefcase",
+  "Areas": "LiSquareLibrary",
+  "Zettelkasten": "LiLayers",
+  "Areas/Daily Notes": "LiCalendar1",
+  "Areas/Obsidian Dashboards": "LiLayoutDashboard",
+  "Areas/Insights Training": "LiChartBarBig",
+  "Areas/AI Tools": "LiSquareTerminal",
+  "Uploaded Files": "LiUpload",
+  "Areas/Technology Setup": "LiSettings",
+  "Areas/Obsidian Dashboards/Home.md": "LiHouse"
 }

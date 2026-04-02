@@ -21,3 +21,5 @@ Key Insights for me:
 2. I’m dominant red normally/unconsciously
 3. Green can be improved if I want to be a leader.
 	- Conditioning as a leader being powerful where you can turn on the red when needed and utilize green and yellow more normally
+
+![[Inisghts_2026_Steven_Chen.pdf]]

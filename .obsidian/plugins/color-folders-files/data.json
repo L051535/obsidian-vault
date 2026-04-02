@@ -18,18 +18,6 @@
       "applyToSubfolders": true,
       "applyToFiles": false
     },
-    "Daily Notes": {
-      "backgroundColor": "#0c1011",
-      "textColor": "#52d6fc",
-      "applyToSubfolders": true,
-      "applyToFiles": false
-    },
-    "Archive": {
-      "backgroundColor": "#0e1517",
-      "textColor": "#3a87fe",
-      "applyToSubfolders": true,
-      "applyToFiles": false
-    },
     "Hobbies": {
       "textColor": "#ffab01",
       "backgroundColor": "#0c1011",
@@ -40,6 +28,30 @@
       "textColor": "#ffae00",
       "applyToSubfolders": true,
       "applyToFiles": false
+    },
+    "Areas": {
+      "textColor": "#ffc800"
+    },
+    "Archive": {
+      "textColor": "#3a87fe"
+    },
+    "Daily Notes": {
+      "textColor": "#52d6fc"
+    },
+    "Inbox": {
+      "textColor": "#00cc88"
+    },
+    "Projects": {
+      "textColor": "#c02148"
+    },
+    "Zettelkasten": {
+      "textColor": "#bbff00"
+    },
+    "Inbox/Daily Notes": {
+      "textColor": "#00bfff"
+    },
+    "Uploaded Files": {
+      "textColor": "#646c90"
     }
   },
   "presets": {

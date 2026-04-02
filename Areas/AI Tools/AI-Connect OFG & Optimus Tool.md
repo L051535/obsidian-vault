@@ -10,11 +10,11 @@ tags:
 # Purpose of the meeting
 
 - Align on how **AI tools and artifacts** are being built and used to support **strategic supply chain planning**, capacity visibility, and scenario analysis.
-- Share approaches between **Pablo’s OFD/OFG AI tool** and **Steven’s internal data + visualization tool**, and discuss how these may eventually align with **Kinaxis / River Logic / Maestro**.
+- Share approaches between **Pablo’s OFG AI tool** and **Steven’s internal data + visualization tool**, and discuss how these may eventually align with **Kinaxis / River Logic / Maestro**.
 
 ## Key topics & discussion
 
-### 1. Pablo’s OFD/OFG AI tool (strategic planning focus)
+### 1. Pablo’s OFG AI tool (strategic planning focus)
 
 - Built to capture **3+ years of institutional knowledge** and evolving assumptions (sites, nodes, volumes, markets, constraints).
 - Uses:
@@ -82,8 +82,3 @@ The group is converging on a **layered approach**:
 - AI artifacts → fast, explainable, strategic insight and storytelling.
 - Curated datasets → realistic throughput and constraints.
 - Enterprise tools → formal optimization and execution.
-
-If you want, I can also:
-
-- Pull out **action items by owner**
-- Create a **1‑page exec summary**
