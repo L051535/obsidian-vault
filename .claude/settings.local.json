@@ -4,7 +4,11 @@
       "Bash(obsidian vault=Eli Lilly Vault:*)",
       "Bash(cmd:*)",
       "Bash(obsidian search:*)",
-      "Bash(obsidian eval:*)"
+      "Bash(obsidian eval:*)",
+      "Bash(obsidian read:*)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(obsidian folders:*)"
     ]
   },
   "enabledPlugins": {
