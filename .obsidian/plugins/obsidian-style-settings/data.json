@@ -9,5 +9,6 @@
   "Mobile@@drawer-phone-full-width": false,
   "Editor@@bold-color@@dark": "#38A79C",
   "Editor@@italic-color@@dark": "#38A79C",
-  "Appearance-dark@@card-layout-open-dark": true
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@background-primary@@dark": "#0A0B0B"
 }

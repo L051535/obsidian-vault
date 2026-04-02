@@ -1,8 +1,11 @@
 ---
 date: 2026-04-02
 status:
-type:
+type: reference
 tags:
+  - initiative/orfo-security
+  - SC-Resiliency-Sustainability
+  - logistics
 ---
 1. Site
 2. Type (Trucking, Parcel, Lilly Direct, Parcel Service, Patient, etc.)

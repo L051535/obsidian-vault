@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScanEye",
       "LiRadar",
       "LiAsteriskSquare",
       "LiVault",
-      "LiScanText",
-      "LiCircleFadingArrowUp"
+      "LiScanText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,6 @@
   "Areas/Obsidian Vault Setup": "LiVault",
   "Attachments": "LiUpload",
   "CLAUDE.md": "LiAsteriskSquare",
-  "Areas/R&S Weekly Huddles": "LiRadar"
+  "Areas/R&S Weekly Huddles": "LiRadar",
+  "Areas/Event Monitoring": "LiScanEye"
 }
