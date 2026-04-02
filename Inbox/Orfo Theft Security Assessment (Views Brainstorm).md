@@ -22,3 +22,11 @@ TSR/FSR (Transportation Security Requirements, Facility Security Requirements)
 ## [[Products in Patient Assistance Program]]
 
 ![[Pasted image 20260402105023.png]]
+
+
+## Priority Launch Order:
+UK
+Germany 
+France
+Spain 
+Italy
