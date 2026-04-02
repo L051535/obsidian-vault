@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Areas/Obsidian Vault Setup/Building Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Building Templates"
             }
           }
         ]
@@ -212,16 +212,20 @@
   },
   "active": "c8d1a057a052ca4b",
   "lastOpenFiles": [
-    "Resources/AI Tools/Claude Context Engineering.md",
+    "Projects/App Dev/App Dev.md",
+    "Areas/Obsidian Vault Setup/Building Templates.md",
+    "Projects/App Dev",
+    "claude-workflow-backup-2026-04-02.json",
+    "Areas/Obsidian Vault Setup/Claude Skills Utilization.md",
+    "Areas/Personal Development/Insights 2026.md",
+    "Areas/Obsidian Dashboards/Home.md",
     "CLAUDE.md",
+    "Resources/AI Tools/Claude Context Engineering.md",
     "Resources/Notes Framework/My Note-Taking System.md",
     "CLAUDE.md.tmp.46832.1775107956801",
-    "Areas/Obsidian Vault Setup/Building Templates.md",
-    "Areas/Obsidian Vault Setup/Claude Skills Utilization.md",
     "Resources/Notes Framework/PARA Framework.md",
     "Untitled.canvas",
     "Resources/Notes Framework/Zettelkasten Framework.md",
-    "Areas/Obsidian Dashboards/Home.md",
     "2026-04-02.md",
     "Untitled 1.canvas",
     "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
@@ -232,24 +236,20 @@
     "Areas/Daily Notes/2026-04-02.md",
     "Resources/Templates/Default Template.md",
     "Untitled.md",
-    "Areas/Personal Development/Insights 2026.md",
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md.tmp.31276.1775103076759",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md.tmp.31276.1775103075703",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md.tmp.31276.1775103074637",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md.tmp.31276.1775103073574",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md.tmp.31276.1775103072515",
     "Resources/Technology Setup/Everstream ZS163n Filters.md.tmp.31276.1775103070371",
-    "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md.tmp.31276.1775103069266",
     "Resources/Technology Setup/Git Push Pull.md",
     "Resources/Technology Setup/Everstream ZS163n Filters.md",
-    "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md.tmp.31276.1775103008125",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
     "Untitled 1.md",
-    "Areas/Daily Notes/2026-04-01 1.md",
     "Pasted image 20260401095819.png",
     "Pasted image 20260401095812.png"
   ]

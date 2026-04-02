@@ -10,7 +10,9 @@
       "Skill(update-config:*)",
       "Bash(obsidian folders:*)",
       "Bash(obsidian create:*)",
-      "Bash(obsidian append:*)"
+      "Bash(obsidian append:*)",
+      "Bash(python3 -c ':*)",
+      "Bash(node -e ':*)"
     ]
   },
   "enabledPlugins": {

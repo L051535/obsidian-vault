@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Building Templates",
+      "path": "Areas/Obsidian Vault Setup/Building Templates.md"
+    },
+    {
+      "basename": "Claude Skills Utilization",
+      "path": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md"
+    },
+    {
+      "basename": "Insights 2026",
+      "path": "Areas/Personal Development/Insights 2026.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Areas/Obsidian Dashboards/Home.md"
+    },
+    {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
     },
@@ -13,24 +29,12 @@
       "path": "Resources/Notes Framework/My Note-Taking System.md"
     },
     {
-      "basename": "Building Templates",
-      "path": "Areas/Obsidian Vault Setup/Building Templates.md"
-    },
-    {
-      "basename": "Claude Skills Utilization",
-      "path": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md"
-    },
-    {
       "basename": "PARA Framework",
       "path": "Resources/Notes Framework/PARA Framework.md"
     },
     {
       "basename": "Zettelkasten Framework",
       "path": "Resources/Notes Framework/Zettelkasten Framework.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Areas/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "AI-Connect OFG & Optimus Tool",
@@ -51,10 +55,6 @@
     {
       "basename": "Default Template",
       "path": "Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "Insights 2026",
-      "path": "Areas/Personal Development/Insights 2026.md"
     },
     {
       "basename": "Git Push Pull",

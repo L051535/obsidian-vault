@@ -73,6 +73,10 @@
     },
     "Attachments": {
       "textColor": "#535c88"
+    },
+    "CLAUDE.md": {
+      "textColor": "#f08205",
+      "opacity": 1
     }
   },
   "presets": {
