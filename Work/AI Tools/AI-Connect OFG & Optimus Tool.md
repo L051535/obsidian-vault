@@ -1,3 +1,12 @@
+---
+title: AI-Connect OFG & Optimus Tool
+type: meeting
+tags:
+  - type/meeting
+  - initiative/ai-tools
+  - initiative/optimus
+---
+
 # Purpose of the meeting
 
 - Align on how **AI tools and artifacts** are being built and used to support **strategic supply chain planning**, capacity visibility, and scenario analysis.

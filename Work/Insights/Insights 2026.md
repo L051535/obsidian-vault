@@ -1,3 +1,11 @@
+---
+title: Insights 2026
+type: personal
+date: 2026-03-26
+tags:
+  - type/personal
+---
+
 Date: 3/26/2026
 
 Who do we feel like we should connect more with?

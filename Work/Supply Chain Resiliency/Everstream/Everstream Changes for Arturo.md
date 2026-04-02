@@ -1,3 +1,11 @@
+---
+title: Everstream Changes for Arturo
+type: technical
+date: 2026-04-01
+tags:
+  - type/technical
+  - initiative/everstream
+---
 
 # Main Manual Changes Implemented
 1) Using the RAW SAP Export of ZS163n instead of the SHARP database data

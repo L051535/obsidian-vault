@@ -1,3 +1,10 @@
+---
+title: Git Push Pull
+type: reference
+tags:
+  - type/reference
+  - topic/git
+---
 
 **git pull origin main --allow-unrelated-histories**
 

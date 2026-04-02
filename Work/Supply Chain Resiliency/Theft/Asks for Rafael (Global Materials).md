@@ -1,3 +1,11 @@
+---
+title: Asks for Rafael (Global Materials)
+type: action-items
+tags:
+  - type/action-items
+  - initiative/orfo-security
+---
+
 ## What we need from Rafael about Orfo external packaging suppliers
 
 ### 1. **Who owns printed packaging & labeling for Orfo**

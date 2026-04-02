@@ -1,3 +1,11 @@
+---
+title: Data Source Info
+type: reference
+tags:
+  - type/reference
+  - initiative/supplier-of-focus
+---
+
 Raw Data - ZS163n from SAP No Filters
 Geo-political Risk Score by Country -
 	1) ICRG - International Country Risk Guide - Consolidated view from independent body that *corporate finance gets a report from* 

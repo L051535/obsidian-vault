@@ -1,3 +1,11 @@
+---
+title: Meeting Summary - Orfo Security Risk Huddle
+type: meeting
+tags:
+  - type/meeting
+  - initiative/orfo-security
+---
+
 ### Purpose
 
 The team reviewed **theft and security risk across the Orforglipron (Orfo) supply chain**, focusing on **transportation, third-party partners, and air vs. road movements**, to support an upcoming risk assessment discussion with leadership.
