@@ -4,6 +4,7 @@ type: meeting
 tags:
   - type/meeting
   - initiative/orfo-security
+  - SC-Resiliency-Sustainability
 ---
 
 ### Purpose

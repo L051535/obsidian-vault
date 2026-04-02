@@ -4,6 +4,7 @@ type: reference
 tags:
   - type/reference
   - initiative/everstream
+  - SC-Resiliency-Sustainability
 ---
 
 - Everstream under my control

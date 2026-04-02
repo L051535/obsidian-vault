@@ -1,0 +1,6 @@
+---
+title:
+date:
+type:
+tags:
+---

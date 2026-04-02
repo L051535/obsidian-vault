@@ -4,6 +4,7 @@ type: reference
 tags:
   - type/reference
   - initiative/supplier-of-focus
+  - SC-Resiliency-Sustainability
 ---
 
 Raw Data - ZS163n from SAP No Filters

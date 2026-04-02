@@ -52,6 +52,24 @@
     },
     "Uploaded Files": {
       "textColor": "#646c90"
+    },
+    "Projects/Supply Chain Resiliency/Everstream": {
+      "textColor": "#ffbb00"
+    },
+    "Projects/Supply Chain Resiliency/Optimus": {
+      "textColor": "#3ed714"
+    },
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk": {
+      "textColor": "#386b85"
+    },
+    "Projects/Supply Chain Resiliency/SCRM": {
+      "textColor": "#c01111"
+    },
+    "Projects/Supply Chain Resiliency/Supplier of Focus": {
+      "textColor": "#c4176b"
+    },
+    "Resources": {
+      "textColor": "#5f5cff"
     }
   },
   "presets": {

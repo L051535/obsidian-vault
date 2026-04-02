@@ -4,6 +4,7 @@ type: personal
 date: 2026-03-26
 tags:
   - type/personal
+  - "#insights-training"
 ---
 
 Date: 3/26/2026

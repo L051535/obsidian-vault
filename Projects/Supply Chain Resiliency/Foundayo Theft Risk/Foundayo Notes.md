@@ -1,0 +1,3 @@
+- Molecule Name: Orforgliporon
+- Alias: Orfo, Ofg
+- Approval Date: 4/1/2026

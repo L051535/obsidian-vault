@@ -4,6 +4,7 @@ type: action-items
 tags:
   - type/action-items
   - initiative/orfo-security
+  - SC-Resiliency-Sustainability
 ---
 
 ## What we need from Rafael about Orfo external packaging suppliers

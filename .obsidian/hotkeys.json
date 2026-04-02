@@ -1,0 +1,11 @@
+{
+  "file-explorer:new-file": [],
+  "templater-obsidian:create-Areas/Templates/Default Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

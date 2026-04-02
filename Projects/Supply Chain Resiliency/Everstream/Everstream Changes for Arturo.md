@@ -5,7 +5,7 @@ date: 2026-04-01
 tags:
   - type/technical
   - initiative/everstream
-  - "#SC-Resiliency-Sustainability"
+  - SC-Resiliency-Sustainability
 ---
 
 # Main Manual Changes Implemented

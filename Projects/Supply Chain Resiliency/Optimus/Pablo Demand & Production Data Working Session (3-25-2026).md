@@ -5,6 +5,7 @@ date: 2026-03-25
 tags:
   - type/meeting
   - initiative/optimus
+  - SC-Resiliency-Sustainability
 ---
 
 - Demand does not have splits by strengths or counts at the moment (they are aggregated)

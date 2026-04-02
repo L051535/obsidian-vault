@@ -4,6 +4,7 @@ type: action-items
 tags:
   - type/action-items
   - initiative/riverlogic
+  - SC-Resiliency-Sustainability
 ---
 
 - Need to meet with Arturo on data to include/exclude

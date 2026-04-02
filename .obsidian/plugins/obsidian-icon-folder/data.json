@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHouse",
-      "LiSettings",
-      "LiUpload",
-      "LiSquareTerminal",
-      "LiChartBarBig"
+      "LiCircleFadingArrowUp",
+      "LiPencilLine",
+      "LiLibrarySquare",
+      "LiAlignCenter",
+      "LiHouse"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,13 +50,15 @@
   "Hobbies/Cooking": "LiCookingPot",
   "Inbox": "LiInbox",
   "Projects": "LiBriefcase",
-  "Areas": "LiSquareLibrary",
+  "Areas": "LiPencilLine",
   "Zettelkasten": "LiLayers",
   "Areas/Daily Notes": "LiCalendar1",
   "Areas/Obsidian Dashboards": "LiLayoutDashboard",
-  "Areas/Insights Training": "LiChartBarBig",
   "Areas/AI Tools": "LiSquareTerminal",
   "Uploaded Files": "LiUpload",
-  "Areas/Technology Setup": "LiSettings",
-  "Areas/Obsidian Dashboards/Home.md": "LiHouse"
+  "Areas/Obsidian Dashboards/Home.md": "LiHouse",
+  "Resources": "LiLibrarySquare",
+  "Resources/Technology Setup": "LiSettings",
+  "Resources/Templates": "LiAlignCenter",
+  "Resources/Personal Development": "LiCircleFadingArrowUp"
 }
