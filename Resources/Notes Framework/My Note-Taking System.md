@@ -29,7 +29,7 @@ Projects/ ──► on close ──► Archive/ + key insights ──► Permana
 | ------------------------------------------- | -------------------------------- |
 | Brain dumps, quick captures                 | `Inbox/`                         |
 | Active project work, meeting notes          | `Projects/`                      |
-| Ongoing responsibilities (no deadline)      | '`Areas/`'                       |
+| Ongoing responsibilities (no deadline)      | `Areas/`                         |
 | Articles, vendor docs, source material      | `Zettelkasten/Literature Notes/` |
 | Concepts and insights that outlive projects | `Zettelkasten/Permanant Notes/`  |
 | Setup guides, templates, methodology        | `Resources/`                     |

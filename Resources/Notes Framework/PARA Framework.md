@@ -37,8 +37,17 @@ The PARA framework was developed by productivity expert **Tiago Forte**
 
 The PARA framework is a simple yet powerful method to organize your life and work, making it easier for you to focus, retrieve information, and achieve your goals.
 
+## Where to Put Meeting Notes
 
+Ask one question: **does this meeting belong to a project with a deadline, or an ongoing responsibility?**
+
+- Meeting tied to an active initiative with a goal and end state → **Projects/**
+- Recurring meeting with no end date (1:1s, team standups, personal development) → **Areas/**
+
+**The practical test:** could this project *close*? If yes, it's a Project and the meeting note goes there. If the responsibility just continues indefinitely, it's an Area.
 
 Sources:
 [[Building a Second Brain]]
 [[Tiago Forte]]
+
+

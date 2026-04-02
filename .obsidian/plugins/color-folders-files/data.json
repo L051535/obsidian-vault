@@ -70,6 +70,9 @@
     },
     "Resources": {
       "textColor": "#5f5cff"
+    },
+    "Attachments": {
+      "textColor": "#535c88"
     }
   },
   "presets": {

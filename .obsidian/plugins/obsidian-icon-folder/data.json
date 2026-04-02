@@ -54,7 +54,6 @@
   "Zettelkasten": "LiLayers",
   "Areas/Daily Notes": "LiCalendar1",
   "Areas/Obsidian Dashboards": "LiLayoutDashboard",
-  "Uploaded Files": "LiUpload",
   "Areas/Obsidian Dashboards/Home.md": "LiHouse",
   "Resources": "LiLibrarySquare",
   "Resources/Technology Setup": "LiSettings",
@@ -62,5 +61,6 @@
   "Resources/AI Tools": "LiSquareTerminal",
   "Resources/Notes Framework": "LiScanText",
   "Areas/Personal Development": "LiCircleFadingArrowUp",
-  "Areas/Obsidian Vault Setup": "LiVault"
+  "Areas/Obsidian Vault Setup": "LiVault",
+  "Attachments": "LiUpload"
 }

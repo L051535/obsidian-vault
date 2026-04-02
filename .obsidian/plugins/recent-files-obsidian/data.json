@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Building Templates",
+      "path": "Areas/Obsidian Vault Setup/Building Templates.md"
+    },
+    {
+      "basename": "Claude Skills Utilization",
+      "path": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md"
+    },
+    {
+      "basename": "My Note-Taking System",
+      "path": "Resources/Notes Framework/My Note-Taking System.md"
+    },
+    {
       "basename": "PARA Framework",
       "path": "Resources/Notes Framework/PARA Framework.md"
     },
@@ -13,28 +25,8 @@
       "path": "Areas/Obsidian Dashboards/Home.md"
     },
     {
-      "basename": "2026-04-02",
-      "path": "2026-04-02.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.canvas"
-    },
-    {
       "basename": "AI-Connect OFG & Optimus Tool",
       "path": "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
-    },
-    {
-      "basename": "My Note-Taking System",
-      "path": "Resources/Notes Framework/My Note-Taking System.md"
-    },
-    {
-      "basename": "Claude Skills Utilization",
-      "path": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     },
     {
       "basename": "File Structure Read Issue Resolution",
@@ -70,7 +62,7 @@
     },
     {
       "basename": "Inisghts_2026_Steven_Chen",
-      "path": "Uploaded Files/Inisghts_2026_Steven_Chen.pdf"
+      "path": "Attachments/Inisghts_2026_Steven_Chen.pdf"
     },
     {
       "basename": "Meeting Summary - Orfo Security Risk Huddle",
