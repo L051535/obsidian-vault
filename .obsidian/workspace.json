@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Personal Development/Insights 2026.md",
+                "file": "Areas/Personal Development/Insights 2026.md",
                 "mode": "source",
                 "source": false
               },
@@ -225,10 +225,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8d1a057a052ca4b",
+  "active": "6c7ff0812cc4d24b",
   "lastOpenFiles": [
+    "Resources/Notes Framework",
     "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
-    "Resources/Personal Development",
+    "Areas/Personal Development",
     "Resources",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
@@ -240,7 +241,7 @@
     "Resources/Templates/Default Template.md",
     "Areas/Daily Notes/2026-04-01 1.md",
     "Areas/Templates/2026-04-01 2.md",
-    "Areas/AI Tools/AI-Connect OFG & Optimus Tool.md",
+    "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
     "Areas/Daily Notes/2026-04-01.md",
     "CLAUDE.md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
@@ -252,13 +253,12 @@
     "Zettelkasten/Untitled",
     "Zettelkasten/Permanant Notes",
     "Zettelkasten/Literature Notes",
-    "Inbox/PARA Framework.md",
-    "Resources/Personal Development/Insights 2026.md",
+    "Resources/Notes Framework/PARA Framework.md",
+    "Areas/Personal Development/Insights 2026.md",
     "Resources/Technology Setup/Everstream ZS163n Filters.md",
     "Uploaded Files",
     "Areas/Obsidian Dashboards",
     "Zettelkasten",
-    "Areas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Resources/Technology Setup/Git Push Pull.md",
