@@ -1,13 +1,20 @@
 {
-	"version": "4.4.0",
-	"homepage": "Home",
-	"homepageType": "File",
-	"openOnStartup": true,
-	"openMode": "Replace current tab",
-	"manualOpenMode": "Replace current tab",
-	"refreshDataview": true,
-	"autoCreate": false,
-	"autoScroll": false,
-	"pin": false,
-	"commands": []
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "version": "4.4.0",
+      "homepage": "Home",
+      "homepageType": "File",
+      "openOnStartup": true,
+      "openMode": "Replace current tab",
+      "manualOpenMode": "Replace current tab",
+      "refreshDataview": true,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [],
+      "kind": "File"
+    }
+  },
+  "separateMobile": false
 }

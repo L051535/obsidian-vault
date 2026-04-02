@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/PARA Framework.md",
+                "file": "Areas/Obsidian Dashboards/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PARA Framework"
+              "title": "Home"
             }
           }
         ],
@@ -222,12 +222,12 @@
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "c8d1a057a052ca4b",
   "lastOpenFiles": [
+    "Inbox/PARA Framework.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Jeremy Rasband.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
     "Areas/Obsidian Dashboards/Home.md",
@@ -235,7 +235,6 @@
     "Areas/Daily Notes/2026-04-01.md",
     "Areas/Daily Notes/2026-04-01 1.md",
     "Areas/AI Tools/AI-Connect OFG & Optimus Tool.md",
-    "Inbox/PARA Framework.md",
     "Areas/Technology Setup/Everstream ZS163n Filters.md",
     "CLAUDE.md",
     "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
