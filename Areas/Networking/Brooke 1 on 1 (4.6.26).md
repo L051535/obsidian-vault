@@ -18,4 +18,5 @@ tags:
 - Everstream risk scoring asking leaders and verifying what gaps we have and filling them
 - Mentioning to lead team members scope, who we need to give access on the team so they can be trained (SCRM Council)
 - Communication person for Everstream to give visibility to me
-- 
+- Supplier of Focus.
+- Need to clarify with Brooke what to 
