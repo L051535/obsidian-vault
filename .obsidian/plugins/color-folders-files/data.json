@@ -29,12 +29,6 @@
       "applyToSubfolders": true,
       "applyToFiles": false
     },
-    "Areas": {
-      "textColor": "#ffc800"
-    },
-    "Archive": {
-      "textColor": "#3a87fe"
-    },
     "Daily Notes": {
       "textColor": "#52d6fc"
     },
@@ -51,7 +45,7 @@
       "textColor": "#00bfff"
     },
     "Uploaded Files": {
-      "textColor": "#646c90"
+      "textColor": "#889aec"
     },
     "Projects/Supply Chain Resiliency/Everstream": {
       "textColor": "#ffbb00"
@@ -71,12 +65,18 @@
     "Resources": {
       "textColor": "#5f5cff"
     },
-    "Attachments": {
-      "textColor": "#535c88"
-    },
     "CLAUDE.md": {
       "textColor": "#f08205",
       "opacity": 1
+    },
+    "Archive": {
+      "textColor": "#3a87fe"
+    },
+    "Areas": {
+      "textColor": "#ffc800"
+    },
+    "Excalidraw": {
+      "textColor": "#589fca"
     }
   },
   "presets": {

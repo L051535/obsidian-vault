@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "orfo",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -8,15 +8,15 @@
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.08255208333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.497395833333333,
-  "repelStrength": 14.3229166666667,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8873778729147823,
-  "close": true
+  "centerStrength": 0.419270833333333,
+  "repelStrength": 7.86458333333333,
+  "linkStrength": 0.6484375,
+  "linkDistance": 30,
+  "scale": 0.8873778729147795,
+  "close": false
 }

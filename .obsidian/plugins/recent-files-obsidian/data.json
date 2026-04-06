@@ -1,28 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Data Source Info",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
+      "basename": "Brooke 1 on 1 (4.6.26)",
+      "path": "Areas/Networking/Brooke 1 on 1 (4.6.26).md"
     },
     {
-      "basename": "New Supplier Criticality Approach",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
+      "basename": "Orfo Theft Security Assessment (Views Brainstorm)",
+      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md"
     },
     {
       "basename": "Footprint Score Methodology",
       "path": "Inbox/Footprint Score Methodology.md"
     },
     {
+      "basename": "Everstream Claude Project",
+      "path": "Inbox/Everstream Claude Project.md"
+    },
+    {
       "basename": "How ZS163n Criticality works",
       "path": "Resources/Data Table Notes/How ZS163n Criticality works.md"
+    },
+    {
+      "basename": "Everstream ZS163n Filters",
+      "path": "Resources/Technology Setup/Everstream ZS163n Filters.md"
+    },
+    {
+      "basename": "File Structure Read Issue Resolution",
+      "path": "Resources/Technology Setup/File Structure Read Issue Resolution.md"
+    },
+    {
+      "basename": "Zettelkasten Framework",
+      "path": "Resources/Notes Framework/Zettelkasten Framework.md"
+    },
+    {
+      "basename": "PARA Framework",
+      "path": "Resources/Notes Framework/PARA Framework.md"
+    },
+    {
+      "basename": "My Note-Taking System",
+      "path": "Resources/Notes Framework/My Note-Taking System.md"
+    },
+    {
+      "basename": "Claude Context Engineering",
+      "path": "Resources/AI Tools/Claude Context Engineering.md"
+    },
+    {
+      "basename": "AI-Connect OFG & Optimus Tool",
+      "path": "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "Inisghts_2026_Steven_Chen",
+      "path": "Uploaded Files/Inisghts_2026_Steven_Chen.pdf"
+    },
+    {
+      "basename": "Pasted image 20260402105023",
+      "path": "Uploaded Files/Pasted image 20260402105023.png"
+    },
+    {
+      "basename": "2026-04-01",
+      "path": "Areas/Daily Notes/2026-04-01.md"
     },
     {
       "basename": "ZS163n Criticality Diagrams 2026-04-06.excalidraw",
       "path": "Excalidraw/ZS163n Criticality Diagrams 2026-04-06.excalidraw.md"
     },
     {
-      "basename": "Brooke 1 on 1",
-      "path": "Inbox/Brooke 1 on 1.md"
+      "basename": "Default Template",
+      "path": "Resources/Templates/Default Template.md"
+    },
+    {
+      "basename": "Data Source Info",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
+    },
+    {
+      "basename": "New Supplier Criticality Approach",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
     },
     {
       "basename": "Everstream Views Development",
@@ -37,10 +93,6 @@
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
     },
     {
-      "basename": "Everstream Claude Project",
-      "path": "Inbox/Everstream Claude Project.md"
-    },
-    {
       "basename": "Meeting Summary – US Orfo Theft Risk (with Noemi)",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary – US Orfo Theft Risk (with Noemi).md"
     },
@@ -51,18 +103,6 @@
     {
       "basename": "Foundayo Notes",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Zettelkasten Framework",
-      "path": "Resources/Notes Framework/Zettelkasten Framework.md"
-    },
-    {
-      "basename": "PARA Framework",
-      "path": "Resources/Notes Framework/PARA Framework.md"
     },
     {
       "basename": "Asks for Rafael (Global Materials)",
@@ -81,32 +121,8 @@
       "path": "Areas/Obsidian Dashboards/Home.md"
     },
     {
-      "basename": "Inisghts_2026_Steven_Chen",
-      "path": "Attachments/Inisghts_2026_Steven_Chen.pdf"
-    },
-    {
-      "basename": "Claude Context Engineering",
-      "path": "Resources/AI Tools/Claude Context Engineering.md"
-    },
-    {
-      "basename": "Orfo Theft Security Assessment (Views Brainstorm)",
-      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md"
-    },
-    {
       "basename": "Git Push Pull",
       "path": "Resources/Technology Setup/Git Push Pull.md"
-    },
-    {
-      "basename": "Everstream ZS163n Filters",
-      "path": "Resources/Technology Setup/Everstream ZS163n Filters.md"
-    },
-    {
-      "basename": "File Structure Read Issue Resolution",
-      "path": "Resources/Technology Setup/File Structure Read Issue Resolution.md"
-    },
-    {
-      "basename": "My Note-Taking System",
-      "path": "Resources/Notes Framework/My Note-Taking System.md"
     },
     {
       "basename": "Untitled",
@@ -114,7 +130,7 @@
     },
     {
       "basename": "SCRM Council – March",
-      "path": "Projects/Supply Chain Resiliency/SCRM/SCRM Council – March.md"
+      "path": "Areas/SCRM/SCRM Council – March.md"
     },
     {
       "basename": "Pablo Demand & Production Data Working Session (3-25-2026)",
@@ -131,18 +147,6 @@
     {
       "basename": "Claude Skills Utilization",
       "path": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md"
-    },
-    {
-      "basename": "2026-04-01",
-      "path": "Areas/Daily Notes/2026-04-01.md"
-    },
-    {
-      "basename": "Default Template",
-      "path": "Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "AI-Connect OFG & Optimus Tool",
-      "path": "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
     },
     {
       "basename": "Weekly Huddle April 2",

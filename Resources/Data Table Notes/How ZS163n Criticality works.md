@@ -24,7 +24,7 @@ It answers: _"How critical is this vendor to this specific plant?"_ If a vendo
 
 ---
 
-### Vendor Criticality
+### Vendor Criticality (RawDataEx-INAC-PCodeJ:J)
 
 **Scope:** One MP Vendor (global) **Rule:** **max(Plant Criticality)** across all plants that MP Vendor supplies
 
