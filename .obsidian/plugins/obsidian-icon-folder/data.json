@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLibrarySquare",
       "LiNetwork",
       "LiUpload",
       "LiPaintbrush",
-      "LiExcalidrawIcon",
-      "LiAlertTriangle"
+      "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,15 +53,12 @@
   "Areas": "LiPencilLine",
   "Zettelkasten": "LiLayers",
   "Areas/Daily Notes": "LiCalendar1",
-  "Areas/Obsidian Dashboards": "LiLayoutDashboard",
-  "Areas/Obsidian Dashboards/Home.md": "LiHouse",
   "Resources": "LiLibrarySquare",
   "Resources/Technology Setup": "LiSettings",
   "Resources/Templates": "LiAlignCenter",
   "Resources/AI Tools": "LiSquareTerminal",
   "Resources/Notes Framework": "LiScanText",
   "Areas/Personal Development": "LiCircleFadingArrowUp",
-  "Areas/Obsidian Vault Setup": "LiVault",
   "CLAUDE.md": "LiAsteriskSquare",
   "Areas/R&S Weekly Huddles": "LiRadar",
   "Areas/Event Monitoring": "LiScanEye",
@@ -69,5 +66,12 @@
   "Areas/SCRM": "LiAlertTriangle",
   "Excalidraw": "LiPaintbrush",
   "Uploaded Files": "LiUpload",
-  "Areas/Networking": "LiNetwork"
+  "Areas/Networking": "LiNetwork",
+  "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus Index.md": "LiLibrarySquare",
+  "Projects/Supply Chain Resiliency/Everstream/Everstream Index.md": "LiLibrarySquare",
+  "Projects/Supply Chain Resiliency/Optimus/Optimus Index.md": "LiLibrarySquare",
+  "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft Index.md": "LiLibrarySquare",
+  "Resources/Obsidian Vault Setup": "LiVault",
+  "Projects/Obsidian Dashboards": "LiLayoutDashboard",
+  "Projects/Obsidian Dashboards/Home.md": "LiHouse"
 }

@@ -77,6 +77,18 @@
     },
     "Excalidraw": {
       "textColor": "#589fca"
+    },
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Optimus/Optimus Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Index.md": {
+      "textColor": "#0fd7a5"
     }
   },
   "presets": {
@@ -91,6 +103,9 @@
       "textColor": "#88cb97",
       "applyToSubfolders": true,
       "applyToFiles": false
+    },
+    "Index": {
+      "textColor": "#0fd7a5"
     }
   },
   "presetOrder": [

@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Default Template",
+      "path": "Resources/Templates/Default Template.md"
+    },
+    {
+      "basename": "Index Template",
+      "path": "Resources/Templates/Index Template.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "Obsidian Dashboard Index",
+      "path": "Projects/Obsidian Dashboards/Obsidian Dashboard Index.md"
+    },
+    {
+      "basename": "Building Templates",
+      "path": "Resources/Obsidian Vault Setup/Building Templates.md"
+    },
+    {
+      "basename": "Claude Skills Utilization",
+      "path": "Resources/Obsidian Vault Setup/Claude Skills Utilization.md"
+    },
+    {
+      "basename": "Optimus Index",
+      "path": "Projects/Supply Chain Resiliency/Optimus/Optimus Index.md"
+    },
+    {
+      "basename": "Supplier of Focus Index",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus Index.md"
+    },
+    {
+      "basename": "Foundayo Theft Index",
+      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft Index.md"
+    },
+    {
+      "basename": "Everstream Index",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Index.md"
+    },
+    {
       "basename": "Everstream Changes for Arturo",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
+    },
+    {
+      "basename": "Everstream Views Development",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
     },
     {
       "basename": "Questions for Tomorrow Meeting 4-7-2026",
@@ -85,14 +129,6 @@
       "path": "Excalidraw/ZS163n Criticality Diagrams 2026-04-06.excalidraw.md"
     },
     {
-      "basename": "Default Template",
-      "path": "Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "Everstream Views Development",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
-    },
-    {
       "basename": "Meeting Summary – US Orfo Theft Risk (with Noemi)",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary – US Orfo Theft Risk (with Noemi).md"
     },
@@ -117,10 +153,6 @@
       "path": "Areas/Daily Notes/2026-04-03.md"
     },
     {
-      "basename": "Home",
-      "path": "Areas/Obsidian Dashboards/Home.md"
-    },
-    {
       "basename": "Git Push Pull",
       "path": "Resources/Technology Setup/Git Push Pull.md"
     },
@@ -139,14 +171,6 @@
     {
       "basename": "Data Alignment Arturo Garcia",
       "path": "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md"
-    },
-    {
-      "basename": "Building Templates",
-      "path": "Areas/Obsidian Vault Setup/Building Templates.md"
-    },
-    {
-      "basename": "Claude Skills Utilization",
-      "path": "Areas/Obsidian Vault Setup/Claude Skills Utilization.md"
     },
     {
       "basename": "Weekly Huddle April 2",
