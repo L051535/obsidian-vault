@@ -1,5 +1,5 @@
 ---
-date:
+date: 2026-04-06
 type: reference
 status:
 tags:
@@ -9,12 +9,35 @@ tags:
 ---
 
 Raw Data - ZS163n from SAP No Filters
-Geo-political Risk Score by Country -
-	1) ICRG - International Country Risk Guide - Consolidated view from independent body that *corporate finance gets a report from* 
-	2) USCIRF - Another measure of geopolitical risk taken from old strategy team (automatic source) -Religious Freedom [2026ARUSCIRF](https://www.uscirf.gov/sites/default/files/2026-03/USCIRF_2026_AR%20\(2\).pdf)
-	- ZS163n referencing ICRG, analysis tab is taking maximum of the row items (worst SUPPLIER COUNTRY LOCATION)
 
-### Spend Data - From Corporate Finance
+# Old 2024 Risk Factors:
+- Supplier of Focus 2023 (Remove)
+	- Unnecessary weighting on past data, may just double count 
+- Spend in USD (Keep)
+- Material Group (Keep)
+- Products (Keep)
+- Geopolitical (Keep)
+- Supplier Manufacturing Site Risk (Remove)
+	- Hard to maintain and does not cover all suppliers
+	- Supplier Corporate Risk Location - Get rid of and replace with Everstream
+	- Everstream standard export
+- Figure out how to specify what countries are riskier
+- Vendor Criticality (Consolidate)
+- Material Criticality (Consolidate)
+- Plant Criticality (Consolidate)
+- New Business Concentration (Keep, renamed as Part concentration)
+
+# New 2026 Risk Factors:
+- Spend in USD
+- Material Group
+- Products
+- Geopolitical (ICRG Score)
+	- Potentially look at Everstream to get a different source?
+- Supplier Criticality (refer to [[New Supplier Criticality Approach]])
+- Footprint Risk (refer to [[Footprint Score Methodology]])
+- Part Concentration (uses ZS163n report, look at notes below)
+
+## Spend in USD - From Corporate Finance
 #### Assumptions made: 
 - Spend is measured as Invoiced Spend
 - Posting date is taken to identify the time period
@@ -25,31 +48,27 @@ Geo-political Risk Score by Country -
 - Mapped Business Area Description is Pharmaceuticals
 - Material Group Code is not MGC=BLANK 
 
-
-### Material Group Code - From John Hamilton
+## Material Group
+- From John Hamilton in procurement
+- Look in Ref-Unique
+	- Columns W&X we did a lookup of what the category label was scored at 
 - Paul to update about most up to date standards
 - Commodity Code has Levels of specificity for all materials
 	- Maybe gather from procurement the latest update
 	- Clarify if the data is in SAP
-
-
-Previous Year SoF 23 - **REMOVE**
-
-Material Group Criticality (KEEP) - Look in Ref-Unique (FROM JOHN HAMILTON)
-- Columns W&X we did a lookup of what the category label was scored at 
-Products (KEEP) - Same thing
+## Products
+- Prioritization comes from Greg Magnussen's **product lifecycle management team**
 - Launch products, volume, life saving, everything else
-- Brooke has one for the conference
-- Life Cycle Management owns the data 
+## Geo-political Risk Score by Country -
+1) ) ICRG - International Country Risk Guide - Consolidated view from independent body that *corporate finance gets a report from* 
+2) USCIRF - Another measure of geopolitical risk taken from old strategy team (automatic source) -Religious Freedom [2026ARUSCIRF](https://www.uscirf.gov/sites/default/files/2026-03/USCIRF_2026_AR%20\(2\).pdf)
+	- ZS163n referencing ICRG, analysis tab is taking maximum of the row items (worst SUPPLIER COUNTRY LOCATION)
 
-Supplier Corporate Risk Location - Get rid of and replace with Everstream
-- Everstream standard export
-- Figure out how to specify what countries are riskier
-
-## New Business Concentration (Part Concentration) - 
+## Supplier Criticality
+- Refer to [[New Supplier Criticality Approach]]
+## Part Concentration - 
 - How concentrated is number of materials from a supplier from one specific MP Vendor or plant 
 	- Taking **highest part concentration** of **MP Vendor** (unique MP Vendor/Material Combinations) out of **all MP Vendors** and dividing by the **total number of MP/Material combinations** under the **Supplier**
-
 
 ## ZS163n Vendor/Plant/Material Criticality
 
@@ -62,3 +81,4 @@ Folllow this link to understand other ZS163n data fields:
 
 *Refer to Drawing below for Visual:*
 [[ZS163n Criticality Diagrams 2026-04-06.excalidraw]]
+
