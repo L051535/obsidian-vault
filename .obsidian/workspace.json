@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZS163n - Supplier Quality Report"
+              "title": "CLAUDE"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ZS163n - Supplier Quality Report"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -233,31 +233,32 @@
   },
   "active": "b952c73ced0b7200",
   "lastOpenFiles": [
-    "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
-    "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
-    "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
+    "Projects/Obsidian Dashboards/Obsidian Dashboard Index.md",
+    "Areas/Event Monitoring/Untitled.md",
+    "Excalidraw/ZS163n Criticality Diagrams 2026-04-06.excalidraw.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md",
+    "Projects/Supply Chain Resiliency/Optimus/Optimus.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
+    "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
+    "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
+    "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
     "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md",
     "Resources/Data Table Notes/ZS163n",
-    "Projects/Supply Chain Resiliency/Everstream/Everstream.md",
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
     "Projects/Supply Chain Resiliency/Supply Chain Resiliency.md",
-    "Projects/Supply Chain Resiliency/Optimus/Optimus.md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md",
     "Inbox/Everstream Claude Project.md",
     "Areas/Networking/Brooke 1 on 1 (4.6.26).md",
-    "Areas/Event Monitoring/Untitled.md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary – US Orfo Theft Risk (with Noemi).md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
     "Resources/Templates/Index Template.md",
     "Resources/Templates/Default Template.md",
     "Untitled.base",
     "Projects/Obsidian Dashboards/Home.md",
-    "Projects/Obsidian Dashboards/Obsidian Dashboard Index.md",
     "Resources/Obsidian Vault Setup/Building Templates.md",
     "Resources/Obsidian Vault Setup/Claude Skills Utilization.md",
     "Areas/Networking",
