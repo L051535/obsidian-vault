@@ -7,7 +7,7 @@ tags:
   - initiative/everstream
 ---
 
-# Additional Status Filters (IN):
+# User Status Filters (IN):
 - ACRD
 - ADDM
 - DSTR
@@ -19,4 +19,3 @@ tags:
 
 
 ## Related:
-#initiative/everstream

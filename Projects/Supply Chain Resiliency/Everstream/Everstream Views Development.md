@@ -7,40 +7,53 @@ tags:
   - SC-Resiliency-Sustainability
   - type/reference
 ---
-# Views I've Developed
+# Important Views
 
-**1. Tracked High Impact & Severity
-- Contains relevant incidents that have at least 1 impacted site and with high severity defined by Everstream
+**1.  (New) High Impact & Severity
+- Contains **NEW** high severity incidents that have at least 1 impacted site and with high severity defined by Everstream
 - *Filters:*
 	- Facility Impact Count >= 1
-	- Severity: Severe, Extreme
-	- Tracked = True
+	- ~={red}Severity: Severe, Extreme=~
+	- Triaging Status = "To Do"
 
-**2. Untracked High Impact & Severity**
-- Contains incidents that we have looked at with the same as the tracked high severity version but have actively untracked/de-prioritized
+**2. (Assessing) High Impact & Severity**
+- Contains high severity incidents that we have started looking at already
 - *Filters:*
 	- Facility Impact Count >= 1
-	- Severity: Severe, Extreme
-	- Tracked = True
-
-**3. Tracked Moderate Severity
-- Contains relevant incidents that have at least 1 impacted site and with moderate severity defined by Everstream (No Minor Incidents to prevent bloat)
+	- ~={red}Severity: Severe, Extreme=~
+	- Triaging Status = "Assessing"
+	
+**3. (Resolved/Closed) High Impact & Severity**
+- Contains high severity incidents that we have decided are resolved or no longer important
 - *Filters:*
 	- Facility Impact Count >= 1
-	- Severity: Moderate
-	- Tracked = True
+	- ~={red}Severity: Severe, Extreme=~
+	- Triaging Status = "Resolved/Closed"
 
-**4. Untracked Moderate Severity
--  Contains incidents that we have looked at with the same as the tracked moderate severity version but have actively untracked/de-prioritized
+**4.  (New) Moderate Severity**
+- Contains **NEW** moderate severity incidents that have at least 1 impacted site and with high severity defined by Everstream
 - *Filters:*
 	- Facility Impact Count >= 1
-	- Severity: Moderate
-	- Tracked = True
+	- ~={yellow}Severity: Moderate=~
+	- Triaging Status = "To Do"
 
-**5. All Incidents
+**5. (Assessing) Moderate Severity**
+- Contains moderate severity incidents that we have started looking at already
+- *Filters:*
+	- Facility Impact Count >= 1
+	- ~={yellow}Severity: Moderate=~
+	- Triaging Status = "Assessing"
+	
+**6. (Resolved/Closed) Moderate Severity**
+- Contains moderate severity incidents that we have decided are resolved or no longer important
+- *Filters:*
+	- Facility Impact Count >= 1
+	- ~={yellow}Severity: Moderate=~
+	- Triaging Status = "Resolved/Closed"
+
+**7. All Incidents
 - Unfiltered version containing all incidents tracked/untracked.
 - Default is showing only **Active** events, but we can toggle that in the **"Settings"** modal
 
 
 ## Related Tags:
-#Everstream-views #Everstream-configuration

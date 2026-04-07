@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/Default Template.md",
+                "file": "Resources/Data Table Notes/ZS163n/ZS163n Supplier Quality Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Default Template"
+              "title": "ZS163n Supplier Quality Report"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/Default Template.md",
+                "file": "Resources/Data Table Notes/ZS163n/ZS163n Supplier Quality Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Template"
+              "title": "Backlinks for ZS163n Supplier Quality Report"
             }
           },
           {
@@ -194,9 +194,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "6df82b530344b2aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -217,38 +227,40 @@
       "canvas:Create new canvas": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "cmdr:Tasks: Create or edit task": false
     }
   },
   "active": "b952c73ced0b7200",
   "lastOpenFiles": [
+    "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
+    "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
+    "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md",
+    "Resources/Data Table Notes/ZS163n/ZS163n Supplier Quality Report.md",
+    "Resources/Data Table Notes/ZS163n",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream.md",
+    "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
+    "Projects/Supply Chain Resiliency/Supply Chain Resiliency.md",
+    "Projects/Supply Chain Resiliency/Optimus/Optimus.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md",
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md",
+    "Inbox/Everstream Claude Project.md",
+    "Areas/Networking/Brooke 1 on 1 (4.6.26).md",
+    "Areas/Event Monitoring/Untitled.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md",
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary – US Orfo Theft Risk (with Noemi).md",
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md",
     "Resources/Templates/Index Template.md",
     "Resources/Templates/Default Template.md",
+    "Untitled.base",
     "Projects/Obsidian Dashboards/Home.md",
     "Projects/Obsidian Dashboards/Obsidian Dashboard Index.md",
     "Resources/Obsidian Vault Setup/Building Templates.md",
     "Resources/Obsidian Vault Setup/Claude Skills Utilization.md",
-    "Projects/Supply Chain Resiliency/Optimus/Optimus Index.md",
-    "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus Index.md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft Index.md",
-    "Projects/Supply Chain Resiliency/Everstream/Everstream Index.md",
-    "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
-    "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
-    "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md",
-    "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
-    "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md",
-    "Areas/Networking/Brooke 1 on 1 (4.6.26).md",
-    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md",
-    "Inbox/Footprint Score Methodology.md",
-    "Inbox/Everstream Claude Project.md",
-    "Areas/Networking/Brooke 1 on 1.md",
     "Areas/Networking",
-    "Resources/Data Table Notes/How ZS163n Criticality works.md",
-    "Resources/Technology Setup/Everstream ZS163n Filters.md",
-    "Resources/Technology Setup/File Structure Read Issue Resolution.md",
-    "Resources/Notes Framework/Zettelkasten Framework.md",
-    "Resources/Notes Framework/PARA Framework.md",
-    "Resources/Notes Framework/My Note-Taking System.md",
     "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
     "Uploaded Files/Meeting Summary – US Orfo Theft Risk.pdf",
     "Uploaded Files/Pasted image 20260402105023.png",
@@ -257,8 +269,6 @@
     "Excalidraw/Excalidraw",
     "Areas/Event Monitoring/Untitled",
     "Areas/Event Monitoring",
-    "Uploaded Files",
-    "Areas/R&S Weekly Huddles",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20260401095819.png",

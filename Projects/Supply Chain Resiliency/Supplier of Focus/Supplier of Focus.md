@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2026-04-07
 type: index
 tags:
   - 
@@ -15,7 +15,7 @@ aliases:
 | ---------------- | ------------------------------- | --- |
 | **Owner**        |                                 |     |
 | **Stakeholders** |                                 |     |
-| **Started**      | <% tp.date.now("YYYY-MM-DD") %> |     |
+| **Started**      | 2026-04-07 |     |
 
 ---
 
@@ -31,7 +31,7 @@ _The most important notes in this folder — link them here as you create them._
 
 ```tasks
 not done
-path includes <% tp.file.folder(true) %>
+path includes /
 ```
 
 ---

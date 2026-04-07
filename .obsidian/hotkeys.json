@@ -7,12 +7,21 @@
       "key": "N"
     }
   ],
+  "templater-obsidian:create-new-note-from-template": [],
   "templater-obsidian:Resources/Templates/Default Template.md": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "F12"
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:create-Resources/Templates/Index Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
     }
   ]
 }

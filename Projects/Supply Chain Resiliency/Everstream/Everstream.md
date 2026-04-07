@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2026-04-07
 type: index
 tags:
   - 
@@ -15,7 +15,7 @@ aliases:
 | ---------------- | ------------------------------- | --- |
 | **Owner**        |                                 |     |
 | **Stakeholders** |                                 |     |
-| **Started**      | <% tp.date.now("YYYY-MM-DD") %> |     |
+| **Started**      | 2026-04-07 |     |
 
 ---
 
@@ -23,7 +23,7 @@ aliases:
 
 _The most important notes in this folder — link them here as you create them._
 
-- [[]]
+-  [[Everstream ZS163n Filters]] - Filters used on the base ZS163n Report (**SAP Export, not SHARP**)
 
 ---
 
@@ -31,7 +31,7 @@ _The most important notes in this folder — link them here as you create them._
 
 ```tasks
 not done
-path includes <% tp.file.folder(true) %>
+path includes /
 ```
 
 ---

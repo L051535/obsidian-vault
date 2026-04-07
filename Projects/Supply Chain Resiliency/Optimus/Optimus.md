@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2026-04-07
 type: index
 tags:
   - 
@@ -11,11 +11,11 @@ aliases:
 > [!abstract] Purpose
 > _What is this project or area about? What problem does it solve or need does it serve?_
 
-| Field            | Value                           |     |
-| ---------------- | ------------------------------- | --- |
-| **Owner**        |                                 |     |
-| **Stakeholders** |                                 |     |
-| **Started**      | <% tp.date.now("YYYY-MM-DD") %> |     |
+| Field            | Value      |     |
+| ---------------- | ---------- | --- |
+| **Owner**        |            |     |
+| **Stakeholders** |            |     |
+| **Started**      | 2026-04-07 |     |
 
 ---
 
@@ -23,7 +23,6 @@ aliases:
 
 _The most important notes in this folder — link them here as you create them._
 
-- [[]]
 
 ---
 
@@ -31,7 +30,7 @@ _The most important notes in this folder — link them here as you create them._
 
 ```tasks
 not done
-path includes <% tp.file.folder(true) %>
+path includes /
 ```
 
 ---

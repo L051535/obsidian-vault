@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Resources/Templates/Default Template.md"
+    "Resources/Templates/Default Template.md",
+    "Resources/Templates/Index Template.md"
   ],
   "startup_templates": [
     "Resources/Templates/Default Template.md"
