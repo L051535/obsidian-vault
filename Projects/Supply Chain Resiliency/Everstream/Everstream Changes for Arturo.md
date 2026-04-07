@@ -14,3 +14,9 @@ tags:
 2) Added Meta_Products field into "Material" data table
 	- Combined my approach of BOM explosions with Arturo's to cover the most amount of materials per product.
 3) Appended the unique products to the facility groups
+4) Facility group Contract Mfg (D,P,P) needs changed because delimiter in Everstream parser uses commas
+5) Facility group TRPM to TPRM
+
+
+
+- Facility group, is logic is and, in all is or logic
