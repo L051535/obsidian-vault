@@ -5,6 +5,10 @@
       "path": "Inbox/Data Alignment Arturo.md"
     },
     {
+      "basename": "Planning Setup & Prod.",
+      "path": "Excalidraw/Planning Setup & Prod..md"
+    },
+    {
       "basename": "Data Alignment Arturo Garcia",
       "path": "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-26",
       "path": "Daily Notes/2026-03-26.md"
-    },
-    {
-      "basename": "Poke Nachos Recipe",
-      "path": "Hobbies/Cooking/Poke Nachos Recipe.md"
     }
   ],
   "omittedPaths": [],
