@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Brooke Iran Missile Ask.md",
+                "file": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brooke Iran Missile Ask"
+              "title": "Everstream ZS163n Filters"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Brooke Iran Missile Ask.md",
+                "file": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brooke Iran Missile Ask"
+              "title": "Backlinks for Everstream ZS163n Filters"
             }
           },
           {
@@ -249,8 +249,8 @@
   },
   "active": "a7a4fa80f6dcab86",
   "lastOpenFiles": [
-    "Inbox/Data Alignment Arturo.md",
     "Inbox/Brooke Iran Missile Ask.md",
+    "Inbox/Data Alignment Arturo.md",
     "Excalidraw/Planning Setup & Prod..md",
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
     "CLAUDE.md",
