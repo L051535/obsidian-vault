@@ -11,4 +11,4 @@ tags:
 - Even when we have the same product, there is still setup time which is dynamic based on a matrix of what count, strength (size of tablets), or what country it is going to, etc.
 - To account for this Arturo is looking at the past year of production plan at a site to average a "net run rate" 
 	- Refer to [[Planning Setup & Prod.]] drawing
-- VSM
+- VSM Group is an ov
