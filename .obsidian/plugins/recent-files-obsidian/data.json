@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ZS163n - Supplier Quality Report",
+      "path": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md"
+    },
+    {
+      "basename": "How ZS163n Criticality works",
+      "path": "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md"
+    },
+    {
       "basename": "Everstream ZS163n Filters",
       "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
     },
@@ -59,14 +67,6 @@
     {
       "basename": "Everstream Changes for Arturo",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
-    },
-    {
-      "basename": "ZS163n - Supplier Quality Report",
-      "path": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md"
-    },
-    {
-      "basename": "How ZS163n Criticality works",
-      "path": "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md"
     },
     {
       "basename": "Everstream Views Development",

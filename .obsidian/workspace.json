@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
+                "file": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Everstream ZS163n Filters"
+              "title": "ZS163n - Supplier Quality Report"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
+                "file": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Everstream ZS163n Filters"
+              "title": "Backlinks for ZS163n - Supplier Quality Report"
             }
           },
           {
@@ -249,6 +249,8 @@
   },
   "active": "a7a4fa80f6dcab86",
   "lastOpenFiles": [
+    "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
+    "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
     "Inbox/Brooke Iran Missile Ask.md",
     "Inbox/Data Alignment Arturo.md",
     "Excalidraw/Planning Setup & Prod..md",
@@ -264,8 +266,6 @@
     "Projects/Supply Chain Resiliency/Optimus/Optimus.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
     "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
-    "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
-    "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
     "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md",
     "Resources/Data Table Notes/ZS163n",
