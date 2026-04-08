@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Inbox/Untitled.md"
+    },
+    {
       "basename": "Data Alignment Arturo",
       "path": "Inbox/Data Alignment Arturo.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-27",
       "path": "Daily Notes/2026-03-27.md"
-    },
-    {
-      "basename": "2026-03-26",
-      "path": "Daily Notes/2026-03-26.md"
     }
   ],
   "omittedPaths": [],

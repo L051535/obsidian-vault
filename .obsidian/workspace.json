@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Data Alignment Arturo.md",
+                "file": "Inbox/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Alignment Arturo"
+              "title": "Untitled"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Data Alignment Arturo.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Alignment Arturo"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -249,8 +249,9 @@
   },
   "active": "a7a4fa80f6dcab86",
   "lastOpenFiles": [
-    "Excalidraw/Planning Setup & Prod..md",
     "Inbox/Data Alignment Arturo.md",
+    "Inbox/Untitled.md",
+    "Excalidraw/Planning Setup & Prod..md",
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
     "CLAUDE.md",
     "Projects/Obsidian Dashboards/Obsidian Dashboard Index.md",
@@ -275,7 +276,6 @@
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary – US Orfo Theft Risk (with Noemi).md",
     "Resources/Templates/Index Template.md",
-    "Resources/Templates/Default Template.md",
     "Untitled.base",
     "Areas/Networking",
     "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
