@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Inbox/Data Alignment Arturo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Data Alignment Arturo"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Inbox/Data Alignment Arturo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLAUDE"
+              "title": "Backlinks for Data Alignment Arturo"
             }
           },
           {
@@ -233,6 +233,9 @@
   },
   "active": "b952c73ced0b7200",
   "lastOpenFiles": [
+    "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
+    "Inbox/Data Alignment Arturo.md",
+    "CLAUDE.md",
     "Projects/Obsidian Dashboards/Obsidian Dashboard Index.md",
     "Areas/Event Monitoring/Untitled.md",
     "Excalidraw/ZS163n Criticality Diagrams 2026-04-06.excalidraw.md",
@@ -248,7 +251,6 @@
     "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
     "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md",
     "Resources/Data Table Notes/ZS163n",
-    "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
     "Projects/Supply Chain Resiliency/Supply Chain Resiliency.md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md",
     "Inbox/Everstream Claude Project.md",
@@ -259,8 +261,6 @@
     "Resources/Templates/Default Template.md",
     "Untitled.base",
     "Projects/Obsidian Dashboards/Home.md",
-    "Resources/Obsidian Vault Setup/Building Templates.md",
-    "Resources/Obsidian Vault Setup/Claude Skills Utilization.md",
     "Areas/Networking",
     "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
     "Uploaded Files/Meeting Summary – US Orfo Theft Risk.pdf",
