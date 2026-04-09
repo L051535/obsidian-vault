@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Source Info",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
+    },
+    {
+      "basename": "New Supplier Criticality Approach",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
+    },
+    {
       "basename": "Everstream ZS163n Filters",
       "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
+    },
+    {
+      "basename": "How ZS163n Criticality works",
+      "path": "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md"
+    },
+    {
+      "basename": "Footprint Score Methodology",
+      "path": "Inbox/Footprint Score Methodology.md"
+    },
+    {
+      "basename": "ZS163n Criticality Diagrams 2026-04-06.excalidraw",
+      "path": "Excalidraw/ZS163n Criticality Diagrams 2026-04-06.excalidraw.md"
     },
     {
       "basename": "ZS163n - Supplier Quality Report",
@@ -25,10 +45,6 @@
       "path": "Inbox/Brooke Iran Missile Ask.md"
     },
     {
-      "basename": "Footprint Score Methodology",
-      "path": "Inbox/Footprint Score Methodology.md"
-    },
-    {
       "basename": "Everstream Claude Project",
       "path": "Inbox/Everstream Claude Project.md"
     },
@@ -41,14 +57,6 @@
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
     },
     {
-      "basename": "New Supplier Criticality Approach",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
-    },
-    {
-      "basename": "Data Source Info",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
-    },
-    {
       "basename": "Data Alignment Arturo Garcia",
       "path": "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Optimus",
       "path": "Projects/Supply Chain Resiliency/Optimus/Optimus.md"
-    },
-    {
-      "basename": "How ZS163n Criticality works",
-      "path": "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md"
     },
     {
       "basename": "Planning Setup & Prod.",
@@ -79,10 +83,6 @@
     {
       "basename": "Untitled",
       "path": "Areas/Event Monitoring/Untitled.md"
-    },
-    {
-      "basename": "ZS163n Criticality Diagrams 2026-04-06.excalidraw",
-      "path": "Excalidraw/ZS163n Criticality Diagrams 2026-04-06.excalidraw.md"
     },
     {
       "basename": "Everstream",

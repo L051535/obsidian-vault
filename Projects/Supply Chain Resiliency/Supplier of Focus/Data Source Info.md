@@ -29,13 +29,14 @@ Raw Data - ZS163n from SAP No Filters
 
 # New 2026 Risk Factors:
 - Spend in USD
-- Material Group
+- ==Material Group==
 - Products
 - Geopolitical (ICRG Score)
 	- Potentially look at Everstream to get a different source?
-- Supplier Criticality (refer to [[New Supplier Criticality Approach]])
-- Footprint Risk (refer to [[Footprint Score Methodology]])
 - Part Concentration (uses ZS163n report, look at notes below)
+- Supplier Criticality (refer to [[New Supplier Criticality Approach]])
+- ==Footprint Risk (refer to [[Footprint Score Methodology]])==
+
 
 ## Spend in USD - From Corporate Finance
 #### Assumptions made: 
@@ -49,13 +50,14 @@ Raw Data - ZS163n from SAP No Filters
 - Material Group Code is not MGC=BLANK 
 
 ## Material Group
-- From John Hamilton in procurement
+- ==From John Hamilton in procurement==
 - Look in Ref-Unique
 	- Columns W&X we did a lookup of what the category label was scored at 
 - Paul to update about most up to date standards
 - Commodity Code has Levels of specificity for all materials
 	- Maybe gather from procurement the latest update
 	- Clarify if the data is in SAP
+	- Check with Arturo if 
 ## Products
 - Prioritization comes from Greg Magnussen's **product lifecycle management team**
 - Launch products, volume, life saving, everything else
