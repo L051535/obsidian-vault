@@ -10,6 +10,8 @@ tags:
 # User Status Filters (IN):
 - ACRD
 - ADDM
+- AMFG
+	- NEED TO ADD IN
 - DSTR
 - RPKG
 - APRV
@@ -17,8 +19,10 @@ tags:
 - PRFD
 - SAPR
 
-AMFG?
+APPV
+ACTV
 
-
+MP Vendor Status - CM
+- Gets left with only AMFG
 
 ## Related:

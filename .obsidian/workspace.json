@@ -39,14 +39,18 @@
             "id": "6185e0dfbdf3d26b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How ZS163n Criticality works"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
+                "file": "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ZS163n - Supplier Quality Report"
+              "title": "Backlinks for How ZS163n Criticality works"
             }
           },
           {
@@ -247,11 +251,13 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "a7a4fa80f6dcab86",
+  "active": "6185e0dfbdf3d26b",
   "lastOpenFiles": [
-    "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
+    "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
     "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
+    "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
     "Inbox/Brooke Iran Missile Ask.md",
+    "Projects/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md",
     "Inbox/Data Alignment Arturo.md",
     "Excalidraw/Planning Setup & Prod..md",
     "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo Garcia.md",
@@ -265,7 +271,6 @@
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md",
     "Projects/Supply Chain Resiliency/Optimus/Optimus.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
-    "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
     "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
     "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md",
     "Resources/Data Table Notes/ZS163n",
@@ -275,7 +280,6 @@
     "Areas/Networking/Brooke 1 on 1 (4.6.26).md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
     "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary – US Orfo Theft Risk (with Noemi).md",
-    "Resources/Templates/Index Template.md",
     "Untitled.base",
     "Areas/Networking",
     "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
