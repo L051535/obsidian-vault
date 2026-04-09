@@ -8,21 +8,31 @@ tags:
 ---
 
 # User Status Filters (IN):
-- ACRD
-- ADDM
-- AMFG
-	- NEED TO ADD IN
-- DSTR
-- RPKG
-- APRV
-- CRTF
-- PRFD
-- SAPR
+- ACRD - Approved Crude Material
+- ADDM - Additional Manufacturer
+- DSTR - Distributer
+- RPKG - Repackagers
+- Contract Manufacturers:
+	- AMFG - Authorized Manufacturer (CM)
+- MP Original Manufacturer
+	- APRV - Approved Vendor
+	- CRTF -Certified Vendor
+	- PRFD - Preferred Vendor
+- SAPR - GMP Service Provider
 
-APPV
-ACTV
+[MP Vendors and Status Definitions](https://collab.lilly.com/sites/Supply_Chain_User_Guides/QMUserGuide/sitePages/MP%20Vendors%20and%20Status%20Definitions.aspx)
 
-MP Vendor Status - CM
-- Gets left with only AMFG
+
+# OLD JEREMY STATUS FILTERS
+ACRD
+ADDM
+DSTR
+RPKG
+APRV
+CRTF
+PRFD
+SAPR
+**MISSING AMFG!!!!**
+
 
 ## Related:
