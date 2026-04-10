@@ -134,6 +134,7 @@
   },
   "presetOrder": [
     "Default",
-    "Border_Test"
+    "Border_Test",
+    "Index"
   ]
 }

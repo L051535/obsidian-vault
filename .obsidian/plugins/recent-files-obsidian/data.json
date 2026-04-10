@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Projects/Obsidian Dashboards/Home.md"
+    },
+    {
       "basename": "Iranian Missile Data Sheet Methodology",
       "path": "Inbox/Iranian Missile Data Sheet Methodology.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "Default Template",
       "path": "Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Building Templates",
