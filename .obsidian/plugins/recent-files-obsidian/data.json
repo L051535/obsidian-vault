@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Supplier_Risk_Assessment_Instructions",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier_Risk_Assessment_Instructions.md"
+    },
+    {
       "basename": "New Supplier Criticality Approach",
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SCRM Council – March",
       "path": "Areas/SCRM/SCRM Council – March.md"
-    },
-    {
-      "basename": "Weekly Huddle April 2",
-      "path": "Areas/R&S Weekly Huddles/Weekly Huddle April 2.md"
     }
   ],
   "omittedPaths": [],
