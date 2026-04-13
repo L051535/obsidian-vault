@@ -36,6 +36,7 @@ Raw Data - ZS163n from SAP No Filters
 - Part Concentration (uses ZS163n report, look at notes below)
 - Supplier Criticality (refer to [[New Supplier Criticality Approach]])
 - ==Footprint Risk (refer to [[Footprint Score Methodology]])==
+- ==LEAD TIME??==
 
 
 ## Spend in USD - From Corporate Finance
