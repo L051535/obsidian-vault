@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Untitled.md"
+      "basename": "Insights 2026",
+      "path": "Areas/Personal Development/Insights 2026.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "My Note-Taking System",
+      "path": "Resources/Notes Framework/My Note-Taking System.md"
+    },
+    {
+      "basename": "Everstream",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream.md"
     },
     {
       "basename": "Everstream Views Development",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
+    },
+    {
+      "basename": "Footprint Score Methodology",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
+    },
+    {
+      "basename": "Supplier of Focus",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
+    },
+    {
+      "basename": "Data Source Info",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
+    },
+    {
+      "basename": "Iranian Missile Data Sheet Methodology",
+      "path": "Projects/Supply Chain Resiliency/Iran Conflict/Iranian Missile Data Sheet Methodology.md"
+    },
+    {
+      "basename": "Brooke Iran Missile Ask",
+      "path": "Projects/Supply Chain Resiliency/Iran Conflict/Brooke Iran Missile Ask.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Untitled.md"
     },
     {
       "basename": "Home",
@@ -17,16 +53,8 @@
       "path": "Projects/Supply Chain Resiliency/Iran Conflict/Untitled.md"
     },
     {
-      "basename": "Brooke Iran Missile Ask",
-      "path": "Projects/Supply Chain Resiliency/Iran Conflict/Brooke Iran Missile Ask.md"
-    },
-    {
       "basename": "Iran Conflict",
       "path": "Projects/Supply Chain Resiliency/Iran Conflict/Iran Conflict.md"
-    },
-    {
-      "basename": "Iranian Missile Data Sheet Methodology",
-      "path": "Projects/Supply Chain Resiliency/Iran Conflict/Iranian Missile Data Sheet Methodology.md"
     },
     {
       "basename": "Supplier_Risk_Assessment_Instructions",
@@ -37,16 +65,8 @@
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
     },
     {
-      "basename": "Data Source Info",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
-    },
-    {
       "basename": "Everstream ZS163n Filters",
       "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
-    },
-    {
-      "basename": "Everstream",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream.md"
     },
     {
       "basename": "Questions for Tomorrow Meeting 4-7-2026",
@@ -55,10 +75,6 @@
     {
       "basename": "Everstream Changes for Arturo",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
-    },
-    {
-      "basename": "Footprint Score Methodology",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
     },
     {
       "basename": "Optimus",
@@ -89,20 +105,12 @@
       "path": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md"
     },
     {
-      "basename": "Supplier of Focus",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
-    },
-    {
       "basename": "Pablo Demand & Production Data Working Session (3-25-2026)",
       "path": "Projects/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md"
     },
     {
       "basename": "Planning Setup & Prod.",
       "path": "Excalidraw/Planning Setup & Prod..md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "Obsidian Dashboard Index",
@@ -165,10 +173,6 @@
       "path": "Resources/Notes Framework/PARA Framework.md"
     },
     {
-      "basename": "My Note-Taking System",
-      "path": "Resources/Notes Framework/My Note-Taking System.md"
-    },
-    {
       "basename": "Claude Context Engineering",
       "path": "Resources/AI Tools/Claude Context Engineering.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-02",
       "path": "Areas/Daily Notes/2026-04-02.md"
-    },
-    {
-      "basename": "2026-04-03",
-      "path": "Areas/Daily Notes/2026-04-03.md"
     }
   ],
   "omittedPaths": [],

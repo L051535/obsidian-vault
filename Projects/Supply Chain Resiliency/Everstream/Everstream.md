@@ -38,11 +38,11 @@ path includes /
 
 ## Notes & Meetings
 
-| Note | Date | Summary |
-| ---- | ---- | ------- |
-| [[]] |      |         |
-|      |      |         |
-|      |      |         |
+| Note                             | Date | Summary |
+| -------------------------------- | ---- | ------- |
+| [[Everstream Views Development]] |      |         |
+|                                  |      |         |
+|                                  |      |         |
 
 ---
 
