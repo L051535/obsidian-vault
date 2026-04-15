@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Insights 2026",
-      "path": "Areas/Personal Development/Insights 2026.md"
+      "basename": "Supplier Risk Assessment Instructions",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
+    },
+    {
+      "basename": "Supplier of Focus",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
     },
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
+    },
+    {
+      "basename": "New Supplier Criticality Approach",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
+    },
+    {
+      "basename": "Insights 2026",
+      "path": "Areas/Personal Development/Insights 2026.md"
     },
     {
       "basename": "My Note-Taking System",
@@ -23,10 +35,6 @@
     {
       "basename": "Footprint Score Methodology",
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
-    },
-    {
-      "basename": "Supplier of Focus",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
     },
     {
       "basename": "Data Source Info",
@@ -55,14 +63,6 @@
     {
       "basename": "Iran Conflict",
       "path": "Projects/Supply Chain Resiliency/Iran Conflict/Iran Conflict.md"
-    },
-    {
-      "basename": "Supplier_Risk_Assessment_Instructions",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier_Risk_Assessment_Instructions.md"
-    },
-    {
-      "basename": "New Supplier Criticality Approach",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
     },
     {
       "basename": "Everstream ZS163n Filters",
@@ -195,10 +195,6 @@
     {
       "basename": "Meeting Summary - Orfo Security Risk Huddle",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary - Orfo Security Risk Huddle.md"
-    },
-    {
-      "basename": "2026-04-02",
-      "path": "Areas/Daily Notes/2026-04-02.md"
     }
   ],
   "omittedPaths": [],

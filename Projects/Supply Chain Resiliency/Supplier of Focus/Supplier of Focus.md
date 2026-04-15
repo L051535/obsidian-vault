@@ -38,11 +38,11 @@ path includes /
 
 ## Notes & Meetings
 
-| Note | Date | Summary |
-| ---- | ---- | ------- |
-| [[]] |      |         |
-|      |      |         |
-|      |      |         |
+| Note                                      | Date      | Summary                                                                            |
+| ----------------------------------------- | --------- | ---------------------------------------------------------------------------------- |
+| [[Supplier Risk Assessment Instructions]] | 4/15/2026 | This contains full documentation on calculations and data used for this assessment |
+|                                           |           |                                                                                    |
+|                                           |           |                                                                                    |
 
 ---
 
