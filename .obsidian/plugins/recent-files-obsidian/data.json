@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Untitled.md"
+    },
+    {
+      "basename": "Everstream Views Development",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
+    },
+    {
       "basename": "Home",
       "path": "Projects/Obsidian Dashboards/Home.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Everstream Changes for Arturo",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
-    },
-    {
-      "basename": "Everstream Views Development",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
     },
     {
       "basename": "Footprint Score Methodology",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-03",
       "path": "Areas/Daily Notes/2026-04-03.md"
-    },
-    {
-      "basename": "Git Push Pull",
-      "path": "Resources/Technology Setup/Git Push Pull.md"
     }
   ],
   "omittedPaths": [],
