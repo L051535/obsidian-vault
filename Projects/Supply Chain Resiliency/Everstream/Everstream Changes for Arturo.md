@@ -17,6 +17,8 @@ tags:
 4) Facility group Contract Mfg (D,P,P) needs changed because delimiter in Everstream parser uses commas
 5) Facility group TRPM to TPRM
 6) Using plant_browser mfg & distribution, try to match to P codes to assign P codes with normalized names
+7) Removed P Code on production_plant
+
 
 
 
