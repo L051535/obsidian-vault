@@ -20,4 +20,8 @@ tags:
 6) Using plant_browser mfg & distribution, try to match to P codes to assign P codes with normalized names and categorize as "distirbution_center" vs "production_plant"
 7) Removed P prefix while maintaining leading 0s
 8) is_final_product column needs logic populated:
+	- Instead of using procurement type, use plant_material combination of BOM master data table and apply following conditions:
+		- If plant_material is in unique list of plant_component in master BOM table, is_final_product = "N"
+		- Else "Y"
 9) Filtered out all material from material data using MRP Type = "ND" && MRP Controller = "090"
+10) Instead of using 
