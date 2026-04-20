@@ -24,4 +24,6 @@ tags:
 		- If plant_material is in unique list of plant_component in master BOM table, is_final_product = "N"
 		- Else "Y"
 9) Filtered out all material from material data using MRP Type = "ND" && MRP Controller = "090"
-10) Instead of using 
+10) Material flow classifications:
+	- Check if a component is also a material in the same plant. This makes it an internal-intermediate
+	- Check after P-Code stripping to see if MP Vendor codes 
