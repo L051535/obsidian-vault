@@ -18,6 +18,6 @@ tags:
 4) Facility group Contract Mfg (D,P,P) needs changed because delimiter in Everstream parser uses commas
 5) User Status Filter Changes: [[Everstream ZS163n Filters]]
 6) Using plant_browser mfg & distribution, try to match to P codes to assign P codes with normalized names and categorize as "distirbution_center" vs "production_plant"
-7) Removed P Code on production_plant
+7) Removed P prefix while maintaining leading 0s
 8) is_final_product column needs logic populated:
 9) Filtered out all material from material data using MRP Type = "ND" && MRP Controller = "090"
