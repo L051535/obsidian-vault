@@ -27,3 +27,4 @@ tags:
 10) Material flow classifications:
 	- Check if a component is also a material in the same plant. This makes it an internal-intermediate
 	- Check after P-Code stripping to see if MP Vendor codes 
+11) Added DC data to facility gorups
