@@ -13,6 +13,7 @@ tags:
 	- Reasoning is because SHARP adds additional filters removing a bunch
 2) Added Meta_Products field into "Material" data table
 	- Combined my approach of BOM explosions with Arturo's to cover the most amount of materials per product.
+		- Arturo to fix, the right way
 3) Appended the unique products to the facility groups
 4) Facility group Contract Mfg (D,P,P) needs changed because delimiter in Everstream parser uses commas
 5) User Status Filter Changes: [[Everstream ZS163n Filters]]
