@@ -15,6 +15,6 @@ tags:
 	- Combined my approach of BOM explosions with Arturo's to cover the most amount of materials per product.
 3) Appended the unique products to the facility groups
 4) Facility group Contract Mfg (D,P,P) needs changed because delimiter in Everstream parser uses commas
-5) Facility group TRPM to TPRM
+5) User Status Filter Changes: [[Everstream ZS163n Filters]]
 6) Using plant_browser mfg & distribution, try to match to P codes to assign P codes with normalized names and categorize as "distirbution_center" vs "production_plant"
 7) Removed P Code on production_plant
