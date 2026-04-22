@@ -29,3 +29,4 @@ tags:
 	- Check after P-Code stripping to see if MP Vendor codes 
 11) Added DC data to facility gorups
 12) SKU Browser vendor ID to fill ZS163n gaps
+13) Used SAP Transaction ZS418 Table Query -> T001W to Geo-Locate internal sites
