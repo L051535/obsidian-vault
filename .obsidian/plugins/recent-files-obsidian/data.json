@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Brooke Future Everstream Plans",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Brooke Future Everstream Plans.md"
+    },
+    {
+      "basename": "Everstream May 5 Questions",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream May 5 Questions.md"
+    },
+    {
       "basename": "Home",
       "path": "Projects/Obsidian Dashboards/Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "PARA Framework",
       "path": "Resources/Notes Framework/PARA Framework.md"
-    },
-    {
-      "basename": "Claude Context Engineering",
-      "path": "Resources/AI Tools/Claude Context Engineering.md"
-    },
-    {
-      "basename": "AI-Connect OFG & Optimus Tool",
-      "path": "Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
     }
   ],
   "omittedPaths": [],
