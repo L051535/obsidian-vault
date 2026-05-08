@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "New Supplier Criticality Approach",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
+      "basename": "Supplier of Focus v6 (NEXT STEPS)",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus v6 (NEXT STEPS).md"
     },
     {
-      "basename": "Footprint Score Methodology",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
+      "basename": "Everstream ZS163n Filters",
+      "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
+    },
+    {
+      "basename": "Supplier of Focus",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
     },
     {
       "basename": "Data Source Info",
@@ -17,16 +21,16 @@
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
     },
     {
-      "basename": "Supplier of Focus",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
+      "basename": "Footprint Score Methodology",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
+    },
+    {
+      "basename": "New Supplier Criticality Approach",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
     },
     {
       "basename": "Material Group Code to Commodity Code",
       "path": "Material Group Code to Commodity Code.md"
-    },
-    {
-      "basename": "Everstream ZS163n Filters",
-      "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
     },
     {
       "basename": "Facility Data Documentation",
@@ -195,10 +199,6 @@
     {
       "basename": "Orfo Theft Security Assessment (Views Brainstorm)",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md"
-    },
-    {
-      "basename": "File Structure Read Issue Resolution",
-      "path": "Resources/Technology Setup/File Structure Read Issue Resolution.md"
     }
   ],
   "omittedPaths": [],
