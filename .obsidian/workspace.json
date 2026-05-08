@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "63542771211381c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b952c73ced0b7200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Data Alignment Arturo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Alignment Arturo"
+            }
+          },
+          {
+            "id": "a7a4fa80f6dcab86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZS163n - Supplier Quality Report"
+            }
+          },
+          {
+            "id": "6185e0dfbdf3d26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Supply Chain Resiliency/Iran Conflict/Iranian Missile Data Sheet Methodology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iranian Missile Data Sheet Methodology"
+            }
+          },
+          {
+            "id": "7b488e8f5ee4c831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Source Info"
+            }
+          },
+          {
+            "id": "a6cbb8e4aa34f754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Source Info"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e24ed7f9d217cda0",
+    "type": "split",
+    "children": [
+      {
+        "id": "397747686ddab347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c7ff0812cc4d24b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7da380ffae02f2f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb7c94e9980ea098",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "1356bafcfdfce6d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ff89bcd35cafcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e20a2119cad007b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/Iranian Missile Data Sheet Methodology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Iranian Missile Data Sheet Methodology"
+            }
+          },
+          {
+            "id": "12e1977d0ec1a4cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work/Insights/Insights 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Insights 2026"
+            }
+          },
+          {
+            "id": "b72a5eef22937cfe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05cd38f755846254",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "b3a0670538f94cd3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8938b4af804930c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/Templates/Default Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Default Template"
+            }
+          },
+          {
+            "id": "b038045bd1ad5a74",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6df82b530344b2aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Create new canvas": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "cmdr:Tasks: Create or edit task": false
+    }
+  },
+  "active": "a6cbb8e4aa34f754",
+  "lastOpenFiles": [
+    "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md",
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md",
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md",
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md",
+    "Material Group Code to Commodity Code.md",
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md",
+    "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
+    "Projects/Supply Chain Resiliency/Everstream/Facility Data Documentation.md",
+    "Projects/Supply Chain Resiliency/Everstream/Material Flow Generation.md",
+    "Projects/Supply Chain Resiliency/Everstream/4-28-2026 Meeting.md",
+    "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream May 5 Questions.md",
+    "Projects/Supply Chain Resiliency/Everstream/Meeting 4-21-26.md",
+    "Projects/Obsidian Dashboards/Home.md",
+    "Projects/Supply Chain Resiliency/Everstream/Brooke Future Everstream Plans.md",
+    "Uploaded Files/Pasted image 20260428101338.png",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Training Roll-out.md",
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md",
+    "Areas/Personal Development/Insights 2026.md",
+    "Projects/Supply Chain Resiliency/Optimus/Data Alignment Arturo.md",
+    "Areas/Personal Development/Q1 Check in 2026.md",
+    "Projects/Supply Chain Resiliency/Everstream/Untitled 1.md",
+    "Projects/Supply Chain Resiliency/Iran Conflict/Iran Conflict.md",
+    "Projects/Supply Chain Resiliency/Iran Conflict/Iranian Missile Data Sheet Methodology.md",
+    "Projects/Supply Chain Resiliency/Iran Conflict/Iranian Missile Analysis Email 4_15_26.md",
+    "Projects/Supply Chain Resiliency/Iran Conflict",
+    "Areas/D&T Monthly Meeting",
+    "Uploaded Files/Pasted image 20260409145059.png",
+    "Resources/Data Table Notes/ZS163n",
+    "Untitled.base",
+    "Areas/Networking",
+    "Uploaded Files/Inisghts_2026_Steven_Chen.pdf",
+    "Uploaded Files/Meeting Summary – US Orfo Theft Risk.pdf",
+    "Uploaded Files/Pasted image 20260402105023.png",
+    "Excalidraw",
+    "Resources/Data Table Notes",
+    "Excalidraw/Excalidraw",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20260401095819.png",
+    "Pasted image 20260401095812.png"
+  ]
+}
