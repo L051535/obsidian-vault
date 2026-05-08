@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Facility Data Documentation",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Facility Data Documentation.md"
+    },
+    {
+      "basename": "Material Flow Generation",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Material Flow Generation.md"
+    },
+    {
+      "basename": "4-28-2026 Meeting",
+      "path": "Projects/Supply Chain Resiliency/Everstream/4-28-2026 Meeting.md"
+    },
+    {
+      "basename": "Questions for Tomorrow Meeting 4-7-2026",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md"
+    },
+    {
+      "basename": "Data Source Info",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
+    },
+    {
       "basename": "Supplier of Focus",
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
+    },
+    {
+      "basename": "Everstream ZS163n Filters",
+      "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
+    },
+    {
+      "basename": "New Supplier Criticality Approach",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
+    },
+    {
+      "basename": "Footprint Score Methodology",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
+    },
+    {
+      "basename": "Everstream",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream.md"
+    },
+    {
+      "basename": "Everstream May 5 Questions",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream May 5 Questions.md"
+    },
+    {
+      "basename": "Meeting 4-21-26",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Meeting 4-21-26.md"
+    },
+    {
+      "basename": "Supplier Risk Assessment Instructions",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
     },
     {
       "basename": "Home",
@@ -11,22 +59,6 @@
     {
       "basename": "Brooke Future Everstream Plans",
       "path": "Projects/Supply Chain Resiliency/Everstream/Brooke Future Everstream Plans.md"
-    },
-    {
-      "basename": "Everstream May 5 Questions",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream May 5 Questions.md"
-    },
-    {
-      "basename": "4-28-2026 Meeting",
-      "path": "Projects/Supply Chain Resiliency/Everstream/4-28-2026 Meeting.md"
-    },
-    {
-      "basename": "Everstream ZS163n Filters",
-      "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
-    },
-    {
-      "basename": "Everstream",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Everstream.md"
     },
     {
       "basename": "Everstream Changes for Arturo",
@@ -41,36 +73,8 @@
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
     },
     {
-      "basename": "Material Flow Generation",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Material Flow Generation.md"
-    },
-    {
-      "basename": "Meeting 4-21-26",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Meeting 4-21-26.md"
-    },
-    {
-      "basename": "Questions for Tomorrow Meeting 4-7-2026",
-      "path": "Projects/Supply Chain Resiliency/Everstream/Questions for Tomorrow Meeting 4-7-2026.md"
-    },
-    {
       "basename": "Insights 2026",
       "path": "Areas/Personal Development/Insights 2026.md"
-    },
-    {
-      "basename": "New Supplier Criticality Approach",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
-    },
-    {
-      "basename": "Data Source Info",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
-    },
-    {
-      "basename": "Footprint Score Methodology",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
-    },
-    {
-      "basename": "Supplier Risk Assessment Instructions",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
     },
     {
       "basename": "Data Alignment Arturo",
@@ -195,10 +199,6 @@
     {
       "basename": "Zettelkasten Framework",
       "path": "Resources/Notes Framework/Zettelkasten Framework.md"
-    },
-    {
-      "basename": "PARA Framework",
-      "path": "Resources/Notes Framework/PARA Framework.md"
     }
   ],
   "omittedPaths": [],
