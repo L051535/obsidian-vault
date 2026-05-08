@@ -80,14 +80,14 @@ Internal Lilly facilities (e.g. `[KINSALE]`, `[IDAP]`) use bracketed names with 
 
 Each factor is scored on a 0–10 scale. **Missing or unmatched data defaults to 0.**
 
-| Factor | Scoring Rule (0–10) | Aggregation at Supplier Level | Source |
-|---|---|---|---|
-| 1. Spend (USD) | Q1 (≤$4.3K) = 2 \| Q2 ($4.3K–$23.3K) = 5 \| Q3 ($23.3K–$131.4K) = 7 \| Q4 (>$131.4K) = 10 \| Missing/zero = 0 | Sum all Vendor Code rows to Supplier; apply quartile thresholds | Spend_Data.xlsx |
-| 2. Material Group Criticality | LOW (Score=1) = 2 \| MEDIUM (Score=2) = 5 \| HIGH (Score=3) = 10 \| Unmatched = 0 | Join MGC Description → Scoring_Reference; take MAX across all supplier materials | Main_Data_Table + Scoring_Reference |
-| 3. Product Criticality | LOW (Score=1) = 2 \| MEDIUM (Score=2) = 5 \| HIGH (Score=3) = 10 \| Unmatched = 0 | Join Product → Scoring_Reference; take MAX across all supplier products | Main_Data_Table + Scoring_Reference |
-| 4. External Risk Score | Raw score 4–13 normalized to 0–10. Formula: `(raw − 4) / 9 × 10`. Missing = 0 | Extract ID from Facility Name; match to MP Vendor; take MAX across all matched MP Vendors per supplier | Facilities_Views_Report.xlsx |
-| 5. Part Concentration | ≤10% = 1 \| 11–25% = 3 \| 26–50% = 6 \| 51–75% = 8 \| >75% = 10 | Count unique Materials per (Supplier, MP Vendor); divide by total; use highest single MP Vendor % | Main_Data_Table |
-| 6. Supplier Criticality | `((% HIGH × 3) + (% MED × 2) + (% LOW × 1)) / 3 × 10` → range 3.33–10.00 | Count unique Materials per criticality level (HIGH/MED/LOW only); compute weighted share | Main_Data_Table |
+| Factor                        | Scoring Rule (0–10)                                                                                           | Aggregation at Supplier Level                                                                          | Source                              |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| 1. Spend (USD)                | Q1 (≤$4.3K) = 2 \| Q2 ($4.3K–$23.3K) = 5 \| Q3 ($23.3K–$131.4K) = 7 \| Q4 (>$131.4K) = 10 \| Missing/zero = 0 | Sum all Vendor Code rows to Supplier; apply quartile thresholds                                        | Spend_Data.xlsx                     |
+| 2. Material Group Criticality | LOW (Score=1) = 2 \| MEDIUM (Score=2) = 5 \| HIGH (Score=3) = 10 \| Unmatched = 0                             | Join MGC Description → Scoring_Reference; take MAX across all supplier materials                       | Main_Data_Table + Scoring_Reference |
+| 3. Product Criticality        | LOW (Score=1) = 2 \| MEDIUM (Score=2) = 5 \| HIGH (Score=3) = 10 \| Unmatched = 0                             | Join Product → Scoring_Reference; take MAX across all supplier products                                | Main_Data_Table + Scoring_Reference |
+| 4. External Risk Score        | Raw score 4–13 normalized to 0–10. Formula: `(raw − 4) / 9 × 10`. Missing = 0                                 | Extract ID from Facility Name; match to MP Vendor; take MAX across all matched MP Vendors per supplier | Facilities_Views_Report.xlsx        |
+| 5. Part Concentration         | ≤10% = 1 \| 11–25% = 3 \| 26–50% = 6 \| 51–75% = 8 \| >75% = 10                                               | Count unique Materials per (Supplier, MP Vendor); divide by total; use highest single MP Vendor %      | Main_Data_Table                     |
+| 6. Supplier Criticality       | `((% HIGH × 3) + (% MED × 2) + (% LOW × 1)) / 3 × 10` → range 3.33–10.00                                      | Count unique Materials per criticality level (HIGH/MED/LOW only); compute weighted share               | Main_Data_Table                     |
 
 > ⚠ Spend quartile thresholds ($4.3K / $23.3K / $131.4K) are derived from the current Spend_Data dataset. Recalculate from new data each time the spend file is refreshed.
 
