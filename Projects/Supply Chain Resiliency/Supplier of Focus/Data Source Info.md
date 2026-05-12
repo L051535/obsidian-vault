@@ -35,8 +35,9 @@ Raw Data - ZS163n from SAP No Filters
 	- Potentially look at Everstream to get a different source?
 - Part Concentration (uses ZS163n report, look at notes below)
 - Supplier Criticality (refer to [[New Supplier Criticality Approach]])
+- Single Sourced Plant/Material Combinations
 - ==Footprint Risk (refer to [[Footprint Score Methodology]])==
-- ==LEAD TIME??==
+
 
 
 ## Spend in USD - From Corporate Finance
@@ -72,6 +73,14 @@ Raw Data - ZS163n from SAP No Filters
 ## Part Concentration - 
 - How concentrated is number of materials from a supplier from one specific MP Vendor or plant 
 	- Taking **highest part concentration** of **MP Vendor** (unique MP Vendor/Material Combinations) out of **all MP Vendors** and dividing by the **total number of MP/Material combinations** under the **Supplier**
+## Single Sourced Plant/Material Combinations
+- How many Plant/Material combinations by an MP Vendor has no other alternative MPs
+- Take that percentage aggregated up by supplier from MP Level
+	- Example: Supplier has 2 MP Vendors
+	- Assume 2 MPs supply unique materials
+	- MP Vendor A supplies 2/10 single sourced
+	- MP Vendor B supplies 5/10 single sourced
+	- Supplier is 7/20 35% single sourced
 
 ## ZS163n Vendor/Plant/Material Criticality
 
