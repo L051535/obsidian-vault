@@ -10,7 +10,7 @@ tags:
 # User Status Filters (IN):
 - ACRD - Approved Crude Material
 - ADDM - Additional Manufacturer
-- DSTR - Distributer
+- DSTR - Distributor
 - RPKG - Repackagers
 - Contract Manufacturers:
 	- AMFG - Authorized Manufacturer (CM)
