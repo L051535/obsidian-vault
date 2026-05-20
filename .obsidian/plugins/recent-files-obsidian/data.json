@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Training & Access",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Training & Access.md"
+    },
+    {
       "basename": "Home",
       "path": "Projects/Obsidian Dashboards/Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Claude Skills Utilization",
       "path": "Resources/Obsidian Vault Setup/Claude Skills Utilization.md"
-    },
-    {
-      "basename": "Orfo Theft Security Assessment (Views Brainstorm)",
-      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Orfo Theft Security Assessment (Views Brainstorm).md"
     }
   ],
   "omittedPaths": [],
