@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Supply Chain Resiliency/Everstream/Training & Access.md",
+                "file": "Projects/Obsidian Dashboards/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Training & Access"
+              "title": "Home"
             }
           },
           {
@@ -281,8 +281,8 @@
   },
   "active": "7b488e8f5ee4c831",
   "lastOpenFiles": [
-    "Projects/Obsidian Dashboards/Home.md",
     "Projects/Supply Chain Resiliency/Everstream/Training & Access.md",
+    "Projects/Obsidian Dashboards/Home.md",
     "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
     "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md",
     "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md",
