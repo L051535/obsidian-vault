@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "P44 & Everstream Integration",
+      "path": "Projects/Supply Chain Resiliency/Everstream/P44 & Everstream Integration.md"
+    },
+    {
       "basename": "Home",
       "path": "Projects/Obsidian Dashboards/Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Building Templates",
       "path": "Resources/Obsidian Vault Setup/Building Templates.md"
-    },
-    {
-      "basename": "Claude Skills Utilization",
-      "path": "Resources/Obsidian Vault Setup/Claude Skills Utilization.md"
     }
   ],
   "omittedPaths": [],
