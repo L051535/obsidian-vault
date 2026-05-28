@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "P44 & Everstream Integration",
-      "path": "Projects/Supply Chain Resiliency/Everstream/P44 & Everstream Integration.md"
+      "basename": "Untitled",
+      "path": "Projects/Supply Chain Resiliency/Everstream/Untitled.md"
     },
     {
       "basename": "Home",
       "path": "Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "P44 & Everstream Integration",
+      "path": "Projects/Supply Chain Resiliency/Everstream/P44 & Everstream Integration.md"
     },
     {
       "basename": "Training & Access",
@@ -195,10 +199,6 @@
     {
       "basename": "Default Template",
       "path": "Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "Building Templates",
-      "path": "Resources/Obsidian Vault Setup/Building Templates.md"
     }
   ],
   "omittedPaths": [],
