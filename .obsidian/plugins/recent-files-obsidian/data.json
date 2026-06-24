@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SCRM Council - June",
+      "path": "Areas/SCRM/SCRM Council - June.md"
+    },
+    {
+      "basename": "SCRM Council – March",
+      "path": "Areas/SCRM/SCRM Council – March.md"
+    },
+    {
       "basename": "Home",
       "path": "Projects/Obsidian Dashboards/Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Meeting Summary – US Orfo Theft Risk (with Noemi)",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Meeting Summary – US Orfo Theft Risk (with Noemi).md"
-    },
-    {
-      "basename": "Index Template",
-      "path": "Resources/Templates/Index Template.md"
-    },
-    {
-      "basename": "Default Template",
-      "path": "Resources/Templates/Default Template.md"
     }
   ],
   "omittedPaths": [],
