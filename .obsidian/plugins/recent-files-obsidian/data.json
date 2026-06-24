@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "Everstream ZS163n Filters",
+      "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
+    },
+    {
+      "basename": "Supplier Risk Assessment Instructions",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
+    },
+    {
+      "basename": "Footprint Score Methodology",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
+    },
+    {
+      "basename": "New Supplier Criticality Approach",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
+    },
+    {
       "basename": "Data Source Info",
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Data Source Info.md"
+    },
+    {
+      "basename": "Supplier of Focus v6 (NEXT STEPS)",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus v6 (NEXT STEPS).md"
     },
     {
       "basename": "Questions for Tomorrow Meeting 4-7-2026",
@@ -17,10 +41,6 @@
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Changes for Arturo.md"
     },
     {
-      "basename": "Home",
-      "path": "Projects/Obsidian Dashboards/Home.md"
-    },
-    {
       "basename": "Everstream Lilly In-Person Meeting",
       "path": "Projects/Supply Chain Resiliency/Everstream/Everstream Lilly In-Person Meeting.md"
     },
@@ -33,32 +53,12 @@
       "path": "Projects/Supply Chain Resiliency/Everstream/Training & Access.md"
     },
     {
-      "basename": "Everstream ZS163n Filters",
-      "path": "Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
-    },
-    {
       "basename": "How ZS163n Criticality works",
       "path": "Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md"
     },
     {
-      "basename": "Supplier Risk Assessment Instructions",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
-    },
-    {
-      "basename": "Supplier of Focus v6 (NEXT STEPS)",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus v6 (NEXT STEPS).md"
-    },
-    {
       "basename": "Supplier of Focus",
       "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md"
-    },
-    {
-      "basename": "New Supplier Criticality Approach",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/New Supplier Criticality Approach.md"
-    },
-    {
-      "basename": "Footprint Score Methodology",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
     },
     {
       "basename": "Material Group Code to Commodity Code",
