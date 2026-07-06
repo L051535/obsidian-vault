@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day 1 Notes",
+      "path": "Projects/NALO/Day 1 Notes.md"
+    },
+    {
       "basename": "GDOS Ideas from Noemi",
       "path": "Projects/Supply Chain Resiliency/GDOS Ideas from Noemi.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Foundayo Theft",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md"
-    },
-    {
-      "basename": "Brooke 1 on 1 (4.6.26)",
-      "path": "Areas/Networking/Brooke 1 on 1 (4.6.26).md"
     }
   ],
   "omittedPaths": [],
