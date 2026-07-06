@@ -60,10 +60,7 @@
   "Resources/Notes Framework": "LiScanText",
   "Areas/Personal Development": "LiCircleFadingArrowUp",
   "CLAUDE.md": "LiAsteriskSquare",
-  "Areas/R&S Weekly Huddles": "LiRadar",
-  "Areas/Event Monitoring": "LiScanEye",
   "Resources/Data Table Notes": "LiTableProperties",
-  "Areas/SCRM": "LiAlertTriangle",
   "Excalidraw": "LiPaintbrush",
   "Uploaded Files": "LiUpload",
   "Areas/Networking": "LiNetwork",
@@ -73,5 +70,8 @@
   "Projects/Supply Chain Resiliency/Optimus/Optimus.md": "LiLibrarySquare",
   "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": "LiLibrarySquare",
   "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare",
-  "Projects/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare"
+  "Projects/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare",
+  "Archive/R&S Weekly Huddles": "LiRadar",
+  "Archive/SCRM": "LiAlertTriangle",
+  "Archive/Event Monitoring": "LiScanEye"
 }
