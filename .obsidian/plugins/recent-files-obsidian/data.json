@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Projects/Obsidian Dashboards/Home.md"
+      "basename": "GSC GDOS Mailing List",
+      "path": "Projects/Global Day of Service/GSC GDOS Mailing List.md"
+    },
+    {
+      "basename": "Supplier Risk Assessment Instructions",
+      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
     },
     {
       "basename": "Untitled",
       "path": "Resources/First 15-30 Days NALO/Untitled.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Day 1 Notes",
@@ -15,10 +23,6 @@
     {
       "basename": "GDOS Ideas from Noemi",
       "path": "Projects/Supply Chain Resiliency/GDOS Ideas from Noemi.md"
-    },
-    {
-      "basename": "Supplier Risk Assessment Instructions",
-      "path": "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
     },
     {
       "basename": "SCRM Council - June",
@@ -195,10 +199,6 @@
     {
       "basename": "Asks for Rafael (Global Materials)",
       "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Asks for Rafael (Global Materials).md"
-    },
-    {
-      "basename": "Foundayo Notes",
-      "path": "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Notes.md"
     }
   ],
   "omittedPaths": [],
