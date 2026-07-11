@@ -24,11 +24,12 @@ Plan to spend an hour on the floor each day getting to know the operators and th
 - Andrew Peterson – Associate Director, Engineering
 
 **NALO Operations**
+"Nicole Easton Blum" <easton_nicole_c@lilly.com>; "Ivan Wayne Valentour" <ivan.valentour@lilly.com>; "Anthony Jensen" <jensen_anthony_ray@lilly.com>; "Robert Dale Bay" <bay_robert_d@lilly.com>; "Robert L Deane" <robert.deane@lilly.com>; "Kaaron Carter" <kaaron.carter@lilly.com>; "Andrew J Sampson" <sampson_andrew_j@lilly.com>; "Michael Noah Roach" <roach_michael_noah@lilly.com>; "Brandon Bowler" <bowler_brandon@lilly.com>
 
 - Ivan Valentour – Associate Director, Senior Operations Associate
 - Michael Roach – Sr. Associate, Operations Business Integrator
 - Anthony Jensen – Supervisor
-- Mikki Blum – Supervisor
+- Nicole (Nikkie) Blum – Supervisor
 - Robert Deane – Supervisor
 - Robert Bay – Supervisor
 - Kaaron Carter – Associate Director, Operational Excellence and Capacity Modeling
