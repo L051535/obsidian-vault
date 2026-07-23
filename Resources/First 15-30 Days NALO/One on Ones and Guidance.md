@@ -28,9 +28,9 @@ Plan to spend an hour on the floor each day getting to know the operators and th
 
 - Ivan Valentour – Associate Director, Senior Operations Associate
 - Michael Roach – Sr. Associate, Operations Business Integrator
-- Anthony Jensen – Supervisor
-- Nicole (Nikkie) Blum – Supervisor
-- Robert Deane – Supervisor
+- Anthony Jensen – Supervisor (Extended Shift, Inbound, Outbound, )
+- Nicole (Nikkie) Blum – Supervisor (Import, Inbound, Outbound,
+- Robert Deane – Supervisor (Mass pick & pack, CRT & Chill Room, Samples, Destruction)
 - Robert Bay – Supervisor
 - Kaaron Carter – Associate Director, Operational Excellence and Capacity Modeling
 - Andy Sampson – Sr. Manager, Enfield

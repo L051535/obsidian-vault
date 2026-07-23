@@ -67,11 +67,11 @@
   "Resources/Obsidian Vault Setup": "LiVault",
   "Projects/Obsidian Dashboards": "LiLayoutDashboard",
   "Projects/Obsidian Dashboards/Home.md": "LiHouse",
-  "Projects/Supply Chain Resiliency/Optimus/Optimus.md": "LiLibrarySquare",
-  "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": "LiLibrarySquare",
-  "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare",
-  "Projects/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare",
   "Archive/R&S Weekly Huddles": "LiRadar",
   "Archive/SCRM": "LiAlertTriangle",
-  "Archive/Event Monitoring": "LiScanEye"
+  "Archive/Event Monitoring": "LiScanEye",
+  "Archive/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare",
+  "Archive/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare",
+  "Archive/Supply Chain Resiliency/Optimus/Optimus.md": "LiLibrarySquare",
+  "Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": "LiLibrarySquare"
 }
