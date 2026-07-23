@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Brooke 1 on 1 (4.6.26)",
+      "path": "Areas/Networking/Brooke 1 on 1 (4.6.26).md"
+    },
+    {
+      "basename": "Q1 Check in 2026",
+      "path": "Areas/Personal Development/Q1 Check in 2026.md"
+    },
+    {
+      "basename": "Insights 2026",
+      "path": "Areas/Personal Development/Insights 2026.md"
+    },
+    {
+      "basename": "Day 1 Notes",
+      "path": "Projects/NALO/Day 1 Notes.md"
+    },
+    {
       "basename": "GSC GDOS Mailing List",
       "path": "Projects/Global Day of Service/GSC GDOS Mailing List.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "One on Ones and Guidance",
       "path": "Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
-    },
-    {
-      "basename": "Day 1 Notes",
-      "path": "Projects/NALO/Day 1 Notes.md"
     },
     {
       "basename": "Everstream",
@@ -133,16 +145,8 @@
       "path": "Archive/Supply Chain Resiliency/Everstream/Everstream Training Roll-out.md"
     },
     {
-      "basename": "Insights 2026",
-      "path": "Areas/Personal Development/Insights 2026.md"
-    },
-    {
       "basename": "Data Alignment Arturo",
       "path": "Archive/Supply Chain Resiliency/Optimus/Data Alignment Arturo.md"
-    },
-    {
-      "basename": "Q1 Check in 2026",
-      "path": "Areas/Personal Development/Q1 Check in 2026.md"
     },
     {
       "basename": "Iran Conflict",
@@ -183,22 +187,6 @@
     {
       "basename": "ZS163n Criticality Diagrams 2026-04-06.excalidraw",
       "path": "Excalidraw/ZS163n Criticality Diagrams 2026-04-06.excalidraw.md"
-    },
-    {
-      "basename": "ZS163n - Supplier Quality Report",
-      "path": "Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md"
-    },
-    {
-      "basename": "Pablo Demand & Production Data Working Session (3-25-2026)",
-      "path": "Archive/Supply Chain Resiliency/Optimus/Pablo Demand & Production Data Working Session (3-25-2026).md"
-    },
-    {
-      "basename": "Planning Setup & Prod.",
-      "path": "Excalidraw/Planning Setup & Prod..md"
-    },
-    {
-      "basename": "Obsidian Dashboard Index",
-      "path": "Projects/Obsidian Dashboards/Obsidian Dashboard Index.md"
     }
   ],
   "omittedPaths": [],
