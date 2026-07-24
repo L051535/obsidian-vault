@@ -51,7 +51,7 @@ This vault uses a **PARA + Zettelkasten hybrid**:
 - **SCRM**: Supply Chain Risk Management council.
 - **River Logic**: Enterprise long-term optimization tool. Arturo Garcia is the key contact for data alignment.
 - **AI tools**: Pablo's OFG AI tool (strategic, 3+ year horizon) vs. Steven's internal tool (node-level throughput, execution-adjacent). Positioned as complementary, not replacements for Kinaxis/River Logic/Maestro.
-
+- **NALO or PDC** - North American Logistics Organization (the larger organization that organizes Eli Lilly's logistics) and Plainfield Distribution Center where I'm an operations associate leading continuous improvement projects, deviation investigations, and connecting teams to break down silos.
 ## Installed plugins
 
 - **Tasks** (`obsidian-tasks-plugin`): Emoji format. Custom statuses: `[ ]` Todo, `[x]` Done, `[/]` In Progress, `[-]` Cancelled. Done/cancelled dates auto-set.

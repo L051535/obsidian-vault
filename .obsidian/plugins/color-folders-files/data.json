@@ -113,6 +113,9 @@
     },
     "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": {
       "textColor": "#0fd7a5"
+    },
+    "Projects/Global Day of Service/GSC GDOS Index.md": {
+      "textColor": "#ff0000"
     }
   },
   "presets": {

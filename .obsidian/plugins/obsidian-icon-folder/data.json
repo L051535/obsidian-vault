@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileWarning",
+      "LiMessageCircleWarning",
       "LiLibrarySquare",
-      "LiNetwork",
-      "LiUpload",
-      "LiPaintbrush",
-      "LiExcalidrawIcon"
+      "LiDatabase",
+      "LiCalendarClock"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,20 @@
   "Archive/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare",
   "Archive/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare",
   "Archive/Supply Chain Resiliency/Optimus/Optimus.md": "LiLibrarySquare",
-  "Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": "LiLibrarySquare"
+  "Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": "LiLibrarySquare",
+  "Projects/NALO PDC": "LiWarehouse",
+  "Projects/Global Day of Service": "LiGlobe",
+  "Resources/First 15-30 Days NALO": "LiCalendarClock",
+  "Projects/Global Day of Service/GSC GDOS Index.md": {
+    "iconName": "LiLibrarySquare",
+    "iconColor": "#f50000"
+  },
+  "Uploaded Files/NALO Trainings PDF": {
+    "iconName": "LiFileWarning",
+    "iconColor": "#f01919"
+  },
+  "Resources/NALO Trainings MD": {
+    "iconName": "LiMessageCircleWarning",
+    "iconColor": "#009ceb"
+  }
 }

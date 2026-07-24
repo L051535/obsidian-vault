@@ -13,7 +13,12 @@
       "Bash(obsidian append:*)",
       "Bash(python3 -c ':*)",
       "Bash(node -e ':*)",
-      "Bash(obsidian list:*)"
+      "Bash(obsidian list:*)",
+      "Bash(obsidian vault=\"Eli Lilly Vault\" folders)",
+      "Bash(mkdir -p \"Uploaded Files/NALO Trainings MD\" && mv \"Uploaded Files/NALO Trainings\"/*.md \"Uploaded Files/NALO Trainings MD/\" && ls \"Uploaded Files/NALO Trainings MD\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Obsidian\\Eli Lilly Vault\\Uploaded Files\\NALO Trainings"
     ]
   },
   "enabledPlugins": {
