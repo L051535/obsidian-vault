@@ -1,0 +1,143 @@
+{
+  "styles": {
+    "Work": {
+      "backgroundColor": "#0e1517",
+      "textColor": "#88cb97",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Tech Setups": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#d9ec37",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Private": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#e63b7a",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Hobbies": {
+      "textColor": "#ffab01",
+      "backgroundColor": "#0c1011",
+      "applyToSubfolders": true
+    },
+    "Ideas": {
+      "backgroundColor": "#0e1517",
+      "textColor": "#ffae00",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Daily Notes": {
+      "textColor": "#52d6fc"
+    },
+    "Inbox": {
+      "textColor": "#00cc88"
+    },
+    "Projects": {
+      "textColor": "#c02148"
+    },
+    "Zettelkasten": {
+      "textColor": "#bbff00"
+    },
+    "Inbox/Daily Notes": {
+      "textColor": "#00bfff"
+    },
+    "Uploaded Files": {
+      "textColor": "#889aec"
+    },
+    "Projects/Supply Chain Resiliency/Everstream": {
+      "textColor": "#ffbb00"
+    },
+    "Projects/Supply Chain Resiliency/Optimus": {
+      "textColor": "#3ed714"
+    },
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk": {
+      "textColor": "#386b85"
+    },
+    "Projects/Supply Chain Resiliency/SCRM": {
+      "textColor": "#c01111"
+    },
+    "Projects/Supply Chain Resiliency/Supplier of Focus": {
+      "textColor": "#c4176b"
+    },
+    "Resources": {
+      "textColor": "#5f5cff"
+    },
+    "CLAUDE.md": {
+      "textColor": "#f08205",
+      "opacity": 1
+    },
+    "Archive": {
+      "textColor": "#3a87fe"
+    },
+    "Areas": {
+      "textColor": "#ffc800"
+    },
+    "Excalidraw": {
+      "textColor": "#589fca"
+    },
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Optimus/Optimus Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Everstream/Everstream Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Optimus/01 Optimus Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Supplier of Focus/01 Supplier of Focus Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/01 Foundayo Theft Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Everstream/01 Everstream Index.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Everstream/Everstream.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Optimus/Optimus.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": {
+      "textColor": "#0fd7a5"
+    },
+    "Projects/Global Day of Service/GSC GDOS Index.md": {
+      "textColor": "#ff0000"
+    }
+  },
+  "presets": {
+    "Default": {
+      "backgroundColor": "#0e1517",
+      "textColor": "#3a87fe",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Border_Test": {
+      "backgroundColor": "#0c1011",
+      "textColor": "#88cb97",
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "Index": {
+      "textColor": "#0fd7a5"
+    }
+  },
+  "presetOrder": [
+    "Default",
+    "Border_Test",
+    "Index"
+  ]
+}

@@ -1,26 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Brooke 1 on 1 (4.6.26)",
-      "path": "02 Areas/Networking/Brooke 1 on 1 (4.6.26).md"
-    },
-    {
-      "basename": "Insights 2026",
-      "path": "02 Areas/Personal Development/Insights 2026.md"
-    },
-    {
-      "basename": "Q1 Check in 2026",
-      "path": "02 Areas/Personal Development/Q1 Check in 2026.md"
-    },
-    {
       "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
       "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
     },
@@ -61,6 +41,10 @@
       "path": "03 Resources/Templates/Index Template.md"
     },
     {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
       "basename": "GSC GDOS Mailing List",
       "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
     },
@@ -75,6 +59,10 @@
     {
       "basename": "PARA Framework",
       "path": "03 Resources/Notes Framework/PARA Framework.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
     },
     {
       "basename": "Zettelkasten Framework",
@@ -129,6 +117,14 @@
       "path": "03 Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
     },
     {
+      "basename": "Q1 Check in 2026",
+      "path": "02 Areas/Personal Development/Q1 Check in 2026.md"
+    },
+    {
+      "basename": "Insights 2026",
+      "path": "02 Areas/Personal Development/Insights 2026.md"
+    },
+    {
       "basename": "4-28-2026 Meeting",
       "path": "04 Archive/Supply Chain Resiliency/Everstream/4-28-2026 Meeting.md"
     },
@@ -171,6 +167,10 @@
     {
       "basename": "One on Ones and Guidance",
       "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
+    },
+    {
+      "basename": "Brooke 1 on 1 (4.6.26)",
+      "path": "02 Areas/Networking/Brooke 1 on 1 (4.6.26).md"
     },
     {
       "basename": "Material Flow Generation",
