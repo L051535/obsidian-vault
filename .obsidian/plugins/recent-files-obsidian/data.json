@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
+      "basename": "Material Group Code to Commodity Code",
+      "path": "03 Resources/Data Table Notes/Material Group Code to Commodity Code.md"
     },
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
+    },
+    {
+      "basename": "TempTale GeoX Meeting Jul-24",
+      "path": "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Brooke 1 on 1 (4.6.26)",
@@ -161,10 +169,6 @@
       "path": "01 Projects/Obsidian Dashboards/Obsidian Dashboard Index.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.base"
-    },
-    {
       "basename": "Everstream",
       "path": "04 Archive/Supply Chain Resiliency/Everstream/Everstream.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "SCRM Council - June",
       "path": "04 Archive/SCRM/SCRM Council - June.md"
-    },
-    {
-      "basename": "SCRM Council – March",
-      "path": "04 Archive/SCRM/SCRM Council – March.md"
-    },
-    {
-      "basename": "Footprint Score Methodology",
-      "path": "04 Archive/Supply Chain Resiliency/Supplier of Focus/Footprint Score Methodology.md"
     }
   ],
   "omittedPaths": [],

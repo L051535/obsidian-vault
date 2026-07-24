@@ -44,7 +44,6 @@
   },
   "Hobbies": "LiGamepad2",
   "Hobbies/Cooking": "LiCookingPot",
-  "Zettelkasten": "LiLayers",
   "CLAUDE.md": "LiAsteriskSquare",
   "Excalidraw": "LiPaintbrush",
   "Uploaded Files": "LiUpload",
@@ -65,7 +64,10 @@
   "02 Areas/Daily Notes": "LiCalendar1",
   "02 Areas/Personal Development": "LiCircleFadingArrowUp",
   "02 Areas/Networking": "LiNetwork",
-  "00 Inbox": "LiInbox",
+  "00 Inbox": {
+    "iconName": "LiInbox",
+    "iconColor": "#2cf2b0"
+  },
   "03 Resources": "LiLibrarySquare",
   "03 Resources/AI Tools": "LiSquareTerminal",
   "03 Resources/Data Table Notes": "LiTableProperties",
@@ -88,5 +90,6 @@
   "04 Archive/Supply Chain Resiliency/Optimus/Optimus.md": "LiLibrarySquare",
   "04 Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": "LiLibrarySquare",
   "04 Archive/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare",
-  "04 Archive/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare"
+  "04 Archive/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare",
+  "05 Zettelkasten": "LiLayers"
 }

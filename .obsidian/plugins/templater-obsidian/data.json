@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Resources/Templates",
+  "templates_folder": "03 Resources/Templates",
   "templates_pairs": [
     [
       "",

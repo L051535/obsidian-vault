@@ -116,6 +116,30 @@
     },
     "Projects/Global Day of Service/GSC GDOS Index.md": {
       "textColor": "#ff0000"
+    },
+    "00 Inbox": {
+      "textColor": "#2cf2b0"
+    },
+    "01 Projects": {
+      "textColor": "#f50083"
+    },
+    "02 Areas": {
+      "textColor": "#ffae00"
+    },
+    "03 Resources": {
+      "textColor": "#ab78f7"
+    },
+    "04 Archive": {
+      "textColor": "#0084ff"
+    },
+    "05 Zettelkasten": {
+      "textColor": "#bbff00"
+    },
+    "01 Projects/NALO PDC": {
+      "textColor": "#03fcf8"
+    },
+    "01 Projects/Global Day of Service": {
+      "textColor": "#ee2020"
     }
   },
   "presets": {
