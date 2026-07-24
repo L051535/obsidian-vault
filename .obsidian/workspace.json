@@ -39,10 +39,14 @@
             "id": "6185e0dfbdf3d26b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Obsidian Dashboards/Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ],
@@ -247,8 +251,9 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "6c7ff0812cc4d24b",
+  "active": "6185e0dfbdf3d26b",
   "lastOpenFiles": [
+    "Projects/Global Day of Service/GSC GDOS Mailing List.md",
     "Areas/Daily Notes/2026-04-02.md",
     "Areas/Daily Notes/2026-04-03.md",
     "Areas/Daily Notes/2026-04-01.md",
@@ -256,7 +261,6 @@
     "Areas/Personal Development/Q1 Check in 2026.md",
     "Areas/Personal Development/Insights 2026.md",
     "Projects/NALO/Day 1 Notes.md",
-    "Projects/Global Day of Service/GSC GDOS Mailing List.md",
     "Projects/Obsidian Dashboards/Home.md",
     "Resources/First 15-30 Days NALO/One on Ones and Guidance.md",
     "Archive/Supply Chain Resiliency/Everstream/Everstream.md",

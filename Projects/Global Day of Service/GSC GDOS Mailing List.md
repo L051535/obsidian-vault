@@ -199,3 +199,11 @@ venkat_shreya@lilly.com;
 eric.thomas@lilly.com
 
 aleeza.rana@lilly.com
+
+aidan.tafelski@lilly.com
+
+anthony.deforrestjr@lilly.com
+
+eli.beheler@lilly.com
+
+olivia.hamilton@lilly.com
