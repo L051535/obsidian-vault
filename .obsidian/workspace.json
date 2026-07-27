@@ -11,12 +11,14 @@
             "id": "4ab73512b640faa0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Uploaded Files/NALO Trainings PDF/NALO_Transition_Document.pdf"
+                "file": "01 Projects/NALO PDC/Day 1 Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "NALO_Transition_Document"
+              "icon": "lucide-file",
+              "title": "Day 1 Notes"
             }
           }
         ]
@@ -220,18 +222,23 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "4ab73512b640faa0",
+  "active": "6c7ff0812cc4d24b",
   "lastOpenFiles": [
+    "Uploaded Files/NALO Trainings PDF/USD-SOP-Electrical Safety Program-013.pdf",
+    "Uploaded Files/NALO Trainings PDF/DOHS067, Electrical Awareness Training-387.pdf",
+    "Uploaded Files/NALO Trainings PDF/USD-SOP-Rptg Injuries Illnesses Incidents-001.pdf",
+    "Uploaded Files/NALO Trainings PDF/USD-SOP-Rptg Injuries Illnesses Incidents-001.docx",
     "01 Projects/NALO PDC/NALO Daily Process Team Huddle Process.md",
+    "01 Projects/NALO PDC/Day 1 Notes.md",
+    "01 Projects/Obsidian Dashboards/Home.md",
+    "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md",
+    "04 Archive/R&S Weekly Huddles/Weekly Huddle April 2.md",
     "Uploaded Files/NALO Trainings PDF/NALO_Transition_Document.pdf",
     "Uploaded Files/NALO Trainings PDF/NALO_Transition_Document.docx",
-    "01 Projects/NALO PDC/Day 1 Notes.md",
     "01 Projects/Obsidian Dashboards/Obsidian Dashboard Index.md",
-    "01 Projects/Obsidian Dashboards/Home.md",
     "03 Resources/Data Table Notes/Material Group Code to Commodity Code.md",
     "CLAUDE.md",
     "Untitled.base",
-    "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md",
     "01 Projects/Temptale GeoX Implementation",
     "02 Areas/Networking/Brooke 1 on 1 (4.6.26).md",
     "02 Areas/Personal Development/Insights 2026.md",
@@ -242,9 +249,6 @@
     "New folder",
     "03 Resources/NALO Trainings MD/GLX-SOP-0012 TMS BSR.md",
     "03 Resources/NALO Trainings MD/GSCSOP0125 Warehouse Capacity Process.md",
-    "Uploaded Files/NALO Trainings PDF/Redline; GQS304, Distribution of Finished Products.pdf",
-    "Uploaded Files/NALO Trainings PDF/GSCSOP0125 Warehouse Capacity Process.pdf",
-    "Uploaded Files/NALO Trainings PDF/GLX-SOP-0012 TMS BSR.pdf",
     "01 Projects/Global Day of Service/GSC GDOS Index.md",
     "03 Resources/Templates/Default Template.md",
     "03 Resources/Templates/Index Template.md",
@@ -256,7 +260,6 @@
     "00 Inbox/NALO Export Ramp Up Notes.md",
     "00 Inbox/NALO Export Ramp Up.md",
     "03 Resources/NALO Trainings MD/USD-SOP-Stock Withdrawal-001.md",
-    "03 Resources/NALO Trainings MD/USD-SOP-Pallet Config-001.md",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",
     "Uploaded Files/Pasted image 20260402105023.png",

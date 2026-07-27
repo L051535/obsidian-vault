@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "NALO_Transition_Document",
-      "path": "Uploaded Files/NALO Trainings PDF/NALO_Transition_Document.pdf"
+      "basename": "Day 1 Notes",
+      "path": "01 Projects/NALO PDC/Day 1 Notes.md"
     },
     {
       "basename": "NALO Daily Process Team Huddle Process",
       "path": "01 Projects/NALO PDC/NALO Daily Process Team Huddle Process.md"
     },
     {
-      "basename": "Day 1 Notes",
-      "path": "01 Projects/NALO PDC/Day 1 Notes.md"
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "TempTale GeoX Meeting Jul-24",
+      "path": "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md"
+    },
+    {
+      "basename": "Weekly Huddle April 2",
+      "path": "04 Archive/R&S Weekly Huddles/Weekly Huddle April 2.md"
+    },
+    {
+      "basename": "NALO_Transition_Document",
+      "path": "Uploaded Files/NALO Trainings PDF/NALO_Transition_Document.pdf"
     },
     {
       "basename": "Obsidian Dashboard Index",
       "path": "01 Projects/Obsidian Dashboards/Obsidian Dashboard Index.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Material Group Code to Commodity Code",
@@ -27,10 +35,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "TempTale GeoX Meeting Jul-24",
-      "path": "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md"
     },
     {
       "basename": "Brooke 1 on 1 (4.6.26)",
@@ -195,10 +199,6 @@
     {
       "basename": "Supplier Risk Assessment Instructions",
       "path": "04 Archive/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
-    },
-    {
-      "basename": "GDOS Ideas from Noemi",
-      "path": "04 Archive/Supply Chain Resiliency/GDOS Ideas from Noemi.md"
     }
   ],
   "omittedPaths": [],
