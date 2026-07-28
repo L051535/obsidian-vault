@@ -15,7 +15,17 @@
       "Bash(node -e ':*)",
       "Bash(obsidian list:*)",
       "Bash(obsidian vault=\"Eli Lilly Vault\" folders)",
-      "Bash(mkdir -p \"Uploaded Files/NALO Trainings MD\" && mv \"Uploaded Files/NALO Trainings\"/*.md \"Uploaded Files/NALO Trainings MD/\" && ls \"Uploaded Files/NALO Trainings MD\")"
+      "Bash(mkdir -p \"Uploaded Files/NALO Trainings MD\" && mv \"Uploaded Files/NALO Trainings\"/*.md \"Uploaded Files/NALO Trainings MD/\" && ls \"Uploaded Files/NALO Trainings MD\")",
+      "Bash(pip show *)",
+      "Bash(pdftotext -layout \"NALO_Transition_Document.pdf\" -)",
+      "Bash(pdftotext -layout \"USD-SOP-Housekeeping-001.pdf\" -)",
+      "Bash(grep -c \"Page 1\\\\|^$\")",
+      "Bash(pdftotext -layout \"USD-SOP-Housekeeping-001.pdf\" /tmp/test.txt)",
+      "Read(//tmp/**)",
+      "Bash(pdftotext -layout \"USD-SOP-Housekeeping-001.pdf\" /tmp/housekeeping.txt)",
+      "Bash(pdftotext -layout \"USD-SOP-Mtl Mvt btw 151 and PDC-001.pdf\" /tmp/mtlmvt.txt)",
+      "Bash(pdftotext -layout \"USD-SOP-Sig Logs and Org Charts-001.pdf\" /tmp/siglogs.txt)",
+      "Bash(pdftotext -layout \"USD-SOP-Site Quality Plans-001.pdf\" /tmp/sqp.txt)"
     ],
     "additionalDirectories": [
       "C:\\Obsidian\\Eli Lilly Vault\\Uploaded Files\\NALO Trainings"

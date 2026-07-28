@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "DOHS067, Electrical Awareness Training-387",
+      "path": "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md"
+    },
+    {
+      "basename": "USD-SOP-PPE Assignments-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-PPE Assignments-001.md"
+    },
+    {
+      "basename": "USD-SOP-Housekeeping-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md"
+    },
+    {
+      "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
+      "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
+    },
+    {
+      "basename": "GLX-SOP-0012 TMS BSR",
+      "path": "03 Resources/NALO Trainings MD/GLX-SOP-0012 TMS BSR.md"
+    },
+    {
+      "basename": "GSCSOP0125 Warehouse Capacity Process",
+      "path": "03 Resources/NALO Trainings MD/GSCSOP0125 Warehouse Capacity Process.md"
+    },
+    {
+      "basename": "Redline; GQS304, Distribution of Finished Products",
+      "path": "03 Resources/NALO Trainings MD/Redline; GQS304, Distribution of Finished Products.md"
+    },
+    {
+      "basename": "USD-SOP-Site Quality Plans-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Site Quality Plans-001.md"
+    },
+    {
+      "basename": "USD-SOP-Stock Withdrawal-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Stock Withdrawal-001.md"
+    },
+    {
+      "basename": "USD-SOP-Sig Logs and Org Charts-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Sig Logs and Org Charts-001.md"
+    },
+    {
+      "basename": "USD-SOP-Security Governance-125",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Security Governance-125.md"
+    },
+    {
+      "basename": "USD-SOP-Rptg Injuries Illnesses Incidents-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Rptg Injuries Illnesses Incidents-001.md"
+    },
+    {
+      "basename": "USD-SOP-Pallet Config-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Pallet Config-001.md"
+    },
+    {
+      "basename": "USD-SOP-Mtl Mvt btw 151 and PDC-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Mtl Mvt btw 151 and PDC-001.md"
+    },
+    {
       "basename": "Day 1 Notes",
       "path": "01 Projects/NALO PDC/Day 1 Notes.md"
     },
@@ -47,18 +103,6 @@
     {
       "basename": "Q1 Check in 2026",
       "path": "02 Areas/Personal Development/Q1 Check in 2026.md"
-    },
-    {
-      "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
-      "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
-    },
-    {
-      "basename": "GLX-SOP-0012 TMS BSR",
-      "path": "03 Resources/NALO Trainings MD/GLX-SOP-0012 TMS BSR.md"
-    },
-    {
-      "basename": "GSCSOP0125 Warehouse Capacity Process",
-      "path": "03 Resources/NALO Trainings MD/GSCSOP0125 Warehouse Capacity Process.md"
     },
     {
       "basename": "Redline; GQS304, Distribution of Finished Products",
@@ -117,20 +161,8 @@
       "path": "00 Inbox/NALO Export Ramp Up.md"
     },
     {
-      "basename": "USD-SOP-Stock Withdrawal-001",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Stock Withdrawal-001.md"
-    },
-    {
-      "basename": "USD-SOP-Pallet Config-001",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Pallet Config-001.md"
-    },
-    {
       "basename": "USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink.md"
-    },
-    {
-      "basename": "Redline; GQS304, Distribution of Finished Products",
-      "path": "03 Resources/NALO Trainings MD/Redline; GQS304, Distribution of Finished Products.md"
     },
     {
       "basename": "ZS163n - Supplier Quality Report",
@@ -167,38 +199,6 @@
     {
       "basename": "Claude Skills Utilization",
       "path": "03 Resources/Obsidian Vault Setup/Claude Skills Utilization.md"
-    },
-    {
-      "basename": "Building Templates",
-      "path": "03 Resources/Obsidian Vault Setup/Building Templates.md"
-    },
-    {
-      "basename": "Git Push Pull",
-      "path": "03 Resources/Technology Setup/Git Push Pull.md"
-    },
-    {
-      "basename": "File Structure Read Issue Resolution",
-      "path": "03 Resources/Technology Setup/File Structure Read Issue Resolution.md"
-    },
-    {
-      "basename": "Everstream",
-      "path": "04 Archive/Supply Chain Resiliency/Everstream/Everstream.md"
-    },
-    {
-      "basename": "One on Ones and Guidance",
-      "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
-    },
-    {
-      "basename": "Material Flow Generation",
-      "path": "04 Archive/Supply Chain Resiliency/Everstream/Material Flow Generation.md"
-    },
-    {
-      "basename": "Everstream Views Development",
-      "path": "04 Archive/Supply Chain Resiliency/Everstream/Everstream Views Development.md"
-    },
-    {
-      "basename": "Supplier Risk Assessment Instructions",
-      "path": "04 Archive/Supply Chain Resiliency/Supplier of Focus/Supplier Risk Assessment Instructions.md"
     }
   ],
   "omittedPaths": [],

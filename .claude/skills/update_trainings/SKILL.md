@@ -1,16 +1,16 @@
 ---
 name: update_trainings
-description: Re-sync the converted markdown notes in "Resources/NALO Trainings MD/" against their source PDFs in "Uploaded Files/NALO Trainings PDF/". Use when the user runs /update_trainings, or asks to refresh/update the NALO training markdown notes after a PDF has changed (new revision, new file added, or a file removed).
+description: Re-sync the converted markdown notes in "03 Resources/NALO Trainings MD/" against their source PDFs in "Uploaded Files/NALO Trainings PDF/". Use when the user runs /update_trainings, or asks to refresh/update the NALO training markdown notes after a PDF has changed (new revision, new file added, or a file removed).
 ---
 
 # Update NALO Trainings
 
-Keeps the markdown notes in `Resources/NALO Trainings MD/` in sync with the source PDFs in `Uploaded Files/NALO Trainings PDF/`. Each markdown note is a structured, hand-converted summary of one PDF (frontmatter with doc number/version/effective date, then sectioned content) — this skill re-derives that summary whenever the source PDF changes, and keeps the two folders 1:1.
+Keeps the markdown notes in `03 Resources/NALO Trainings MD/` in sync with the source PDFs in `Uploaded Files/NALO Trainings PDF/`. Each markdown note is a structured, hand-converted summary of one PDF (frontmatter with doc number/version/effective date, then sectioned content) — this skill re-derives that summary whenever the source PDF changes, and keeps the two folders 1:1.
 
 ## Folder layout
 
 - Source PDFs: `Uploaded Files/NALO Trainings PDF/*.pdf`
-- Converted notes: `Resources/NALO Trainings MD/*.md` (same base filename as the PDF, `.md` extension)
+- Converted notes: `03 Resources/NALO Trainings MD/*.md` (same base filename as the PDF, `.md` extension)
 
 ## Frontmatter standard
 
@@ -40,7 +40,7 @@ Do **not** put `supersedes`, `associated_gqs`, `secondary_gqs`, `document_type`,
 
 ## Procedure
 
-1. **Inventory both folders.** List `Uploaded Files/NALO Trainings PDF/*.pdf` and `Resources/NALO Trainings MD/*.md`. Match them by base filename (ignoring extension) to find:
+1. **Inventory both folders.** List `Uploaded Files/NALO Trainings PDF/*.pdf` and `03 Resources/NALO Trainings MD/*.md`. Match them by base filename (ignoring extension) to find:
    - **New PDFs** with no corresponding `.md` — need a brand-new conversion.
    - **Existing pairs** — need a staleness check (step 2).
    - **Orphaned `.md` files** with no corresponding PDF — flag to the user; don't delete without confirmation.
@@ -48,8 +48,9 @@ Do **not** put `supersedes`, `associated_gqs`, `secondary_gqs`, `document_type`,
 2. **Check staleness for existing pairs.** For each PDF/markdown pair, read the PDF's header fields (Version, Effective Date, Status — found in the "Number: PRD-XXXXX Version: X.0 Status: ... Effective Date: ..." line near the top of page 1) and compare against the markdown's frontmatter (`version`, `effective_date`, `status`). Also compare file modification time as a secondary signal (`ls -la` or stat), since a PDF can be re-exported with the same version if corrected.
    - If the PDF's version/effective date/status match the markdown frontmatter exactly, skip — already current.
    - If they differ, or the PDF's file mtime is newer than the markdown's, the note needs updating.
+   - **Only extract full text (step 3) for pairs that are actually stale.** Don't re-extract PDFs that are already current — the header line alone (see PDF extraction note below) is enough for the staleness check.
 
-3. **Convert/update each PDF that needs it.** Read the full PDF with the Read tool (it handles native PDF text extraction). Rewrite the corresponding markdown note following the established format used in this vault's existing NALO training notes:
+3. **Convert/update each PDF that needs it.** Rewrite the corresponding markdown note following the established format used in this vault's existing NALO training notes:
    - YAML frontmatter: exactly the six fields defined in "Frontmatter standard" above.
    - A top-level heading matching the document title.
    - Immediately under the heading, a body line for anything that used to live in frontmatter but doesn't anymore — e.g. `**Supersedes:** 001-001280`, `**Associated GQS:** GQS304 (secondary: GQS301)` — alongside the existing `**Areas Involved:**` line, only when the source PDF actually has that field.
@@ -57,11 +58,19 @@ Do **not** put `supersedes`, `associated_gqs`, `secondary_gqs`, `document_type`,
    - If the source is a **redline** (tracked-changes/markup document — title contains "Redline" or the PDF shows inserted/struck text), open with a "Summary of Changes" section listing what changed vs. the prior version, then the full current-version content — follow the pattern in `Redline; GQS304, Distribution of Finished Products.md` in this vault. Note that the redline/version-transition context goes in the H1 and a `> [!warning] This is a redline` callout, not in frontmatter.
    - Closing italic source line: `*Source: <doc id>, Version <X.0>, Effective <date>. Approved <date> by <approver>. Converted from PDF for reference — always verify current version in QualityDocs before relying on this for compliance decisions.*`
    - Do not fabricate content — if a section is illegible or cut off in the PDF extraction, note that explicitly rather than guessing.
+   - **Skip documents that aren't versioned SOPs/trainings.** If a PDF doesn't carry the `Number: PRD-XXXXX Version: X.0 Status: ... Effective Date: ...` header (e.g. a general reference/knowledge-transfer document like a transition guide), it doesn't fit this skill's frontmatter model — flag it to the user in the final report instead of forcing a conversion or treating it as an open question each run.
 
 4. **Report results to the user.** Summarize: which notes were updated (old version → new version), which were newly created, which were already current, and any orphaned markdown files found with no matching PDF (ask before deleting those).
 
 ## Notes
 
 - Never delete or overwrite a markdown note that has no PDF-driven reason to change — only touch files identified as stale or new in step 2.
-- If a PDF's content spans many pages, read it in one pass — the Read tool handles PDFs up to 20 pages per request; split the request by page range for longer documents.
 - Preserve any manual edits the user may have made to a note where possible — if the frontmatter shows the note is already current but the user explicitly says "force re-convert," regenerate anyway.
+
+## PDF extraction on this machine
+
+The Read tool's native PDF rendering requires `pdftoppm` (poppler-utils), which is **not installed** in this environment — Read will fail with `pdftoppm is not installed`. Don't retry Read on a PDF after seeing that error; go straight to the fallback below for every PDF in this skill.
+
+- **Extract text:** `pdftotext -layout "<file>.pdf" -` (prints to stdout) or to a temp file for large docs, then read that file. `-layout` preserves the header line and table alignment well enough to parse.
+- **Get page count:** `pdfinfo` is also not installed. Use a form-feed count instead: `pdftotext "<file>.pdf" - | awk 'BEGIN{c=1} /\f/{c++} END{print c}'`.
+- Large extracted `.txt` files (tens of KB) may get truncated in a Bash tool preview — write to a temp file with `pdftotext` and Read that file directly rather than piping straight to stdout in one call, so you get the full content with line numbers.
