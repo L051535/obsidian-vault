@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GSOP-104-1-TL-5",
+      "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-5.pdf"
+    },
+    {
       "basename": "Replenishments",
       "path": "03 Resources/NALO Areas/Replenishments.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Claude Context Engineering",
       "path": "03 Resources/AI Tools/Claude Context Engineering.md"
-    },
-    {
-      "basename": "AI-Connect OFG & Optimus Tool",
-      "path": "03 Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
     }
   ],
   "omittedPaths": [],
