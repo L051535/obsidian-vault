@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Replenishments",
+      "path": "03 Resources/NALO Areas/Replenishments.md"
+    },
+    {
+      "basename": "Spurs & Outbound",
+      "path": "03 Resources/NALO Areas/Spurs & Outbound.md"
+    },
+    {
+      "basename": "Mass Pick & Pack",
+      "path": "03 Resources/NALO Areas/Mass Pick & Pack.md"
+    },
+    {
       "basename": "One on Ones and Guidance",
       "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "AI-Connect OFG & Optimus Tool",
       "path": "03 Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
-    },
-    {
-      "basename": "4-28-2026 Meeting",
-      "path": "04 Archive/Supply Chain Resiliency/Everstream/4-28-2026 Meeting.md"
-    },
-    {
-      "basename": "Brooke Future Everstream Plans",
-      "path": "04 Archive/Supply Chain Resiliency/Everstream/Brooke Future Everstream Plans.md"
-    },
-    {
-      "basename": "USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink",
-      "path": "Uploaded Files/NALO Trainings PDF/USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink.pdf"
     }
   ],
   "omittedPaths": [],
