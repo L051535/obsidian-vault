@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "One on Ones and Guidance",
+      "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
+    },
+    {
+      "basename": "USD-SOP-Housekeeping-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md"
+    },
+    {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "USD-SOP-PPE Assignments-001",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-PPE Assignments-001.md"
-    },
-    {
-      "basename": "USD-SOP-Housekeeping-001",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md"
     },
     {
       "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
@@ -195,10 +199,6 @@
     {
       "basename": "USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink",
       "path": "Uploaded Files/NALO Trainings PDF/USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink.pdf"
-    },
-    {
-      "basename": "Claude Skills Utilization",
-      "path": "03 Resources/Obsidian Vault Setup/Claude Skills Utilization.md"
     }
   ],
   "omittedPaths": [],

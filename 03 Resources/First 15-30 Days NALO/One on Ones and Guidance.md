@@ -39,6 +39,10 @@ When you meet with each member of the Lead Team, ask them who else on their resp
 
 Looking forward to having you on board.
 
+
+**Trainings referring to Julie Kemp**
+**Reach out to Adriana Dominguez for BCP**
+
 Regards,
 
 **Brandon Bowler**
