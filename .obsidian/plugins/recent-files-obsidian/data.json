@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Physical Inventory",
+      "path": "01 Projects/NALO PDC/Physical Inventory.md"
+    },
+    {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How ZS163n Criticality works",
       "path": "03 Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md"
-    },
-    {
-      "basename": "Everstream ZS163n Filters",
-      "path": "03 Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
     }
   ],
   "omittedPaths": [],
