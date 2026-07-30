@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "GSC GDOS Index",
+      "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
+    },
+    {
+      "basename": "Requesting PTO for GDOS",
+      "path": "01 Projects/Global Day of Service/Requesting PTO for GDOS.md"
+    },
+    {
+      "basename": "GSC GDOS Mailing List",
+      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
+    },
+    {
+      "basename": "NALO Daily Process Team Huddle Process",
+      "path": "01 Projects/NALO PDC/NALO Daily Process Team Huddle Process.md"
+    },
+    {
+      "basename": "Day 1 Notes",
+      "path": "01 Projects/NALO PDC/Day 1 Notes.md"
+    },
+    {
       "basename": "GSOP-104-1-TL-5",
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-5.pdf"
     },
@@ -85,14 +105,6 @@
       "path": "03 Resources/NALO Trainings MD/USD-SOP-Mtl Mvt btw 151 and PDC-001.md"
     },
     {
-      "basename": "Day 1 Notes",
-      "path": "01 Projects/NALO PDC/Day 1 Notes.md"
-    },
-    {
-      "basename": "NALO Daily Process Team Huddle Process",
-      "path": "01 Projects/NALO PDC/NALO Daily Process Team Huddle Process.md"
-    },
-    {
       "basename": "TempTale GeoX Meeting Jul-24",
       "path": "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md"
     },
@@ -141,20 +153,12 @@
       "path": "Uploaded Files/NALO Trainings PDF/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.pdf"
     },
     {
-      "basename": "GSC GDOS Index",
-      "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
-    },
-    {
       "basename": "Default Template",
       "path": "03 Resources/Templates/Default Template.md"
     },
     {
       "basename": "Index Template",
       "path": "03 Resources/Templates/Index Template.md"
-    },
-    {
-      "basename": "GSC GDOS Mailing List",
-      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
     },
     {
       "basename": "My Note-Taking System",
@@ -195,10 +199,6 @@
     {
       "basename": "Everstream ZS163n Filters",
       "path": "03 Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
-    },
-    {
-      "basename": "Claude Context Engineering",
-      "path": "03 Resources/AI Tools/Claude Context Engineering.md"
     }
   ],
   "omittedPaths": [],

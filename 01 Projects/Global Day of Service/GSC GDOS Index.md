@@ -25,7 +25,7 @@ aliases:
 _The most important notes in this folder — link them here as you create them._
 
 - [[GSC GDOS Mailing List]] - Email list for people to include in communications surrounding GDOS
-
+- [[Requesting PTO for GDOS]] - Direction in Workday to request absence
 ---
 
 ## Active Tasks
