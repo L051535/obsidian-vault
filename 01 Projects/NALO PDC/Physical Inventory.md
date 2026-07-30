@@ -16,4 +16,3 @@ tags:
 	- Quarantine/ Systematically Block in Place so it cannot be picked so that pallet in the position cannot be shipped
 	- Document the discrepancy and then execute inventory adjustment SOPs
 - Possibly put a placard to stop picking from the pallets/bin locations under investigation
-- 
