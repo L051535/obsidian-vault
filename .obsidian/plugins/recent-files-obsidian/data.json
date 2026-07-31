@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "01 Projects/NALO PDC/Untitled.md"
+    },
+    {
       "basename": "Physical Inventory",
       "path": "01 Projects/NALO PDC/Physical Inventory.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ZS163n - Supplier Quality Report",
       "path": "03 Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md"
-    },
-    {
-      "basename": "How ZS163n Criticality works",
-      "path": "03 Resources/Data Table Notes/ZS163n/How ZS163n Criticality works.md"
     }
   ],
   "omittedPaths": [],
