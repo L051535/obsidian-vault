@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
-    },
-    {
       "basename": "Day 1 Notes",
       "path": "01 Projects/NALO PDC/Day 1 Notes.md"
     },
@@ -13,12 +9,36 @@
       "path": "01 Projects/NALO PDC/NALO Daily Process Team Huddle Process.md"
     },
     {
-      "basename": "Untitled",
-      "path": "01 Projects/NALO PDC/Untitled.md"
-    },
-    {
       "basename": "Physical Inventory",
       "path": "01 Projects/NALO PDC/Physical Inventory.md"
+    },
+    {
+      "basename": "Systems in Logistics",
+      "path": "01 Projects/NALO PDC/Systems in Logistics.md"
+    },
+    {
+      "basename": "NALO Lilly Viz Hierarchy & Admins",
+      "path": "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md"
+    },
+    {
+      "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
+      "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
+    },
+    {
+      "basename": "Replenishments",
+      "path": "03 Resources/NALO Areas/Replenishments.md"
+    },
+    {
+      "basename": "Spurs & Outbound",
+      "path": "03 Resources/NALO Areas/Spurs & Outbound.md"
+    },
+    {
+      "basename": "Mass Pick & Pack",
+      "path": "03 Resources/NALO Areas/Mass Pick & Pack.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "GSC GDOS Index",
@@ -35,18 +55,6 @@
     {
       "basename": "GSOP-104-1-TL-5",
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-5.pdf"
-    },
-    {
-      "basename": "Replenishments",
-      "path": "03 Resources/NALO Areas/Replenishments.md"
-    },
-    {
-      "basename": "Spurs & Outbound",
-      "path": "03 Resources/NALO Areas/Spurs & Outbound.md"
-    },
-    {
-      "basename": "Mass Pick & Pack",
-      "path": "03 Resources/NALO Areas/Mass Pick & Pack.md"
     },
     {
       "basename": "One on Ones and Guidance",
@@ -67,10 +75,6 @@
     {
       "basename": "USD-SOP-PPE Assignments-001",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-PPE Assignments-001.md"
-    },
-    {
-      "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
-      "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
     },
     {
       "basename": "GLX-SOP-0012 TMS BSR",
@@ -195,10 +199,6 @@
     {
       "basename": "USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink.md"
-    },
-    {
-      "basename": "ZS163n - Supplier Quality Report",
-      "path": "03 Resources/Data Table Notes/ZS163n/ZS163n - Supplier Quality Report.md"
     }
   ],
   "omittedPaths": [],

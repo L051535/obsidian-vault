@@ -4,8 +4,11 @@ status:
 type:
 tags:
 ---
-Being flexible and being able to pivot
-ways to reduce variation and standardize
+# Tips on the Job
+- Be flexible and being able to pivot
+- Find ways to reduce variation and standardize
+- Understand process inside and out
+
 reorg in operations
 ## Terms & Definitions
 - Export - OUS Shipments

@@ -140,6 +140,12 @@
     },
     "01 Projects/Global Day of Service": {
       "textColor": "#ee2020"
+    },
+    "01 Projects/LillyViz": {
+      "textColor": "#4ce194"
+    },
+    "01 Projects/Obsidian Dashboards": {
+      "textColor": "#a62ba2"
     }
   },
   "presets": {
