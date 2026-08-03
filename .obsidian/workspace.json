@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projects/NALO PDC/Day 1 Notes.md",
+                "file": "03 Resources/NALO Areas/Spurs & Outbound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 Notes"
+              "title": "Spurs & Outbound"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 273.5
   },
   "right": {
     "id": "1356bafcfdfce6d8",
@@ -226,16 +226,19 @@
   },
   "active": "4ab73512b640faa0",
   "lastOpenFiles": [
+    "03 Resources/NALO Areas/Replenishments.md",
+    "03 Resources/NALO Areas/Mass Pick & Pack.md",
+    "03 Resources/Deviation Investigation/Root Cause Investigation Toolkit.md",
+    "01 Projects/NALO PDC/Day 1 Notes.md",
     "01 Projects/NALO PDC/NALO Daily Process Team Huddle Process.md",
     "01 Projects/NALO PDC/Physical Inventory.md",
     "01 Projects/NALO PDC/Systems in Logistics.md",
+    "Uploaded Files/Pasted image 20260803121805.png",
+    "03 Resources/Deviation Investigation",
     "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md",
     "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md",
     "01 Projects/LillyViz",
-    "03 Resources/NALO Areas/Replenishments.md",
     "03 Resources/NALO Areas/Spurs & Outbound.md",
-    "03 Resources/NALO Areas/Mass Pick & Pack.md",
-    "01 Projects/NALO PDC/Day 1 Notes.md",
     "01 Projects/Obsidian Dashboards/Home.md",
     "01 Projects/Global Day of Service/GSC GDOS Index.md",
     "01 Projects/Global Day of Service/Requesting PTO for GDOS.md",
@@ -259,9 +262,6 @@
     "03 Resources/NALO Trainings MD/Redline; GQS304, Distribution of Finished Products.md",
     "03 Resources/NALO Trainings MD/USD-SOP-Site Quality Plans-001.md",
     "03 Resources/NALO Trainings MD/USD-SOP-Stock Withdrawal-001.md",
-    "03 Resources/NALO Trainings MD/USD-SOP-Sig Logs and Org Charts-001.md",
-    "03 Resources/NALO Trainings MD/USD-SOP-Security Governance-125.md",
-    "03 Resources/NALO Trainings MD/USD-SOP-Activity Planning TW1000-170.md.tmp.40160.46a31c7a8f15",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",
     "Uploaded Files/Pasted image 20260402105023.png",

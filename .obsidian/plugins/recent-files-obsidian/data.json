@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Spurs & Outbound",
+      "path": "03 Resources/NALO Areas/Spurs & Outbound.md"
+    },
+    {
+      "basename": "Replenishments",
+      "path": "03 Resources/NALO Areas/Replenishments.md"
+    },
+    {
+      "basename": "Mass Pick & Pack",
+      "path": "03 Resources/NALO Areas/Mass Pick & Pack.md"
+    },
+    {
+      "basename": "Root Cause Investigation Toolkit",
+      "path": "03 Resources/Deviation Investigation/Root Cause Investigation Toolkit.md"
+    },
+    {
       "basename": "Day 1 Notes",
       "path": "01 Projects/NALO PDC/Day 1 Notes.md"
     },
@@ -23,18 +39,6 @@
     {
       "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
       "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
-    },
-    {
-      "basename": "Replenishments",
-      "path": "03 Resources/NALO Areas/Replenishments.md"
-    },
-    {
-      "basename": "Spurs & Outbound",
-      "path": "03 Resources/NALO Areas/Spurs & Outbound.md"
-    },
-    {
-      "basename": "Mass Pick & Pack",
-      "path": "03 Resources/NALO Areas/Mass Pick & Pack.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "NALO Export Ramp Up",
       "path": "00 Inbox/NALO Export Ramp Up.md"
-    },
-    {
-      "basename": "USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink.md"
     }
   ],
   "omittedPaths": [],
