@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Resources/NALO Areas/Spurs & Outbound.md",
+                "file": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spurs & Outbound"
+              "title": "Monthly Metric Update"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 403.5
   },
   "right": {
     "id": "1356bafcfdfce6d8",
@@ -226,6 +226,9 @@
   },
   "active": "4ab73512b640faa0",
   "lastOpenFiles": [
+    "03 Resources/NALO Areas/Spurs & Outbound.md",
+    "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md",
+    "02 Areas/NALO Monthly Metrics",
     "Uploaded Files/NALO Trainings PDF/USD-SOP-CPSIA Cert of Compliance-082.pdf",
     "Uploaded Files/NALO Trainings PDF/USD-SOP-FDA Product Sampling-001.pdf",
     "03 Resources/NALO Areas/Replenishments.md",
@@ -240,7 +243,6 @@
     "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md",
     "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md",
     "01 Projects/LillyViz",
-    "03 Resources/NALO Areas/Spurs & Outbound.md",
     "01 Projects/Obsidian Dashboards/Home.md",
     "01 Projects/Global Day of Service/GSC GDOS Index.md",
     "01 Projects/Global Day of Service/Requesting PTO for GDOS.md",
@@ -253,10 +255,8 @@
     "Uploaded Files/NALO Trainings PDF/USD-SOP-Wrhs, Dock, and Admin Safety Instr-001.pdf",
     "Uploaded Files/NALO Trainings PDF/USD-SOP-Facility SSS and CS Area Security-001.pdf",
     "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md",
-    "Uploaded Files/NALO Trainings PDF/NALO_Transition_Document.pdf",
     "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md",
     "03 Resources/NALO Trainings MD/USD-SOP-PPE Assignments-001.md",
-    "03 Resources/NALO Trainings MD/USD-SOP-PPE Assignments-001.md.tmp.40160.add18138bf46",
     "03 Resources/NALO Trainings MD/USD-SOP-Electrical Safety Program-013.md",
     "03 Resources/NALO Trainings MD/GLX-SOP-0012 TMS BSR.md",
     "03 Resources/NALO Trainings MD/GSCSOP0125 Warehouse Capacity Process.md",
