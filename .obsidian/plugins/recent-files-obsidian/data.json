@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
       "basename": "Monthly Metric Update",
       "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
       "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "GSC GDOS Index",
