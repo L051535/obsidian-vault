@@ -8,17 +8,17 @@ tags:
 
 1. VL06O — Outbound Deliveries — DOMESTIC EACH. 
 	- DELIVERY TYPE = ZL01
-	- Shipping Point/Receiving Point = 5668
+	- Shipping Point/Receiving Point = 5668 (PLAINFIELD) OR 5125 (ENFIELD)
 	- Change "Data" to "Sheet1"
 	- Change Actual delivery qty to Delivery Quantity
 2. VL06O — Outbound Deliveries — EXPORT EACHES 
 	- DELIVERY TYPE = ZL02 to ZL03
-	- Shipping Point/Receiving Point = 5668
+	- Shipping Point/Receiving Point = 5668 (PLAINFIELD) OR 5125 (ENFIELD)
 	- Change "Data" to "Sheet1"
 	- Change Actual delivery qty to Delivery Quantity
 3. VL06O — Outbound Deliveries — NALO SAMPLES. 
 	- DELIVERY TYPE = ZL11
-	- Shipping Point/Receiving Point = 5668
+	- Shipping Point/Receiving Point = 5668 (PLAINFIELD) OR 5125 (ENFIELD)
 	- Change "Data" to "Sheet1"
 	- Change Actual delivery qty to Delivery Quantity
 4. Vl06O — Outbound Deliveries — PDC TO 3PL. 

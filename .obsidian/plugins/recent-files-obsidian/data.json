@@ -5,6 +5,10 @@
       "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
     },
     {
+      "basename": "Brooke 1 on 1 (4.6.26)",
+      "path": "02 Areas/Networking/Brooke 1 on 1 (4.6.26).md"
+    },
+    {
       "basename": "Spurs & Outbound",
       "path": "03 Resources/NALO Areas/Spurs & Outbound.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Brooke 1 on 1 (4.6.26)",
-      "path": "02 Areas/Networking/Brooke 1 on 1 (4.6.26).md"
     },
     {
       "basename": "Insights 2026",
