@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "01 Projects/NALO Kaizen/Untitled.md"
+    },
+    {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Everstream Claude Project",
       "path": "00 Inbox/Everstream Claude Project.md"
-    },
-    {
-      "basename": "NALO Export Ramp Up Notes",
-      "path": "00 Inbox/NALO Export Ramp Up Notes.md"
     }
   ],
   "omittedPaths": [],
