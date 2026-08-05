@@ -2,11 +2,15 @@
   "recentFiles": [
     {
       "basename": "Untitled",
-      "path": "01 Projects/NALO Kaizen/Untitled.md"
+      "path": "00 Inbox/Untitled.md"
     },
     {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "01 Projects/NALO Kaizen/Untitled.md"
     },
     {
       "basename": "Monthly Metric Update",
@@ -195,10 +199,6 @@
     {
       "basename": "Zettelkasten Framework",
       "path": "03 Resources/Notes Framework/Zettelkasten Framework.md"
-    },
-    {
-      "basename": "Everstream Claude Project",
-      "path": "00 Inbox/Everstream Claude Project.md"
     }
   ],
   "omittedPaths": [],
