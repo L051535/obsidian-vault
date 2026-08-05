@@ -15,3 +15,9 @@ tags:
 Set up Kaizen meeting with Yughandar & Brandon
 Follow up 5S
 LillyViz
+
+
+Interesting Tables:
+zv_cmm
+zxx_v_sd10-40
+MMIM11 and MMIM12
