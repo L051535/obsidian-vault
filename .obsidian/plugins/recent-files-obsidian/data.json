@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Metrics Dashboard",
-      "path": "00 Inbox/Metrics Dashboard.md"
+      "basename": "Monthly Metric Update",
+      "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
+    },
+    {
+      "basename": "Metrics Dashboard Quick notes",
+      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
+    },
+    {
+      "basename": "Everstream Claude Project",
+      "path": "00 Inbox/Everstream Claude Project.md"
+    },
+    {
+      "basename": "Everstream ZS163n Filters",
+      "path": "03 Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
+    },
+    {
+      "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
+      "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
+    },
+    {
+      "basename": "USD-SOP-Housekeeping-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md"
+    },
+    {
+      "basename": "Redline; GQS304, Distribution of Finished Products",
+      "path": "03 Resources/NALO Trainings MD/Redline; GQS304, Distribution of Finished Products.md"
+    },
+    {
+      "basename": "DOHS067, Electrical Awareness Training-387",
+      "path": "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md"
+    },
+    {
+      "basename": "USD-SOP-NALO Site Self-Inspection and Internal Auditing Program-001",
+      "path": "Uploaded Files/NALO Trainings PDF/USD-SOP-NALO Site Self-Inspection and Internal Auditing Program-001.pdf"
+    },
+    {
+      "basename": "USD-SOP-Facility SSS and CS Area Security-001",
+      "path": "Uploaded Files/NALO Trainings PDF/USD-SOP-Facility SSS and CS Area Security-001.pdf"
     },
     {
       "basename": "Home",
@@ -11,10 +47,6 @@
     {
       "basename": "Untitled",
       "path": "01 Projects/NALO Kaizen/Untitled.md"
-    },
-    {
-      "basename": "Monthly Metric Update",
-      "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
     },
     {
       "basename": "Brooke 1 on 1 (4.6.26)",
@@ -57,10 +89,6 @@
       "path": "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md"
     },
     {
-      "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
-      "path": "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md"
-    },
-    {
       "basename": "GSC GDOS Index",
       "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
     },
@@ -81,16 +109,8 @@
       "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
     },
     {
-      "basename": "USD-SOP-Housekeeping-001",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md"
-    },
-    {
       "basename": "NALO_Transition_Document",
       "path": "Uploaded Files/NALO Trainings PDF/NALO_Transition_Document.pdf"
-    },
-    {
-      "basename": "DOHS067, Electrical Awareness Training-387",
-      "path": "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md"
     },
     {
       "basename": "USD-SOP-PPE Assignments-001",
@@ -103,10 +123,6 @@
     {
       "basename": "GSCSOP0125 Warehouse Capacity Process",
       "path": "03 Resources/NALO Trainings MD/GSCSOP0125 Warehouse Capacity Process.md"
-    },
-    {
-      "basename": "Redline; GQS304, Distribution of Finished Products",
-      "path": "03 Resources/NALO Trainings MD/Redline; GQS304, Distribution of Finished Products.md"
     },
     {
       "basename": "USD-SOP-Site Quality Plans-001",
@@ -183,22 +199,6 @@
     {
       "basename": "Default Template",
       "path": "03 Resources/Templates/Default Template.md"
-    },
-    {
-      "basename": "Index Template",
-      "path": "03 Resources/Templates/Index Template.md"
-    },
-    {
-      "basename": "My Note-Taking System",
-      "path": "03 Resources/Notes Framework/My Note-Taking System.md"
-    },
-    {
-      "basename": "PARA Framework",
-      "path": "03 Resources/Notes Framework/PARA Framework.md"
-    },
-    {
-      "basename": "Zettelkasten Framework",
-      "path": "03 Resources/Notes Framework/Zettelkasten Framework.md"
     }
   ],
   "omittedPaths": [],
