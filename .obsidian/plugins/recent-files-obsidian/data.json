@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "00 Inbox/Untitled.md"
+    },
+    {
+      "basename": "Everstream Claude Project",
+      "path": "00 Inbox/Everstream Claude Project.md"
+    },
+    {
       "basename": "Important Links",
       "path": "01 Projects/NALO Kaizen/Important Links.md"
     },
     {
       "basename": "5S Important Links",
       "path": "01 Projects/5S Workshop/5S Important Links.md"
-    },
-    {
-      "basename": "Everstream Claude Project",
-      "path": "00 Inbox/Everstream Claude Project.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "GLX-SOP-0012 TMS BSR",
       "path": "Uploaded Files/NALO Trainings PDF/GLX-SOP-0012 TMS BSR.pdf"
-    },
-    {
-      "basename": "CQP-304-10, Verification of Product Identifiers Associated with Distributed Product",
-      "path": "Uploaded Files/NALO Trainings PDF/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.pdf"
     }
   ],
   "omittedPaths": [],
