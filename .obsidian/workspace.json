@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf"
+                "file": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-1 Batch Bracketing.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "NALO_Transition_Document"
+              "title": "GSOP-104-1-TL-1 Batch Bracketing"
             }
           }
         ],
@@ -237,10 +237,11 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "dc06cbf117fa9c4d",
+  "active": "6c7ff0812cc4d24b",
   "lastOpenFiles": [
-    "01 Projects/5S Workshop/5S Important Links.md",
     "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf",
+    "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-1 Batch Bracketing.pdf",
+    "01 Projects/5S Workshop/5S Important Links.md",
     "01 Projects/Global Day of Service/GSC GDOS Mailing List.md",
     "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md",
     "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md",
