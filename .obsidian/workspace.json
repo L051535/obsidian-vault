@@ -25,12 +25,14 @@
             "id": "dc06cbf117fa9c4d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-1 Batch Bracketing.pdf"
+                "file": "00 Inbox/Throughput Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GSOP-104-1-TL-1 Batch Bracketing"
+              "icon": "lucide-file",
+              "title": "Throughput Dashboard"
             }
           }
         ],
@@ -237,10 +239,12 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "6c7ff0812cc4d24b",
+  "active": "dc06cbf117fa9c4d",
   "lastOpenFiles": [
-    "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf",
+    "00 Inbox/IDAP CS Questions.md",
+    "00 Inbox/Throughput Dashboard.md",
     "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-1 Batch Bracketing.pdf",
+    "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf",
     "01 Projects/5S Workshop/5S Important Links.md",
     "01 Projects/Global Day of Service/GSC GDOS Mailing List.md",
     "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md",
@@ -255,7 +259,6 @@
     "Uploaded Files/NALO Trainings PDF/USD-SOP-NALO US DSCSA Exceptions Management 1.pdf",
     "Uploaded Files/NALO Trainings PDF/USD-SOP-NALO US DSCSA Exceptions Management.pdf",
     "Uploaded Files/NALO Trainings PDF/GSOP-104-8 -  Quality Deviation Management Overview.pdf",
-    "Uploaded Files/NALO Trainings PDF/USD-SOP-Logbooks in NALO-178.pdf",
     "01 Projects/Obsidian Dashboards/Home.md",
     "03 Resources/AI Tools/Claude Usage Tier Request.md",
     "03 Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
@@ -274,7 +277,6 @@
     "03 Resources/NALO Areas/Spurs & Outbound.md",
     "03 Resources/NALO Areas/Replenishments.md",
     "03 Resources/NALO Areas/Mass Pick & Pack.md",
-    "03 Resources/Deviation Investigation/Root Cause Investigation Toolkit.md",
     "Uploaded Files/Pasted image 20260803121805.png",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Throughput Dashboard",
+      "path": "00 Inbox/Throughput Dashboard.md"
+    },
+    {
+      "basename": "IDAP CS Questions",
+      "path": "00 Inbox/IDAP CS Questions.md"
+    },
+    {
       "basename": "GSOP-104-1-TL-1 Batch Bracketing",
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-1 Batch Bracketing.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Obsidian Dashboard Index",
       "path": "01 Projects/Obsidian Dashboards/Obsidian Dashboard Index.md"
-    },
-    {
-      "basename": "Material Group Code to Commodity Code",
-      "path": "03 Resources/Data Table Notes/Material Group Code to Commodity Code.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     }
   ],
   "omittedPaths": [],
