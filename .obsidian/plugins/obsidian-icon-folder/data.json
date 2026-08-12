@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBrushCleaning",
+      "LiAlertTriangle",
+      "LiRecycle",
       "LiChartColumnBig",
-      "LiLayoutDashboard",
-      "LiFileWarning",
-      "LiMessageCircleWarning",
-      "LiLibrarySquare"
+      "LiLayoutDashboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -92,5 +92,8 @@
   "04 Archive/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare",
   "04 Archive/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare",
   "05 Zettelkasten": "LiLayers",
-  "01 Projects/LillyViz": "LiChartColumnBig"
+  "01 Projects/LillyViz": "LiChartColumnBig",
+  "01 Projects/NALO Kaizen": "LiRecycle",
+  "01 Projects/Metrics Dashboard": "LiAlertTriangle",
+  "01 Projects/5S Workshop": "LiBrushCleaning"
 }
