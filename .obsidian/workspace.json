@@ -25,14 +25,12 @@
             "id": "dc06cbf117fa9c4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Veeva MCP Connector Plans.md",
-                "mode": "source",
-                "source": false
+                "file": "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Veeva MCP Connector Plans"
+              "icon": "lucide-file-text",
+              "title": "NALO_Transition_Document"
             }
           }
         ],
@@ -239,8 +237,15 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "6c7ff0812cc4d24b",
+  "active": "dc06cbf117fa9c4d",
   "lastOpenFiles": [
+    "01 Projects/5S Workshop/5S Important Links.md",
+    "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf",
+    "01 Projects/Global Day of Service/GSC GDOS Mailing List.md",
+    "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md",
+    "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md",
+    "01 Projects/NALO Kaizen/Important Links.md",
+    "Veeva MCP Connector Plans.md",
     "Uploaded Files/NALO Trainings PDF/GSOP-104-1 Record Creation and Fact Finding.pdf",
     "Uploaded Files/NALO Trainings PDF/GSOP-104-3-TL-5 AI for Deviations.pdf",
     "Uploaded Files/NALO Trainings PDF/GSOP-1405.1-TL.1.pdf",
@@ -251,21 +256,14 @@
     "Uploaded Files/NALO Trainings PDF/GSOP-104-8 -  Quality Deviation Management Overview.pdf",
     "Uploaded Files/NALO Trainings PDF/USD-SOP-Logbooks in NALO-178.pdf",
     "01 Projects/Obsidian Dashboards/Home.md",
-    "Veeva MCP Connector Plans.md",
     "03 Resources/AI Tools/Claude Usage Tier Request.md",
     "03 Resources/AI Tools/AI-Connect OFG & Optimus Tool.md",
     "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md",
     "01 Projects/Global Day of Service/Requesting PTO for GDOS.md",
-    "01 Projects/Global Day of Service/GSC GDOS Mailing List.md",
     "01 Projects/Global Day of Service/GSC GDOS Index.md",
     "00 Inbox/Everstream Claude Project.md",
     "00 Inbox/Japan & Korea TCA & Double Stacking US pallets.md",
-    "Uploaded Files/NALO Trainings PDF/USD-SOP-NALO Procedures, Attachments and Training Documents Management-001.pdf",
-    "Uploaded Files/NALO Trainings PDF/USD-SOP-Recalls and Mkt Wdrawals-001.pdf",
-    "01 Projects/NALO Kaizen/Important Links.md",
-    "01 Projects/5S Workshop/5S Important Links.md",
     "00 Inbox/Spurs Employees who Cannot Login to RF Gun.md",
-    "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md",
     "03 Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md",
     "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md",
     "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md",
@@ -276,7 +274,6 @@
     "03 Resources/NALO Areas/Replenishments.md",
     "03 Resources/NALO Areas/Mass Pick & Pack.md",
     "03 Resources/Deviation Investigation/Root Cause Investigation Toolkit.md",
-    "01 Projects/NALO PDC/Day 1 Notes.md",
     "Uploaded Files/Pasted image 20260803121805.png",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",
