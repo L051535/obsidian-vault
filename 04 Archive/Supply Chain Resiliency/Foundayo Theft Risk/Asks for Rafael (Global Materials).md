@@ -1,6 +1,5 @@
 ---
 date:
-type: action-items
 status:
 tags:
   - type/action-items

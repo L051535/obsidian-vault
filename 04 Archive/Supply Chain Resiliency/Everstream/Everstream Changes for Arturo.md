@@ -1,5 +1,4 @@
 ---
-type: technical
 date: 2026-04-01
 status:
 tags:

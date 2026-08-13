@@ -1,6 +1,5 @@
 ---
 date:
-type: reference
 status:
 tags:
   - type/reference

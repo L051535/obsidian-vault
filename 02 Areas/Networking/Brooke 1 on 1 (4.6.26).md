@@ -1,10 +1,10 @@
 ---
 date: 2026-04-06
 status:
-type: one-on-one
 tags:
   - type/meeting
   - type/networking
+  - type/one-on-one
 ---
 # Topics to Cover
 - Updates on placement from Greg

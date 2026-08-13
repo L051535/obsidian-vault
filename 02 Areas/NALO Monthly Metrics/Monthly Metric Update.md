@@ -30,3 +30,5 @@ tags:
 1. Access S4P and enter in VL06O
 2. Select list outbound deliveries
 3. List Variant on top tab and enter above variants (remove owner field)
+
+## Above data obsolete

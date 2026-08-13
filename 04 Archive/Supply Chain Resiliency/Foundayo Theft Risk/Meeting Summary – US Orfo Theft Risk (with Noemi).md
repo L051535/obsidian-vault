@@ -1,7 +1,6 @@
 ---
 date: 2026-04-03
 status:
-type: meeting
 tags:
   - type/meeting
   - initiative/orfo-security

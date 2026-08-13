@@ -1,6 +1,5 @@
 ---
 date: 2026-04-06
-type: reference
 status:
 tags:
   - type/reference

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLibrarySquare",
+      "LiGoal",
       "LiBrushCleaning",
       "LiAlertTriangle",
-      "LiRecycle",
-      "LiChartColumnBig",
-      "LiLayoutDashboard"
+      "LiRecycle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -95,5 +95,10 @@
   "01 Projects/LillyViz": "LiChartColumnBig",
   "01 Projects/NALO Kaizen": "LiRecycle",
   "01 Projects/Metrics Dashboard": "LiAlertTriangle",
-  "01 Projects/5S Workshop": "LiBrushCleaning"
+  "01 Projects/5S Workshop": "LiBrushCleaning",
+  "02 Areas/NALO Monthly Metrics": "LiGoal",
+  "03 Resources/NALO Trainings MD/00 NALO Trainings MOC.md": {
+    "iconName": "LiLibrarySquare",
+    "iconColor": "#407aed"
+  }
 }

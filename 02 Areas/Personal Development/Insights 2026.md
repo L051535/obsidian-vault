@@ -1,10 +1,9 @@
 ---
-type: personal
 date: 2026-03-26
 status:
 tags:
   - type/personal
-  - "#insights-training"
+  - insights-training
 ---
 
 Date: 3/26/2026

@@ -155,6 +155,12 @@
     },
     "01 Projects/5S Workshop": {
       "textColor": "#66ae4c"
+    },
+    "03 Resources/NALO Trainings MD": {
+      "textColor": "#3297f5"
+    },
+    "03 Resources/NALO Trainings MD/00 NALO Trainings MOC.md": {
+      "textColor": "#3297f5"
     }
   },
   "presets": {

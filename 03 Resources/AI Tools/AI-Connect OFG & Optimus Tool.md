@@ -1,6 +1,5 @@
 ---
 date:
-type: meeting
 status:
 tags:
   - type/meeting

@@ -1,16 +1,16 @@
 ---
 date: 2026-07-24
-status:
+status: active
 type: index
 tags:
-  - 
+  - community-service
 aliases:
-  -
+  - Global Day of Service
 ---
 ## Overview
 
 > [!abstract] Purpose
-> _What is this project or area about? What problem does it solve or need does it serve?_
+> Coordinating NALO's participation in Lilly's Global Day of Service — a company-wide volunteer event. Covers who's on the communications list and how to request the time off in Workday.
 
 | Field            | Value                        |     |
 | ---------------- | ---------------------------- | --- |
@@ -39,11 +39,7 @@ path includes Projects/Global Day of Service
 
 ## Notes & Meetings
 
-| Note | Date | Summary |
-| ---- | ---- | ------- |
-| [[]] |      |         |
-|      |      |         |
-|      |      |         |
+_No meeting notes logged yet — add rows here as they happen._
 
 ---
 
@@ -56,9 +52,9 @@ path includes Projects/Global Day of Service
 
 ## Related
 
-- **Parent:** [[]]
-- **Upstream dependencies:** [[]]
-- **Downstream / outputs:** [[]]
-- **See also:** [[]]
+- **Parent:** —
+- **Upstream dependencies:** —
+- **Downstream / outputs:** —
+- **See also:** [[GDOS Ideas from Noemi]]
 
 ---
