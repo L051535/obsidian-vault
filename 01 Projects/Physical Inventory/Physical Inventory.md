@@ -5,8 +5,7 @@ type:
 tags:
 ---
 # Date
-- October
-- Friday, Saturday, Sunday 3 day weekend
+- In October on a Friday, Saturday, Sunday 3 day weekend
 
 # Protocol
 - A protocol put in place and approved designating how much resources and what racks etc.

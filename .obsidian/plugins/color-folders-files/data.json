@@ -139,7 +139,7 @@
       "textColor": "#03fcf8"
     },
     "01 Projects/Global Day of Service": {
-      "textColor": "#ee2020"
+      "textColor": "#da3e3e"
     },
     "01 Projects/LillyViz": {
       "textColor": "#4ce194"
@@ -161,6 +161,21 @@
     },
     "03 Resources/NALO Trainings MD/00 NALO Trainings MOC.md": {
       "textColor": "#3297f5"
+    },
+    "01 Projects/LillyViz/LillyViz Index.md": {
+      "textColor": "#4ce194"
+    },
+    "01 Projects/Global Day of Service/GSC GDOS Index.md": {
+      "textColor": "#da3e3e"
+    },
+    "01 Projects/5S Workshop/5S Workshop Index.md": {
+      "textColor": "#66ae4c"
+    },
+    "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md": {
+      "textColor": "#c28c2e"
+    },
+    "01 Projects/NALO Kaizen/NALO Kaizen Index.md": {
+      "textColor": "#8095ff"
     }
   },
   "presets": {

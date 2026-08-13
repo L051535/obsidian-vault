@@ -3,6 +3,7 @@ date: 2026-04-08
 status:
 type:
 tags:
+  - initiative/iran-conflict
 ---
 - Supplier just a rough count in region
 - Mainly need to understand CM and Internal MQ Site mapped with radius (Even just an Excel file is good)

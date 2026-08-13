@@ -36,6 +36,6 @@ LIMIT 10
 ## Jump To
 
 - [[PARA Framework]] · [[My Note-Taking System]]
+- [[Projects Index]] · [[Archive Index]]
 - [[NALO Trainings MOC]]
-- [[GSC GDOS Index]]
 - [[Obsidian Dashboard Index]]

@@ -1,8 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "Archive Index",
+      "path": "04 Archive/Archive Index.md"
+    },
+    {
+      "basename": "April Monthly Org Meeting",
+      "path": "04 Archive/D&T Monthly Meeting/April Monthly Org Meeting.md"
+    },
+    {
+      "basename": "SCRM Council – March",
+      "path": "04 Archive/SCRM/SCRM Council – March.md"
+    },
+    {
+      "basename": "LillyViz Index",
+      "path": "01 Projects/LillyViz/LillyViz Index.md"
+    },
+    {
+      "basename": "USD-SOP-Recalls and Mkt Wdrawals-001",
+      "path": "03 Resources/NALO Trainings MD/USD-SOP-Recalls and Mkt Wdrawals-001.md"
+    },
+    {
+      "basename": "Physical Inventory",
+      "path": "01 Projects/Physical Inventory/Physical Inventory.md"
+    },
+    {
+      "basename": "NALO Export Ramp Up Notes",
+      "path": "01 Projects/Export Ramp Up/NALO Export Ramp Up Notes.md"
+    },
+    {
+      "basename": "NALO Export Ramp Up",
+      "path": "01 Projects/Export Ramp Up/NALO Export Ramp Up.md"
+    },
+    {
+      "basename": "NALO PDC Index",
+      "path": "02 Areas/NALO PDC/NALO PDC Index.md"
+    },
+    {
+      "basename": "Projects Index",
+      "path": "01 Projects/Projects Index.md"
+    },
+    {
+      "basename": "Temptale GeoX Implementation Index",
+      "path": "01 Projects/Temptale GeoX Implementation/Temptale GeoX Implementation Index.md"
+    },
+    {
+      "basename": "TempTale GeoX Meeting Jul-24",
+      "path": "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md"
+    },
+    {
+      "basename": "Metrics Dashboard Index",
+      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md"
+    },
+    {
+      "basename": "5S Workshop Index",
+      "path": "01 Projects/5S Workshop/5S Workshop Index.md"
+    },
+    {
+      "basename": "5S Important Links",
+      "path": "01 Projects/5S Workshop/5S Important Links.md"
+    },
+    {
+      "basename": "Requesting PTO for GDOS",
+      "path": "01 Projects/Global Day of Service/Requesting PTO for GDOS.md"
+    },
+    {
+      "basename": "GSC GDOS Mailing List",
+      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
+    },
+    {
+      "basename": "GSC GDOS Index",
+      "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
+    },
+    {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "Important Links",
+      "path": "01 Projects/NALO Kaizen/Important Links.md"
+    },
+    {
+      "basename": "Japan & Korea TCA & Double Stacking US pallets",
+      "path": "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md"
+    },
+    {
+      "basename": "Questions for IDAP Customer Service",
+      "path": "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md"
+    },
+    {
+      "basename": "Everstream Claude Project",
+      "path": "00 Inbox/Everstream Claude Project.md"
+    },
+    {
+      "basename": "Metrics Dashboard Quick notes",
+      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
+    },
+    {
+      "basename": "NALO Daily Process Team Huddle Process",
+      "path": "02 Areas/Daily Process Team Huddle/NALO Daily Process Team Huddle Process.md"
+    },
+    {
+      "basename": "Systems in Logistics",
+      "path": "03 Resources/First 15-30 Days NALO/Systems in Logistics.md"
+    },
+    {
+      "basename": "One on Ones and Guidance",
+      "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
+    },
+    {
+      "basename": "Day 1 Notes",
+      "path": "03 Resources/First 15-30 Days NALO/Day 1 Notes.md"
     },
     {
       "basename": "NALO Trainings MOC",
@@ -77,40 +185,8 @@
       "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
     },
     {
-      "basename": "Systems in Logistics",
-      "path": "01 Projects/NALO PDC/Systems in Logistics.md"
-    },
-    {
-      "basename": "Physical Inventory",
-      "path": "01 Projects/NALO PDC/Physical Inventory.md"
-    },
-    {
-      "basename": "NALO Export Ramp Up Notes",
-      "path": "01 Projects/NALO PDC/NALO Export Ramp Up Notes.md"
-    },
-    {
-      "basename": "NALO Export Ramp Up",
-      "path": "01 Projects/NALO PDC/NALO Export Ramp Up.md"
-    },
-    {
-      "basename": "NALO Daily Process Team Huddle Process",
-      "path": "01 Projects/NALO PDC/NALO Daily Process Team Huddle Process.md"
-    },
-    {
-      "basename": "Day 1 Notes",
-      "path": "01 Projects/NALO PDC/Day 1 Notes.md"
-    },
-    {
-      "basename": "GSC GDOS Index",
-      "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
-    },
-    {
       "basename": "Throughput Dashboard",
       "path": "00 Inbox/Throughput Dashboard.md"
-    },
-    {
-      "basename": "IDAP CS Questions",
-      "path": "00 Inbox/IDAP CS Questions.md"
     },
     {
       "basename": "GSOP-104-1-TL-1 Batch Bracketing",
@@ -121,84 +197,8 @@
       "path": "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf"
     },
     {
-      "basename": "5S Important Links",
-      "path": "01 Projects/5S Workshop/5S Important Links.md"
-    },
-    {
-      "basename": "GSC GDOS Mailing List",
-      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
-    },
-    {
       "basename": "NALO Lilly Viz Hierarchy & Admins",
       "path": "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md"
-    },
-    {
-      "basename": "Metrics Dashboard Quick notes",
-      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
-    },
-    {
-      "basename": "Important Links",
-      "path": "01 Projects/NALO Kaizen/Important Links.md"
-    },
-    {
-      "basename": "Claude Usage Tier Request",
-      "path": "03 Resources/AI Tools/Claude Usage Tier Request.md"
-    },
-    {
-      "basename": "AI-Connect OFG & Optimus Tool",
-      "path": "03 Resources/AI Tools/AI-Connect OFG & Optimus Tool.md"
-    },
-    {
-      "basename": "Requesting PTO for GDOS",
-      "path": "01 Projects/Global Day of Service/Requesting PTO for GDOS.md"
-    },
-    {
-      "basename": "Everstream Claude Project",
-      "path": "00 Inbox/Everstream Claude Project.md"
-    },
-    {
-      "basename": "Japan & Korea TCA & Double Stacking US pallets",
-      "path": "00 Inbox/Japan & Korea TCA & Double Stacking US pallets.md"
-    },
-    {
-      "basename": "Everstream ZS163n Filters",
-      "path": "03 Resources/Data Table Notes/ZS163n/Everstream ZS163n Filters.md"
-    },
-    {
-      "basename": "USD-SOP-NALO Site Self-Inspection and Internal Auditing Program-001",
-      "path": "Uploaded Files/NALO Trainings PDF/USD-SOP-NALO Site Self-Inspection and Internal Auditing Program-001.pdf"
-    },
-    {
-      "basename": "USD-SOP-Facility SSS and CS Area Security-001",
-      "path": "Uploaded Files/NALO Trainings PDF/USD-SOP-Facility SSS and CS Area Security-001.pdf"
-    },
-    {
-      "basename": "Brooke 1 on 1 (4.6.26)",
-      "path": "02 Areas/Networking/Brooke 1 on 1 (4.6.26).md"
-    },
-    {
-      "basename": "Spurs & Outbound",
-      "path": "03 Resources/NALO Areas/Spurs & Outbound.md"
-    },
-    {
-      "basename": "Replenishments",
-      "path": "03 Resources/NALO Areas/Replenishments.md"
-    },
-    {
-      "basename": "Mass Pick & Pack",
-      "path": "03 Resources/NALO Areas/Mass Pick & Pack.md"
-    },
-    {
-      "basename": "Root Cause Investigation Toolkit",
-      "path": "03 Resources/Deviation Investigation/Root Cause Investigation Toolkit.md"
-    },
-    {
-      "basename": "GSOP-104-1-TL-5",
-      "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-5.pdf"
-    },
-    {
-      "basename": "One on Ones and Guidance",
-      "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
     }
   ],
   "omittedPaths": [],

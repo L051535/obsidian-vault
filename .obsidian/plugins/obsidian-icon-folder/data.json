@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGroup",
       "LiLibrarySquare",
       "LiGoal",
       "LiBrushCleaning",
-      "LiAlertTriangle",
-      "LiRecycle"
+      "LiAlertTriangle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,7 +55,6 @@
   "01 Projects/Global Day of Service": "LiGlobe",
   "01 Projects/Obsidian Dashboards": "LiLayoutDashboard",
   "01 Projects/Obsidian Dashboards/Home.md": "LiHouse",
-  "01 Projects/NALO PDC": "LiWarehouse",
   "01 Projects/Global Day of Service/GSC GDOS Index.md": {
     "iconName": "LiLibrarySquare",
     "iconColor": "#f50000"
@@ -100,5 +99,12 @@
   "03 Resources/NALO Trainings MD/NALO Trainings MOC.md": {
     "iconName": "LiLibrarySquare",
     "iconColor": "#407aed"
-  }
+  },
+  "02 Areas/Daily Process Team Huddle": "LiGroup",
+  "01 Projects/LillyViz/LillyViz Index.md": "LiLibrarySquare",
+  "01 Projects/5S Workshop/5S Workshop Index.md": "LiLibrarySquare",
+  "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md": "LiLibrarySquare",
+  "01 Projects/NALO Kaizen/NALO Kaizen Index.md": "LiLibrarySquare",
+  "01 Projects/Temptale GeoX Implementation/Temptale GeoX Implementation Index.md": "LiLibrarySquare",
+  "02 Areas/NALO PDC": "LiWarehouse"
 }
