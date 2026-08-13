@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "DOHS067, Electrical Awareness Training-387",
-      "path": "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md"
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
-      "basename": "00 NALO Trainings MOC",
-      "path": "03 Resources/NALO Trainings MD/00 NALO Trainings MOC.md"
+      "basename": "NALO Trainings MOC",
+      "path": "03 Resources/NALO Trainings MD/NALO Trainings MOC.md"
+    },
+    {
+      "basename": "DOHS067, Electrical Awareness Training-387",
+      "path": "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md"
     },
     {
       "basename": "Veeva MCP Connector Plans",
@@ -135,10 +139,6 @@
     {
       "basename": "Important Links",
       "path": "01 Projects/NALO Kaizen/Important Links.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Claude Usage Tier Request",

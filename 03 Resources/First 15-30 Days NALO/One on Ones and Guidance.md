@@ -41,7 +41,7 @@ Looking forward to having you on board.
 
 
 **Trainings referring to Julie Kemp**
-See [[00 NALO Trainings MOC]] for the current SOP/training reference index.
+See [[NALO Trainings MOC]] for the current SOP/training reference index.
 **Reach out to Adriana Dominguez for BCP**
 
 Regards,

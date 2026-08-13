@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md",
+                "file": "01 Projects/Obsidian Dashboards/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOHS067, Electrical Awareness Training-387"
+              "title": "Home"
             }
           }
         ],
@@ -239,12 +239,13 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "dc06cbf117fa9c4d",
+  "active": "6c7ff0812cc4d24b",
   "lastOpenFiles": [
+    "03 Resources/NALO Trainings MD/NALO Trainings MOC.md",
+    "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md",
     "03 Resources/NALO Trainings MD/USD-SOP-Stock Withdrawal-001.md.tmp.48580.ebf0d8c3161a",
     "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md.tmp.48580.ec040a50facb",
     "03 Resources/NALO Trainings MD/USD-SOP-Pallet Config-001.md.tmp.48580.5cd20904b0b1",
-    "03 Resources/NALO Trainings MD/00 NALO Trainings MOC.md",
     "Veeva MCP Connector Plans.md",
     "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md",
     "03 Resources/NALO Trainings MD/NALO Trainings MOC.md.tmp.48992.f69d1b8a3e2a",
@@ -267,7 +268,6 @@
     "03 Resources/NALO Trainings MD/GSOP-104-8 -  Quality Deviation Management Overview.md",
     "03 Resources/NALO Trainings MD/GSOP-104-8 -  Quality Deviation Management Overview.md.tmp.48992.592d44523980",
     "03 Resources/NALO Trainings MD/GSOP-104-7-TL-1 Trend Triage.md",
-    "03 Resources/NALO Trainings MD/GSOP-104-7-TL-1 Trend Triage.md.tmp.48992.bcbed438cd5b",
     "03 Resources/NALO Trainings MD/GSOP-104-3-TL-5 AI for Deviations.md",
     "03 Resources/NALO Trainings MD/GSOP-104-1-TL-5.md",
     "03 Resources/NALO Trainings MD/GSOP-104-1-TL-1 Batch Bracketing.md",
