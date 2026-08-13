@@ -25,14 +25,12 @@
             "id": "dc06cbf117fa9c4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf"
               },
-              "icon": "lucide-file",
-              "title": "NALO Kaizen Index"
+              "icon": "lucide-file-text",
+              "title": "GSOP-104-1-TL-6 Product Risk Assessment"
             }
           }
         ],
@@ -239,13 +237,14 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "dc06cbf117fa9c4d",
+  "active": "6c7ff0812cc4d24b",
   "lastOpenFiles": [
+    "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
+    "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf",
     "01 Projects/NALO Kaizen/Important Links.md",
     "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md",
     "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md",
     "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md",
-    "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
     "04 Archive/Archive Index.md",
     "04 Archive/D&T Monthly Meeting/April Monthly Org Meeting.md",
     "04 Archive/Archive Index.md.tmp.31880.2f2ed7822bdf",
@@ -260,7 +259,6 @@
     "04 Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md.tmp.31880.0000b4a5cdb5",
     "04 Archive/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md.tmp.31880.38f7bc239418",
     "04 Archive/SCRM/SCRM Council – March.md",
-    "04 Archive/Supply Chain Resiliency/Everstream/Everstream.md.tmp.31880.87ce8b6ad7f0",
     "01 Projects/LillyViz/LillyViz Index.md",
     "03 Resources/NALO Trainings MD/USD-SOP-Recalls and Mkt Wdrawals-001.md",
     "01 Projects/Global Day of Service/GDOS Ideas from Noemi.md",
@@ -276,7 +274,6 @@
     "01 Projects/5S Workshop/5S Important Links.md",
     "01 Projects/Global Day of Service/Requesting PTO for GDOS.md",
     "01 Projects/Global Day of Service/GSC GDOS Mailing List.md",
-    "01 Projects/Global Day of Service/GSC GDOS Index.md",
     "Uploaded Files/Pasted image 20260803121805.png",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",
