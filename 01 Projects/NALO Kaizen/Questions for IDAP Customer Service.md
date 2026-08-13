@@ -13,4 +13,3 @@ tags:
 	- Need to swap to wooden pallet and bring in, but then how to swap to hybrid
 	- Can we/are we phasing out active containers especially for green trays.
 
-ALL IDAP SHIPMENTS GOING TO PLASTIC - According to Brandon Bowler 

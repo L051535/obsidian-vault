@@ -23,7 +23,7 @@ tags:
 
 - [[Important Links]] — Kaizen project charter, prioritization matrix, and Export Process VSM (SharePoint/OneDrive links)
 - [[Japan & Korea TCA & Double Stacking US pallets]] — meeting notes on transitioning Japan/Korea export lanes to US-standard plastic pallets
-- [[Questions for IDAP Customer Service]] — open follow-up questions on container/pallet phase-out and repalletization
+- [[IDAP US Pallet Implementation Q&A]] — open follow-up questions on container/pallet phase-out and repalletization
 
 ---
 
@@ -38,10 +38,10 @@ path includes Projects/NALO Kaizen
 
 ## Notes & Meetings
 
-| Note | Date | Summary |
-| ---- | ---- | ------- |
+| Note                                               | Date       | Summary                                                                                                                                            |
+| -------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Japan & Korea TCA & Double Stacking US pallets]] | 2026-08-10 | Japan/Korea can already accept US pallets; plastic pallet rollout expected ~September; discussed removing Export from the 3PL inbound-request loop |
-| [[Questions for IDAP Customer Service]] | 2026-08-12 | Open questions on stopping container shipments to Japan and repalletizing green-tray active-container product |
+| [[IDAP US Pallet Implementation Q&A]]              | 2026-08-12 | Open questions and answers on US pallet implementation, plastic pallet implementation, and how pallets will be configured.                         |
 
 ---
 

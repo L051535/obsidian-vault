@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "NALO Kaizen Index",
+      "path": "01 Projects/NALO Kaizen/NALO Kaizen Index.md"
+    },
+    {
+      "basename": "Important Links",
+      "path": "01 Projects/NALO Kaizen/Important Links.md"
+    },
+    {
+      "basename": "IDAP US Pallet Implementation Q&A",
+      "path": "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md"
+    },
+    {
+      "basename": "Japan & Korea TCA & Double Stacking US pallets",
+      "path": "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md"
+    },
+    {
+      "basename": "Questions for IDAP Customer Service",
+      "path": "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md"
+    },
+    {
       "basename": "Archive Index",
       "path": "04 Archive/Archive Index.md"
     },
@@ -75,18 +95,6 @@
     {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
-    },
-    {
-      "basename": "Important Links",
-      "path": "01 Projects/NALO Kaizen/Important Links.md"
-    },
-    {
-      "basename": "Japan & Korea TCA & Double Stacking US pallets",
-      "path": "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md"
-    },
-    {
-      "basename": "Questions for IDAP Customer Service",
-      "path": "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md"
     },
     {
       "basename": "Everstream Claude Project",
@@ -191,14 +199,6 @@
     {
       "basename": "GSOP-104-1-TL-1 Batch Bracketing",
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-1 Batch Bracketing.pdf"
-    },
-    {
-      "basename": "NALO_Transition_Document",
-      "path": "03 Resources/First 15-30 Days NALO/NALO_Transition_Document.pdf"
-    },
-    {
-      "basename": "NALO Lilly Viz Hierarchy & Admins",
-      "path": "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md"
     }
   ],
   "omittedPaths": [],
