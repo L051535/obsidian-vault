@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "00 Inbox/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -241,6 +241,8 @@
   },
   "active": "dc06cbf117fa9c4d",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "00 Inbox/Untitled 1.md",
     "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
     "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md",
     "01 Projects/LillyViz/LillyViz Index.md",
@@ -275,8 +277,6 @@
     "01 Projects/Export Ramp Up/NALO Export Ramp Up.md",
     "02 Areas/NALO PDC/NALO PDC Index.md",
     "01 Projects/Projects Index.md",
-    "01 Projects/Temptale GeoX Implementation/Temptale GeoX Implementation Index.md",
-    "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md",
     "Uploaded Files/Pasted image 20260803121805.png",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",

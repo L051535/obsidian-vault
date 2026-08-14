@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "00 Inbox/Untitled 1.md"
+    },
+    {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "USD-SOP-Housekeeping-001",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-Housekeeping-001.md"
-    },
-    {
-      "basename": "USD-SOP-Electrical Safety Program-013",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Electrical Safety Program-013.md"
     }
   ],
   "omittedPaths": [],
