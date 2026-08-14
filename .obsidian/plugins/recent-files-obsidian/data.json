@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "NALO Kaizen Index",
+      "path": "01 Projects/NALO Kaizen/NALO Kaizen Index.md"
+    },
+    {
+      "basename": "IDAP US Pallet Implementation Q&A",
+      "path": "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md"
+    },
+    {
+      "basename": "LillyViz Index",
+      "path": "01 Projects/LillyViz/LillyViz Index.md"
+    },
+    {
+      "basename": "NALO Lilly Viz Hierarchy & Admins",
+      "path": "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md"
+    },
+    {
+      "basename": "Physical Inventory",
+      "path": "01 Projects/Physical Inventory/Physical Inventory.md"
+    },
+    {
+      "basename": "GSOP-104-3-TL-5 AI for Deviations",
+      "path": "03 Resources/NALO Trainings MD/GSOP-104-3-TL-5 AI for Deviations.md"
+    },
+    {
+      "basename": "GSOP-104-1-TL-1 Batch Bracketing",
+      "path": "03 Resources/NALO Trainings MD/GSOP-104-1-TL-1 Batch Bracketing.md"
+    },
+    {
       "basename": "Questions for Ian Kleimans",
       "path": "03 Resources/Claude Notes/Questions for Ian Kleimans.md"
     },
@@ -17,16 +49,8 @@
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf"
     },
     {
-      "basename": "NALO Kaizen Index",
-      "path": "01 Projects/NALO Kaizen/NALO Kaizen Index.md"
-    },
-    {
       "basename": "Important Links",
       "path": "01 Projects/NALO Kaizen/Important Links.md"
-    },
-    {
-      "basename": "IDAP US Pallet Implementation Q&A",
-      "path": "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md"
     },
     {
       "basename": "Japan & Korea TCA & Double Stacking US pallets",
@@ -49,16 +73,8 @@
       "path": "04 Archive/SCRM/SCRM Council – March.md"
     },
     {
-      "basename": "LillyViz Index",
-      "path": "01 Projects/LillyViz/LillyViz Index.md"
-    },
-    {
       "basename": "USD-SOP-Recalls and Mkt Wdrawals-001",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-Recalls and Mkt Wdrawals-001.md"
-    },
-    {
-      "basename": "Physical Inventory",
-      "path": "01 Projects/Physical Inventory/Physical Inventory.md"
     },
     {
       "basename": "NALO Export Ramp Up Notes",
@@ -183,22 +199,6 @@
     {
       "basename": "USD-SOP-Electrical Safety Program-013",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-Electrical Safety Program-013.md"
-    },
-    {
-      "basename": "USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Comp Access Author-001 NALO Exacta and Worldlink.md"
-    },
-    {
-      "basename": "USD-SOP-Activity Planning TW1000-170",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Activity Planning TW1000-170.md"
-    },
-    {
-      "basename": "Redline; GQS304, Distribution of Finished Products",
-      "path": "03 Resources/NALO Trainings MD/Redline; GQS304, Distribution of Finished Products.md"
-    },
-    {
-      "basename": "GSCSOP0125 Warehouse Capacity Process",
-      "path": "03 Resources/NALO Trainings MD/GSCSOP0125 Warehouse Capacity Process.md"
     }
   ],
   "omittedPaths": [],

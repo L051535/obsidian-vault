@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Resources/Claude Notes/Questions for Ian Kleimans.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions for Ian Kleimans"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -241,14 +241,19 @@
   },
   "active": "dc06cbf117fa9c4d",
   "lastOpenFiles": [
-    "03 Resources/Claude Notes/Claude MCP Config Locations.md",
+    "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
+    "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md",
+    "01 Projects/LillyViz/LillyViz Index.md",
+    "01 Projects/LillyViz/NALO Lilly Viz Hierarchy & Admins.md",
+    "01 Projects/Physical Inventory/Physical Inventory.md",
+    "03 Resources/NALO Trainings MD/GSOP-104-3-TL-5 AI for Deviations.md",
+    "03 Resources/NALO Trainings MD/GSOP-104-1-TL-1 Batch Bracketing.md",
     "03 Resources/Claude Notes/Questions for Ian Kleimans.md",
+    "03 Resources/Claude Notes/Claude MCP Config Locations.md",
     "00 Inbox/Untitled.md",
     "03 Resources/Claude Notes",
     "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf",
-    "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
     "01 Projects/NALO Kaizen/Important Links.md",
-    "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md",
     "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md",
     "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md",
     "04 Archive/Archive Index.md",
@@ -264,19 +269,14 @@
     "04 Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md.tmp.31880.225a103f5053",
     "04 Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md.tmp.31880.0000b4a5cdb5",
     "04 Archive/SCRM/SCRM Council – March.md",
-    "01 Projects/LillyViz/LillyViz Index.md",
     "03 Resources/NALO Trainings MD/USD-SOP-Recalls and Mkt Wdrawals-001.md",
     "01 Projects/Global Day of Service/GDOS Ideas from Noemi.md",
-    "01 Projects/Physical Inventory/Physical Inventory.md",
     "01 Projects/Export Ramp Up/NALO Export Ramp Up Notes.md",
     "01 Projects/Export Ramp Up/NALO Export Ramp Up.md",
     "02 Areas/NALO PDC/NALO PDC Index.md",
     "01 Projects/Projects Index.md",
     "01 Projects/Temptale GeoX Implementation/Temptale GeoX Implementation Index.md",
     "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md",
-    "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md",
-    "01 Projects/5S Workshop/5S Workshop Index.md",
-    "01 Projects/5S Workshop/5S Important Links.md",
     "Uploaded Files/Pasted image 20260803121805.png",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",
