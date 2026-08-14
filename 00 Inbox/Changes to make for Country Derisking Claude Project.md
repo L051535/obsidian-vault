@@ -1,3 +1,9 @@
+---
+date: 2026-08-14
+status: active
+type:
+tags:
+---
 1. Need to clarify is in summary table in terms of single source at plant level or Lilly-wide
 2. User Status to be able to filter on in Triage tab
 3. Add a blank comment column
