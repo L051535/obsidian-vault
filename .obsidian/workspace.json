@@ -25,12 +25,14 @@
             "id": "dc06cbf117fa9c4d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf"
+                "file": "00 Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GSOP-104-1-TL-6 Product Risk Assessment"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -237,10 +239,11 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "6c7ff0812cc4d24b",
+  "active": "dc06cbf117fa9c4d",
   "lastOpenFiles": [
-    "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
     "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf",
+    "00 Inbox/Untitled.md",
+    "01 Projects/NALO Kaizen/NALO Kaizen Index.md",
     "01 Projects/NALO Kaizen/Important Links.md",
     "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md",
     "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md",
@@ -273,7 +276,6 @@
     "01 Projects/5S Workshop/5S Workshop Index.md",
     "01 Projects/5S Workshop/5S Important Links.md",
     "01 Projects/Global Day of Service/Requesting PTO for GDOS.md",
-    "01 Projects/Global Day of Service/GSC GDOS Mailing List.md",
     "Uploaded Files/Pasted image 20260803121805.png",
     "Uploaded Files/Pasted image 20260428101338.png",
     "Uploaded Files/Pasted image 20260409145059.png",

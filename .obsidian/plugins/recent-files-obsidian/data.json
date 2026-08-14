@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "00 Inbox/Untitled.md"
+    },
+    {
       "basename": "GSOP-104-1-TL-6 Product Risk Assessment",
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Monthly Metric Update",
       "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
-    },
-    {
-      "basename": "Throughput Dashboard",
-      "path": "00 Inbox/Throughput Dashboard.md"
     }
   ],
   "omittedPaths": [],
