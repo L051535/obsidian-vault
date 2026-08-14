@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Questions for Ian Kleimans",
+      "path": "03 Resources/Claude Notes/Questions for Ian Kleimans.md"
+    },
+    {
+      "basename": "Claude MCP Config Locations",
+      "path": "03 Resources/Claude Notes/Claude MCP Config Locations.md"
+    },
+    {
       "basename": "Untitled",
       "path": "00 Inbox/Untitled.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "GSCSOP0125 Warehouse Capacity Process",
       "path": "03 Resources/NALO Trainings MD/GSCSOP0125 Warehouse Capacity Process.md"
-    },
-    {
-      "basename": "GLX-SOP-0012 TMS BSR",
-      "path": "03 Resources/NALO Trainings MD/GLX-SOP-0012 TMS BSR.md"
-    },
-    {
-      "basename": "Monthly Metric Update",
-      "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
     }
   ],
   "omittedPaths": [],
