@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Tavily Use Cases",
-      "path": "00 Inbox/Tavily Use Cases.md"
-    },
-    {
       "basename": "Changes to make for Country Derisking Claude Project",
       "path": "00 Inbox/Changes to make for Country Derisking Claude Project.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "Tavily Use Cases",
+      "path": "00 Inbox/Tavily Use Cases.md"
     },
     {
       "basename": "Everstream Claude Project",
@@ -159,10 +163,6 @@
     {
       "basename": "GSC GDOS Index",
       "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Metrics Dashboard Quick notes",
