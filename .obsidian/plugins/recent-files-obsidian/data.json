@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Throughput Dashboard",
+      "path": "00 Inbox/Throughput Dashboard.md"
+    },
+    {
+      "basename": "Tavily Use Cases",
+      "path": "00 Inbox/Tavily Use Cases.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00 Inbox/Untitled.md"
+    },
+    {
+      "basename": "Projects Index",
+      "path": "01 Projects/Projects Index.md"
+    },
+    {
       "basename": "Changes to make for Country Derisking Claude Project",
       "path": "00 Inbox/Changes to make for Country Derisking Claude Project.md"
     },
@@ -13,24 +29,12 @@
       "path": "00 Inbox/Nalo Capacity Model Password.md"
     },
     {
-      "basename": "Tavily Use Cases",
-      "path": "00 Inbox/Tavily Use Cases.md"
-    },
-    {
       "basename": "Council on MCP Veeva Writes",
       "path": "00 Inbox/Council on MCP Veeva Writes.md"
     },
     {
-      "basename": "Untitled",
-      "path": "00 Inbox/Untitled.md"
-    },
-    {
       "basename": "Everstream Claude Project",
       "path": "00 Inbox/Everstream Claude Project.md"
-    },
-    {
-      "basename": "Throughput Dashboard",
-      "path": "00 Inbox/Throughput Dashboard.md"
     },
     {
       "basename": "GLX-SOP-0012 TMS BSR",
@@ -135,10 +139,6 @@
     {
       "basename": "NALO PDC Index",
       "path": "02 Areas/NALO PDC/NALO PDC Index.md"
-    },
-    {
-      "basename": "Projects Index",
-      "path": "01 Projects/Projects Index.md"
     },
     {
       "basename": "Temptale GeoX Implementation Index",

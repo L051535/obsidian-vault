@@ -1,7 +1,7 @@
-Capacity Model Kaaron
 PowerBI Dashboard
-Kaizen
 5S 
-Claude Veeva Vault
+Kaizen
 LillyViz
+Capacity Model
+Claude Veeva Vault
 
