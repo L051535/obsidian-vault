@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Everstream Claude Project.md",
+                "file": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Everstream Claude Project"
+              "title": "Metrics Dashboard Quick notes"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,9 +240,10 @@
       "cmdr:Tasks: Create or edit task": false
     }
   },
-  "active": "dc06cbf117fa9c4d",
+  "active": "7da380ffae02f2f9",
   "lastOpenFiles": [
     "00 Inbox/Nalo Capacity Model Password.md",
+    "00 Inbox/Everstream Claude Project.md",
     "00 Inbox/Tavily Use Cases.md",
     "00 Inbox/Untitled.md",
     "01 Projects/Obsidian Dashboards/Home.md",
@@ -256,7 +258,6 @@
     "00 Inbox/Throughput Dashboard.md",
     "01 Projects/Projects Index.md",
     "00 Inbox/Council on MCP Veeva Writes.md",
-    "00 Inbox/Everstream Claude Project.md",
     "03 Resources/NALO Trainings MD/GLX-SOP-0012 TMS BSR.md",
     "03 Resources/NALO Trainings MD/DOHS067, Electrical Awareness Training-387.md",
     "03 Resources/NALO Trainings MD/CQP-304-10, Verification of Product Identifiers Associated with Distributed Product.md",
