@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day to Day Involvement",
+      "path": "02 Areas/Involvement Tracker/Day to Day Involvement.md"
+    },
+    {
       "basename": "Changes to make for Country Derisking Claude Project",
       "path": "00 Inbox/Changes to make for Country Derisking Claude Project.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Day 1 Notes",
       "path": "03 Resources/First 15-30 Days NALO/Day 1 Notes.md"
-    },
-    {
-      "basename": "NALO Trainings MOC",
-      "path": "03 Resources/NALO Trainings MD/NALO Trainings MOC.md"
     }
   ],
   "omittedPaths": [],
