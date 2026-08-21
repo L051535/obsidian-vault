@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "00 Inbox/Untitled 1.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "GSC GDOS Mailing List",
+      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
+    },
+    {
       "basename": "Metrics Dashboard Quick notes",
       "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Untitled",
       "path": "00 Inbox/Untitled.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Day to Day Involvement",
@@ -177,10 +185,6 @@
       "path": "01 Projects/Global Day of Service/Requesting PTO for GDOS.md"
     },
     {
-      "basename": "GSC GDOS Mailing List",
-      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
-    },
-    {
       "basename": "GSC GDOS Index",
       "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "One on Ones and Guidance",
       "path": "03 Resources/First 15-30 Days NALO/One on Ones and Guidance.md"
-    },
-    {
-      "basename": "Day 1 Notes",
-      "path": "03 Resources/First 15-30 Days NALO/Day 1 Notes.md"
     }
   ],
   "omittedPaths": [],
