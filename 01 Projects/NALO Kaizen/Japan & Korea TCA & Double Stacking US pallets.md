@@ -6,7 +6,9 @@ tags:
 ---
 David Kelley
 
-Japan & Korea affiliates can already accept and process US pallets 
+**Japan & Korea affiliates can already accept and process US Standard pallets**
+***HOWEVER CANNOT RECEIVE LILLY US PALLETS (48X42 rather than 48x40)***
+
 Korea still have active containers still until TCA lane opens in September October timeframe
 
 Japan has some recent meetings with IDAP engineering team pushing for agenda to remove wooden pallets from their facilities. Plastic US configuration (1 inch taller).  Test shipments for TCA to check plastic pallet issues. 
