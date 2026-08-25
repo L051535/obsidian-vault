@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "00 Inbox/Untitled 2.md"
+    },
+    {
       "basename": "2026-08-25-workflow-board-m0-m1-data-layer",
       "path": "00 Inbox/2026-08-25-workflow-board-m0-m1-data-layer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GSC GDOS Index",
       "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
-    },
-    {
-      "basename": "NALO Daily Process Team Huddle Process",
-      "path": "02 Areas/Daily Process Team Huddle/NALO Daily Process Team Huddle Process.md"
     }
   ],
   "omittedPaths": [],
