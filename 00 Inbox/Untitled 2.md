@@ -4,7 +4,7 @@ Once they got here we would have to get them replaced because they aren't charge
 
 label waits involves forwarders working with container companies better so they can get those labels over to us. airway bill labels (AWB) (similar to BOL ) assigned to specific shipments that operations team connects to the shipments/appropriate deliveries.
 
-David is working on a draft of a schedule to PACE & forwarders. He will consult with ops to align on if the schedule makes sense. this is to create more efficiency on truck wait times once they get here. if we can a day before let pace or forwarder know when we will have things ready for them, we don't have trucks waiting for them. or vice versa we are sitting with things on the floor waiting for them. 
+David is working on a draft of a schedule to PACE & forwarders. He will consult with ops to align on if the schedule makes sense. this is to create more efficiency on truck wait times once they get here. if we can a day before let pace or forwarder know when we will have things ready for them, we don't have trucks waiting for us. or vice versa we are sitting with things on the floor waiting for them. 
 
 BOL, look into printer with IT for export
 
