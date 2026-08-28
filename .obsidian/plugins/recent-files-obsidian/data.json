@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "follow up on metrics",
+      "path": "00 Inbox/follow up on metrics.md"
+    },
+    {
       "basename": "Untitled",
       "path": "00 Inbox/Untitled.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "00 Inbox/Untitled 2.md"
     },
     {
       "basename": "2026-08-25-workflow-board-m0-m1-data-layer",
@@ -15,10 +23,6 @@
     {
       "basename": "Items to Cover",
       "path": "00 Inbox/Items to Cover.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "00 Inbox/Untitled 2.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "Requesting PTO for GDOS",
       "path": "01 Projects/Global Day of Service/Requesting PTO for GDOS.md"
-    },
-    {
-      "basename": "GSC GDOS Index",
-      "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
     }
   ],
   "omittedPaths": [],
