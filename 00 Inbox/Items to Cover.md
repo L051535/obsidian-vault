@@ -1,3 +1,4 @@
+Throughput Dashboard
 PowerBI Dashboard
 5S 
 Kaizen
