@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "00 Inbox/Untitled 1.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
       "basename": "follow up on metrics",
       "path": "00 Inbox/follow up on metrics.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Items to Cover",
       "path": "00 Inbox/Items to Cover.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "Japan & Korea TCA & Double Stacking US pallets",
@@ -195,10 +199,6 @@
     {
       "basename": "5S Important Links",
       "path": "01 Projects/5S Workshop/5S Important Links.md"
-    },
-    {
-      "basename": "Requesting PTO for GDOS",
-      "path": "01 Projects/Global Day of Service/Requesting PTO for GDOS.md"
     }
   ],
   "omittedPaths": [],
