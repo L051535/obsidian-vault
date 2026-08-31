@@ -88,7 +88,6 @@
   "04 Archive/SCRM": "LiAlertTriangle",
   "04 Archive/Supply Chain Resiliency/Optimus/Optimus.md": "LiLibrarySquare",
   "04 Archive/Supply Chain Resiliency/Supplier of Focus/Supplier of Focus.md": "LiLibrarySquare",
-  "04 Archive/Supply Chain Resiliency/Everstream/Everstream.md": "LiLibrarySquare",
   "04 Archive/Supply Chain Resiliency/Foundayo Theft Risk/Foundayo Theft.md": "LiLibrarySquare",
   "05 Zettelkasten": "LiLayers",
   "01 Projects/LillyViz": "LiChartColumnBig",
@@ -106,5 +105,6 @@
   "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md": "LiLibrarySquare",
   "01 Projects/NALO Kaizen/NALO Kaizen Index.md": "LiLibrarySquare",
   "01 Projects/Temptale GeoX Implementation/Temptale GeoX Implementation Index.md": "LiLibrarySquare",
-  "02 Areas/NALO PDC": "LiWarehouse"
+  "02 Areas/NALO PDC": "LiWarehouse",
+  "01 Projects/Everstream/Everstream.md": "LiLibrarySquare"
 }
