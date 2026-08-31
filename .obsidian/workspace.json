@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Untitled 1.md",
+                "file": "00 Inbox/People to Get Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "People to Get Access"
             }
           }
         ],
@@ -242,7 +242,7 @@
   "active": "dc06cbf117fa9c4d",
   "lastOpenFiles": [
     "01 Projects/Obsidian Dashboards/Home.md",
-    "00 Inbox/Untitled 1.md",
+    "00 Inbox/People to Get Access.md",
     "00 Inbox/Untitled.md",
     "00 Inbox/follow up on metrics.md",
     "00 Inbox/Untitled 2.md",
