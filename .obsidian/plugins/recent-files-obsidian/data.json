@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Day to Day Involvement",
+      "path": "02 Areas/Involvement Tracker/Day to Day Involvement.md"
+    },
+    {
+      "basename": "NALO PDC Index",
+      "path": "02 Areas/NALO PDC/NALO PDC Index.md"
+    },
+    {
+      "basename": "Metrics Dashboard Index",
+      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md"
+    },
+    {
+      "basename": "Metrics Dashboard Quick notes",
+      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
+    },
+    {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
@@ -75,14 +91,6 @@
     {
       "basename": "GDOS To Do Actions",
       "path": "01 Projects/Global Day of Service/GDOS To Do Actions.md"
-    },
-    {
-      "basename": "Metrics Dashboard Quick notes",
-      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
-    },
-    {
-      "basename": "Day to Day Involvement",
-      "path": "02 Areas/Involvement Tracker/Day to Day Involvement.md"
     },
     {
       "basename": "Deviation Training Map",
@@ -185,20 +193,12 @@
       "path": "01 Projects/Export Ramp Up/NALO Export Ramp Up.md"
     },
     {
-      "basename": "NALO PDC Index",
-      "path": "02 Areas/NALO PDC/NALO PDC Index.md"
-    },
-    {
       "basename": "Temptale GeoX Implementation Index",
       "path": "01 Projects/Temptale GeoX Implementation/Temptale GeoX Implementation Index.md"
     },
     {
       "basename": "TempTale GeoX Meeting Jul-24",
       "path": "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md"
-    },
-    {
-      "basename": "Metrics Dashboard Index",
-      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md"
     }
   ],
   "omittedPaths": [],

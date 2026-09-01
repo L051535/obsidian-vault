@@ -12,9 +12,7 @@ tags:
 - How do we standardize output 
 
 ## Note about Contractor Hours: 
-Steve, there are two other contract groups, ATL (Susan Grdina) and Brooksource (Kyle Cheek).  When you reach out to them, make sure you let them know just positions for operations.  ATL is staffing contractors for Quality.  The only two we have from Brooksource are the Tech Writers.
-
-
+Steve, there are two other contract groups, ATL (Susan Grdina) and Brooksource (Kyle Cheek). When you reach out to them, make sure you let them know just positions for operations.  ATL is staffing contractors for Quality.  The only two we have from Brooksource are the Tech Writers.
 
 Set up Kaizen meeting with Yughandar & Brandon
 Follow up 5S
