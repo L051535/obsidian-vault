@@ -1,20 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Day to Day Involvement",
-      "path": "02 Areas/Involvement Tracker/Day to Day Involvement.md"
+      "basename": "General SAP and EWM Fields",
+      "path": "02 Areas/NALO PDC/General SAP and EWM Fields.md"
+    },
+    {
+      "basename": "Monthly Metric Update",
+      "path": "02 Areas/NALO Monthly Metrics/Monthly Metric Update.md"
     },
     {
       "basename": "NALO PDC Index",
       "path": "02 Areas/NALO PDC/NALO PDC Index.md"
     },
     {
-      "basename": "Metrics Dashboard Index",
-      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md"
+      "basename": "Projects Index",
+      "path": "01 Projects/Projects Index.md"
+    },
+    {
+      "basename": "Japan & Korea TCA & Double Stacking US pallets",
+      "path": "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md"
+    },
+    {
+      "basename": "Important Links",
+      "path": "01 Projects/NALO Kaizen/Important Links.md"
+    },
+    {
+      "basename": "IDAP US Pallet Implementation Q&A",
+      "path": "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md"
     },
     {
       "basename": "Metrics Dashboard Quick notes",
       "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
+    },
+    {
+      "basename": "GDOS To Do Actions",
+      "path": "01 Projects/Global Day of Service/GDOS To Do Actions.md"
+    },
+    {
+      "basename": "GSC GDOS Mailing List",
+      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
+    },
+    {
+      "basename": "GSC GDOS Index",
+      "path": "01 Projects/Global Day of Service/GSC GDOS Index.md"
+    },
+    {
+      "basename": "Everstream",
+      "path": "01 Projects/Everstream/Everstream.md"
+    },
+    {
+      "basename": "4-28-2026 Meeting",
+      "path": "01 Projects/Everstream/4-28-2026 Meeting.md"
+    },
+    {
+      "basename": "Day to Day Involvement",
+      "path": "02 Areas/Involvement Tracker/Day to Day Involvement.md"
+    },
+    {
+      "basename": "Metrics Dashboard Index",
+      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md"
     },
     {
       "basename": "Home",
@@ -23,10 +67,6 @@
     {
       "basename": "ZS163n Data Transition",
       "path": "01 Projects/Everstream/ZS163n Data Transition.md"
-    },
-    {
-      "basename": "4-28-2026 Meeting",
-      "path": "01 Projects/Everstream/4-28-2026 Meeting.md"
     },
     {
       "basename": "Untitled",
@@ -61,14 +101,6 @@
       "path": "00 Inbox/Items to Cover.md"
     },
     {
-      "basename": "Japan & Korea TCA & Double Stacking US pallets",
-      "path": "01 Projects/NALO Kaizen/Japan & Korea TCA & Double Stacking US pallets.md"
-    },
-    {
-      "basename": "IDAP US Pallet Implementation Q&A",
-      "path": "01 Projects/NALO Kaizen/IDAP US Pallet Implementation Q&A.md"
-    },
-    {
       "basename": "Nalo Capacity Model Password",
       "path": "00 Inbox/Nalo Capacity Model Password.md"
     },
@@ -85,20 +117,8 @@
       "path": "00 Inbox/Changes to make for Country Derisking Claude Project.md"
     },
     {
-      "basename": "GSC GDOS Mailing List",
-      "path": "01 Projects/Global Day of Service/GSC GDOS Mailing List.md"
-    },
-    {
-      "basename": "GDOS To Do Actions",
-      "path": "01 Projects/Global Day of Service/GDOS To Do Actions.md"
-    },
-    {
       "basename": "Deviation Training Map",
       "path": "02 Areas/Deviations/Deviation Training Map.md"
-    },
-    {
-      "basename": "Projects Index",
-      "path": "01 Projects/Projects Index.md"
     },
     {
       "basename": "GLX-SOP-0012 TMS BSR",
@@ -161,10 +181,6 @@
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf"
     },
     {
-      "basename": "Important Links",
-      "path": "01 Projects/NALO Kaizen/Important Links.md"
-    },
-    {
       "basename": "Questions for IDAP Customer Service",
       "path": "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "USD-SOP-Recalls and Mkt Wdrawals-001",
       "path": "03 Resources/NALO Trainings MD/USD-SOP-Recalls and Mkt Wdrawals-001.md"
-    },
-    {
-      "basename": "NALO Export Ramp Up Notes",
-      "path": "01 Projects/Export Ramp Up/NALO Export Ramp Up Notes.md"
-    },
-    {
-      "basename": "NALO Export Ramp Up",
-      "path": "01 Projects/Export Ramp Up/NALO Export Ramp Up.md"
-    },
-    {
-      "basename": "Temptale GeoX Implementation Index",
-      "path": "01 Projects/Temptale GeoX Implementation/Temptale GeoX Implementation Index.md"
-    },
-    {
-      "basename": "TempTale GeoX Meeting Jul-24",
-      "path": "01 Projects/Temptale GeoX Implementation/TempTale GeoX Meeting Jul-24.md"
     }
   ],
   "omittedPaths": [],
