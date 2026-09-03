@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "01 Projects/Obsidian Dashboards/Home.md"
+    },
+    {
+      "basename": "Docker Installation",
+      "path": "00 Inbox/Docker Installation.md"
+    },
+    {
+      "basename": "follow up on metrics",
+      "path": "00 Inbox/follow up on metrics.md"
+    },
+    {
+      "basename": "Items to Cover",
+      "path": "00 Inbox/Items to Cover.md"
+    },
+    {
+      "basename": "MMBE PowerBI Notes",
+      "path": "00 Inbox/MMBE PowerBI Notes.md"
+    },
+    {
+      "basename": "Nalo Capacity Model Password",
+      "path": "00 Inbox/Nalo Capacity Model Password.md"
+    },
+    {
+      "basename": "Council on MCP Veeva Writes",
+      "path": "00 Inbox/Council on MCP Veeva Writes.md"
+    },
+    {
       "basename": "GDOS To Do Actions",
       "path": "01 Projects/Global Day of Service/GDOS To Do Actions.md"
     },
@@ -25,18 +53,6 @@
       "path": "02 Areas/Involvement Tracker/Day to Day Involvement.md"
     },
     {
-      "basename": "follow up on metrics",
-      "path": "00 Inbox/follow up on metrics.md"
-    },
-    {
-      "basename": "Items to Cover",
-      "path": "00 Inbox/Items to Cover.md"
-    },
-    {
-      "basename": "Council on MCP Veeva Writes",
-      "path": "00 Inbox/Council on MCP Veeva Writes.md"
-    },
-    {
       "basename": "Changes to make for Country Derisking Claude Project",
       "path": "00 Inbox/Changes to make for Country Derisking Claude Project.md"
     },
@@ -47,14 +63,6 @@
     {
       "basename": "Kaizen Summary IDAP CS",
       "path": "01 Projects/NALO Kaizen/Kaizen Summary IDAP CS.md"
-    },
-    {
-      "basename": "MMBE PowerBI Notes",
-      "path": "00 Inbox/MMBE PowerBI Notes.md"
-    },
-    {
-      "basename": "Nalo Capacity Model Password",
-      "path": "00 Inbox/Nalo Capacity Model Password.md"
     },
     {
       "basename": "Kaizen Items Transportation Summary",
@@ -103,10 +111,6 @@
     {
       "basename": "Metrics Dashboard Index",
       "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Index.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
     {
       "basename": "ZS163n Data Transition",
@@ -195,10 +199,6 @@
     {
       "basename": "SCRM Council – March",
       "path": "04 Archive/SCRM/SCRM Council – March.md"
-    },
-    {
-      "basename": "USD-SOP-Recalls and Mkt Wdrawals-001",
-      "path": "03 Resources/NALO Trainings MD/USD-SOP-Recalls and Mkt Wdrawals-001.md"
     }
   ],
   "omittedPaths": [],
