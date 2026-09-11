@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Physical Inventory Meeting Note",
+      "path": "01 Projects/Physical Inventory/Physical Inventory Meeting Note.md"
+    },
+    {
+      "basename": "Physical Inventory",
+      "path": "01 Projects/Physical Inventory/Physical Inventory.md"
+    },
+    {
+      "basename": "2026-08-25-workflow-board-m0-m1-data-layer",
+      "path": "00 Inbox/2026-08-25-workflow-board-m0-m1-data-layer.md"
+    },
+    {
       "basename": "Brandon One on One",
       "path": "00 Inbox/Brandon One on One.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "Day to Day Involvement",
       "path": "02 Areas/Involvement Tracker/Day to Day Involvement.md"
-    },
-    {
-      "basename": "2026-08-25-workflow-board-m0-m1-data-layer",
-      "path": "00 Inbox/2026-08-25-workflow-board-m0-m1-data-layer.md"
     },
     {
       "basename": "Kaizen Summary IDAP CS",
@@ -169,10 +177,6 @@
       "path": "01 Projects/NALO Kaizen/NALO Kaizen Index.md"
     },
     {
-      "basename": "Physical Inventory",
-      "path": "01 Projects/Physical Inventory/Physical Inventory.md"
-    },
-    {
       "basename": "GSOP-104-3-TL-5 AI for Deviations",
       "path": "03 Resources/NALO Trainings MD/GSOP-104-3-TL-5 AI for Deviations.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Questions for IDAP Customer Service",
       "path": "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md"
-    },
-    {
-      "basename": "Archive Index",
-      "path": "04 Archive/Archive Index.md"
     }
   ],
   "omittedPaths": [],
