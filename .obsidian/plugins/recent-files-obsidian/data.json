@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Brandon One on One",
+      "path": "00 Inbox/Brandon One on One.md"
+    },
+    {
+      "basename": "Metrics Dashboard Quick notes",
+      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00 Inbox/Untitled.md"
+    },
+    {
+      "basename": "Co-pilot Capacity Chat",
+      "path": "01 Projects/Capacity Modeling/Co-pilot Capacity Chat.md"
+    },
+    {
+      "basename": "Nalo Capacity Model Password",
+      "path": "00 Inbox/Nalo Capacity Model Password.md"
+    },
+    {
       "basename": "Home",
       "path": "01 Projects/Obsidian Dashboards/Home.md"
     },
@@ -25,10 +45,6 @@
       "path": "00 Inbox/MMBE PowerBI Notes.md"
     },
     {
-      "basename": "Nalo Capacity Model Password",
-      "path": "00 Inbox/Nalo Capacity Model Password.md"
-    },
-    {
       "basename": "Docker Installation",
       "path": "00 Inbox/Docker Installation.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Council on MCP Veeva Writes",
       "path": "00 Inbox/Council on MCP Veeva Writes.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "00 Inbox/Untitled.md"
     },
     {
       "basename": "NALO Lilly Viz Hierarchy & Admins",
@@ -59,10 +71,6 @@
     {
       "basename": "Map Swipe Training (Red Cross Remote Project)",
       "path": "01 Projects/Global Day of Service/Map Swipe Training (Red Cross Remote Project).md"
-    },
-    {
-      "basename": "Metrics Dashboard Quick notes",
-      "path": "01 Projects/Metrics Dashboard/Metrics Dashboard Quick notes.md"
     },
     {
       "basename": "Day to Day Involvement",
@@ -191,14 +199,6 @@
     {
       "basename": "Archive Index",
       "path": "04 Archive/Archive Index.md"
-    },
-    {
-      "basename": "April Monthly Org Meeting",
-      "path": "04 Archive/D&T Monthly Meeting/April Monthly Org Meeting.md"
-    },
-    {
-      "basename": "SCRM Council – March",
-      "path": "04 Archive/SCRM/SCRM Council – March.md"
     }
   ],
   "omittedPaths": [],
