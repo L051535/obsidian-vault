@@ -1,0 +1,1 @@
+- 30 Cases and above bulk pick is

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "General Notes",
+      "path": "01 Projects/Capacity Modeling/General Notes.md"
+    },
+    {
+      "basename": "Nalo Capacity Model Password",
+      "path": "01 Projects/Capacity Modeling/Nalo Capacity Model Password.md"
+    },
+    {
+      "basename": "Co-pilot Capacity Chat",
+      "path": "01 Projects/Capacity Modeling/Co-pilot Capacity Chat.md"
+    },
+    {
       "basename": "Physical Inventory Meeting Note",
       "path": "01 Projects/Physical Inventory/Physical Inventory Meeting Note.md"
     },
@@ -23,14 +35,6 @@
     {
       "basename": "Untitled",
       "path": "00 Inbox/Untitled.md"
-    },
-    {
-      "basename": "Co-pilot Capacity Chat",
-      "path": "01 Projects/Capacity Modeling/Co-pilot Capacity Chat.md"
-    },
-    {
-      "basename": "Nalo Capacity Model Password",
-      "path": "00 Inbox/Nalo Capacity Model Password.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "GSOP-104-1-TL-6 Product Risk Assessment",
       "path": "Uploaded Files/NALO Trainings PDF/GSOP-104-1-TL-6 Product Risk Assessment.pdf"
-    },
-    {
-      "basename": "Questions for IDAP Customer Service",
-      "path": "01 Projects/NALO Kaizen/Questions for IDAP Customer Service.md"
     }
   ],
   "omittedPaths": [],
