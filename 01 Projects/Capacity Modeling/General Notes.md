@@ -1,1 +1,1 @@
-- 30 Cases and above bulk pick is
+- 30 Cases and above bulk pick is faster than each and case pick
